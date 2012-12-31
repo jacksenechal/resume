@@ -1,0 +1,12 @@
+#!/bin/bash
+
+pandoc resume.md -o resume.html -t html5 \
+  --standalone \
+  --email-obfuscation=references \
+  --data-dir=pandoc \
+  --include-in-header=pandoc/header_styles.html \
+  --include-after-body=pandoc/footer.html
+
+pandoc resume.md -o resume.odt --reference-odt=pandoc/reference.odt
+
+libreoffice --headless --convert-to doc resume.odt
