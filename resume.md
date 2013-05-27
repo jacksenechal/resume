@@ -9,10 +9,10 @@ Summary
 
 **Experience:**
 
--   Entrepreneurship
 -   Software Engineering
 -   Web applications development
 -   Project management
+-   Entrepreneurship
 
 **Strengths:**
 
@@ -30,9 +30,9 @@ Summary
 Languages, Technologies and Interests
 -------------------------------------
 
-Programming experience with Ruby, Rails, JavaScript, jQuery, PHP, ActionScript,
-Flex, SuperCollider, and MySQL databases. Limited experience with C++, Java,
-Perl and Python.
+Programming experience with Ruby, Rails, JavaScript, CoffeeScript, jQuery,
+PHP, ActionScript, Flex, SuperCollider, and MySQL databases. Limited
+experience with C++, Java, Perl and Python.
 
 Test automation experience with Ruby, Rails, PHP, Selenium, and some
 ActionScript.
@@ -54,7 +54,20 @@ Bachelor of Arts from the University of North Carolina at Asheville
 Experience
 ----------
 
-**OpenTest Pro, LLC** JAN 2008 - 2011
+**Enlightened Structure** 2007 - current
+
+-   Co-founding the enlightened structure meme and associated projects to
+    facilitate the emergence of an open, decentralized global
+    infrastructure for applications to make use of rich cloud data such as
+    identity, reputation, and commons licensed content, and to lead the way
+    with reference applications such as a forking-based collaboration
+    engine and visualization tools for navigating the global semantic
+    graph.
+-   Research and synthesis of information on candidate technologies
+-   Code contributions to related projects (primarily written in Ruby and
+    JavaScript)
+
+**OpenTest Pro, LLC** 2008 - 2011
 
 -   Founded the company to provide educational resources relating to
     automated testing and continuous integration using open source tools
@@ -89,13 +102,11 @@ Experience
 
 **JBA Network - Asheville, NC** JUNE 2003 - DEC 2006
 
--   Project manager and lead programmer for medium-scale web
-    application, www.mynewsletterbuilder.com (MNB). Designed the
-    application and wrote the initial release mostly by my self. Later
-    oversaw the development team for the project. MNB is currently one
-    of the main sources of income for the company.
--   Developed a modular, object oriented MVC programming framework for
-    PHP.
+-   Project manager and lead programmer for medium-scale web application,
+    mynewsletterbuilder.com. Designed the application and coded the initial
+    release. Later oversaw the ongoing development team for the project.
+    MNB remains one of the primary revenue sources for the company.
+-   Developed a modular, evented, MVC programming framework for PHP.
 -   Concept development, project management, and programming for other
     company products and services, including www.jukeboxalive.com and
     www.byregion.net.
