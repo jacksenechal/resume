@@ -44,7 +44,7 @@ everything, mountain biking, snow sports, and meditation.
 Education
 ---------
 
-Bachelor of Arts from the University of North Carolina at Asheville
+Bachelor of Arts from the [University of North Carolina at Asheville][]
 (May, 2003)
 
 -   Major in mathematics, minor in computer science
@@ -54,7 +54,7 @@ Bachelor of Arts from the University of North Carolina at Asheville
 Experience
 ----------
 
-**Enlightened Structure** 2007 - current
+**[Enlightened Structure][]** 2007 - current
 
 -   Co-founding the enlightened structure meme and associated projects to
     facilitate the emergence of an open, decentralized global
@@ -67,7 +67,7 @@ Experience
 -   Code contributions to related projects (primarily written in Ruby and
     JavaScript)
 
-**OpenTest Pro, LLC** 2008 - 2011
+**[OpenTest Pro, LLC][]** 2008 - 2011
 
 -   Founded the company to provide educational resources relating to
     automated testing and continuous integration using open source tools
@@ -78,17 +78,17 @@ Experience
 
 **Independent Contracting** 2004 - 2009
 
--   Turnull & Asser - shirtmakers (2008-2009). Built a virtual showroom
+-   [Turnull & Asser][] - shirtmakers (2008-2009). Built a virtual showroom
     for their bespoke department, allowing users to browse fabrics and
     place orders. Ruby on Rails backend, Flash frontend.
--   Idance.net - video dance instruction (2004-2005). Designed and
+-   [Idance.net][] - video dance instruction (2004-2005). Designed and
     implemented an e-commerce site in PHP and MySQL. Pay-per-download
     purchasing, content browsing and searching, back-end for the client
     to manage the site with detailed admin reports on purchases and user
     activity.
 -   Various smaller websites and components.
 
-**OnForce, Inc - New York, NY** JUNE 2006 - DEC 2007
+**[OnForce, Inc][] - New York, NY** JUNE 2006 - DEC 2007
 
 -   Programmed features and updates to the OnForce platform.
 -   Introduced automated testing with PHPUnit. Implemented tests for
@@ -100,7 +100,7 @@ Experience
 -   Project managed the implementation of Salesforce throughout the
     company, and oversaw the administration of the application.
 
-**JBA Network - Asheville, NC** JUNE 2003 - DEC 2006
+**[JBA Network][] - Asheville, NC** JUNE 2003 - DEC 2006
 
 -   Project manager and lead programmer for medium-scale web application,
     mynewsletterbuilder.com. Designed the application and coded the initial
@@ -114,10 +114,10 @@ Experience
 
 **US Navy FNMOD - Asheville, NC** MAY 2001 - AUG 2001
 
--   Programmer, database designer. Migrated Navy weather data from a
-    flat text format to a MySQL database. Wrote a Java application for
-    quality checking weather data, and converting it to a
-    MySQL-accessible format.
+-   Programmer, database designer for the Fleet Numerical Meteorology and
+    Oceanography Detachment. Migrated Navy weather data from a flat text
+    format to a MySQL database. Wrote a Java application for quality checking
+    weather data, and converting it to a MySQL-accessible format.
 
 **Freelance - Sydney, Australia** DEC 1999 - DEC 2000
 
@@ -139,4 +139,12 @@ Experience
     support.
 
 ***Excellent References Available Upon Request***
+
+[University of North Carolina at Asheville]: http://unca.edu
+[Enlightened Structure]: http://enlightenedstructure.org
+[OpenTest Pro, LLC]: http://opentestpro.com
+[Turnull & Asser]: http://turnbullandasser.com
+[Idance.net]: http://idance.net
+[OnForce, Inc]: http://onforce.com
+[JBA Network]: http://jbanetwork.com
 
