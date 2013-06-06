@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pandoc resume.md -o resume.html -t html5 \
+pandoc resume.md -o index.html -t html5 \
   --standalone \
   --email-obfuscation=references \
   --data-dir=_pandoc \
