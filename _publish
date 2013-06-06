@@ -3,12 +3,12 @@
 pandoc resume.md -o resume.html -t html5 \
   --standalone \
   --email-obfuscation=references \
-  --data-dir=pandoc \
-  --include-in-header=pandoc/header_styles.html \
-  --include-after-body=pandoc/footer.html \
+  --data-dir=_pandoc \
+  --include-in-header=_pandoc/header_styles.html \
+  --include-after-body=_pandoc/footer.html \
   --variable="pagetitle:Resume :: Jack Senechal"
 
-pandoc resume.md -o resume.odt --reference-odt=pandoc/reference.odt
+pandoc resume.md -o resume.odt --reference-odt=_pandoc/reference.odt
 
 libreoffice --headless --convert-to doc resume.odt
 libreoffice --headless --convert-to pdf resume.odt
