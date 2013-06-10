@@ -30,9 +30,9 @@ Summary
 Languages, Technologies and Interests
 -------------------------------------
 
-Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js,
-jQuery, PHP, ActionScript, Flex, SuperCollider, and MySQL databases. Limited
-experience with C++, Java, Perl and Python.
+Programming experience with Ruby, Rails, JavaScript, CoffeeScript,
+Node.js, jQuery, D3, PHP, ActionScript, Flex, SuperCollider, and MySQL
+databases. Limited experience with C++, Java, Perl and Python.
 
 Test automation experience with Ruby, Rails, PHP, Selenium, and some
 ActionScript.
