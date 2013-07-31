@@ -78,7 +78,7 @@ Experience
 
 **Independent Contracting** 2004 - 2009
 
--   [Turnull & Asser][] - shirtmakers (2008-2009). Built a virtual showroom
+-   [Turnbull & Asser][] - shirtmakers (2008-2009). Built a virtual showroom
     for their bespoke department, allowing users to browse fabrics and
     place orders. Ruby on Rails backend, Flash frontend.
 -   [Idance.net][] - video dance instruction (2004-2005). Designed and
@@ -143,7 +143,7 @@ Experience
 [University of North Carolina at Asheville]: http://unca.edu
 [Enlightened Structure]: http://enlightenedstructure.org
 [OpenTest Pro, LLC]: http://opentestpro.com
-[Turnull & Asser]: http://turnbullandasser.com
+[Turnbull & Asser]: http://turnbullandasser.com
 [Idance.net]: http://idance.net
 [OnForce, Inc]: http://onforce.com
 [JBA Network]: http://jbanetwork.com
