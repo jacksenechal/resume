@@ -4,28 +4,34 @@ Jack Senechal
 1901 8th St, Berkeley, CA 94710  
 T: 415-779-2701 E: <jacksenechal@gmail.com>
 
-Summary
--------
+Who I Am
+--------
 
-**Experience:**
+- Wizard/mage/initiate
+- Architect of complex systems
+- Emergence facilitator
+- Best practices advocate
+- Fearless innovator
+- Existentially intolerant of status quo
 
--   Software Engineering
--   Web applications development
--   Project management
--   Entrepreneurship
+What I Want (In a Job)
+----------------------
 
-**Strengths:**
+- A community of peers to challenge and invigorate my abilities
+- Environment of innovation
+- Strong team with Agile best practices
+- A platform to launch some very big ideas
 
--   Mathematical problem solving approach
--   Attention to fine details
--   Great team-work and collaboration
--   Ability to synthesize ideas and organize information sets
+Areas of Professional Interest
+------------------------------
 
-**Passions:**
-
--   Seeing the big picture
--   Clear, responsive user interfaces
--   Clean code, flexible architecture
+- Data portability: open, liquid, free-flowing data via lucid standards
+- Engineering for emergence:
+  - tools for community self-organization  
+    (identity, trust, collaboration, annotation)
+  - application/data ecosystems
+- Innovative UIs for web apps: Famo.us, D3
+- Cloud infrastructure
 
 Languages, Technologies and Interests
 -------------------------------------
