@@ -14,8 +14,8 @@ Who I Am
 - Fearless innovator
 - Existentially intolerant of status quo
 
-What I Want (In a Job)
-----------------------
+What I Seek in a Job
+--------------------
 
 - A community of peers to challenge and invigorate my abilities
 - A vibrant environment of innovation
@@ -158,6 +158,7 @@ Industry Experience
 
 [University of North Carolina at Asheville]: http://unca.edu
 [Enlightened Structure]: http://enlightenedstructure.org
+[Superluminal Systems]: http://superluminal.is/
 [OpenTest Pro, LLC]: http://opentestpro.com
 [Turnbull & Asser]: http://turnbullandasser.com
 [Idance.net]: http://idance.net
