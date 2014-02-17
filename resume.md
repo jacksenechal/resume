@@ -7,9 +7,9 @@ T: 415-779-2701 E: <jacksenechal@gmail.com>
 Who I Am
 --------
 
-- Wizard/mage/initiate
+- Seer/mage/initiate
 - Architect of complex systems
-- Emergence facilitator
+- Facilitator of emergence
 - Best practices advocate
 - Fearless innovator
 - Existentially intolerant of status quo
@@ -18,34 +18,35 @@ What I Want (In a Job)
 ----------------------
 
 - A community of peers to challenge and invigorate my abilities
-- Environment of innovation
-- Strong team with Agile best practices
-- A platform to launch some very big ideas
+- A vibrant environment of innovation
+- A strong team with Agile best practices
+- A platform to launch big ideas
+
+Languages and Technologies
+--------------------------
+
+Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js, jQuery, D3, PHP,
+ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and Python.
+
+Deeply fammiliar with MVC.
+
+Experience with automated testing in JavaScript, Ruby, PHP, Selenium, and ActionScript.
+
+Most comfortable developing with Vim on Linux.
 
 Areas of Professional Interest
 ------------------------------
 
-- Data portability: open, liquid, free-flowing data via lucid standards
-- Engineering for emergence:
-  - tools for community self-organization  
-    (identity, trust, collaboration, annotation)
-  - application/data ecosystems
-- Innovative UIs for web apps: Famo.us, D3
-- Cloud infrastructure
+- Tools for community self-organization: identity, trust, collaboration, annotation
+- Application and data ecosystems
+- Innovative UIs for web apps (eg. with Famo.us, D3)
+- Client-side web applications
 
-Languages, Technologies and Interests
--------------------------------------
+Other Interests
+---------------
 
-Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js,
-jQuery, D3, PHP, ActionScript, Flex, SuperCollider, and MySQL databases. Limited
-experience with C++, Java, Perl and Python.
-
-Test automation experience with Ruby, Rails, PHP, Selenium, and some
-ActionScript.
-
-Other interests include agile development, design patterns, human-computer
-interaction, appropriate technology, sustainable development, open source
-everything, mountain biking, snow sports, and meditation.
+Agile development, design patterns, human-computer interaction, appropriate technology,
+sustainable development, open sourcing everything, mountain biking, snow sports, and meditation.
 
 Education
 ---------
@@ -72,6 +73,9 @@ Open Source Projects
 -   Code contributions to related projects (primarily written in Ruby and
     JavaScript)
 
+**[Skype Links Chrome Extension][]** 2011
+
+-   A Chrome extension to make `callto:` or `skype:` links out of phone numbers on web pages
 
 Industry Experience
 -------------------
@@ -159,4 +163,4 @@ Industry Experience
 [Idance.net]: http://idance.net
 [OnForce, Inc]: http://onforce.com
 [JBA Network]: http://jbanetwork.com
-
+[Skype Links Chrome Extension]: https://chrome.google.com/webstore/detail/skype-links/epbmllnadbdnppblcebkkmapkinkdchd
