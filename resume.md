@@ -2,25 +2,29 @@ Jack Senechal
 =============
 
 1901 8th St, Berkeley, CA 94710  
-T: 415-779-2701 E: <jacksenechal@gmail.com>
+415-779-2701 ♦ <jacksenechal@gmail.com>  
+[jacksenechal.com/resume][] ♦ [github.com/jacksenechal][]
 
-Who I Am
---------
+Introduction
+------------
 
-- Seer/mage/initiate
-- Architect of complex systems
-- Facilitator of emergence
-- Best practices advocate
-- Fearless innovator
-- Existentially intolerant of status quo
+I am an engineer with a passion for the future. I wish to see clean and lucid technology guiding
+the world's vector of change toward the long-term greatest good of humanity. I have a deep
+interest in the architecture of complex systems and facilitating emergence. I value foresight,
+innovation, multidimensional thinking, and appropriate application of technology. I am
+existentially intolerant of the status quo.
 
-What I Seek in a Job
---------------------
+My current professional interests include building tools for community self-organization,
+including tools for identity, trust, collaboration, annotation, and discovery. I'm fascinated with
+application and data ecosystems, and would like to see more flexibility and crossover between
+systems. Other interests include human-computer interaction, appropriate technology, sustainable
+development, open source everything, mountain biking, snow sports, and meditation.
 
-- A community of peers to challenge and invigorate my abilities
-- A vibrant environment of innovation
-- A strong team with Agile best practices
-- A platform to launch big ideas
+I bring 10+ years of industry experience. My ideal workplace has a vibrant environment of
+innovation, a strong team practicing Agile methodologies, and a culture of excellence. It is more
+than a day job, it is a platform to launch big ideas. I have played many roles over the years, and
+am open to the right job, whatever form that takes. If you think you have a great position for me,
+let's discuss.
 
 Languages and Technologies
 --------------------------
@@ -28,25 +32,11 @@ Languages and Technologies
 Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js, jQuery, D3, PHP,
 ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and Python.
 
-Deeply fammiliar with MVC.
+Deeply familiar with MVC.
 
 Experience with automated testing in JavaScript, Ruby, PHP, Selenium, and ActionScript.
 
 Most comfortable developing with Vim on Linux.
-
-Areas of Professional Interest
-------------------------------
-
-- Tools for community self-organization: identity, trust, collaboration, annotation
-- Application and data ecosystems
-- Innovative UIs for web apps (eg. with Famo.us, D3)
-- Client-side web applications
-
-Other Interests
----------------
-
-Agile development, design patterns, human-computer interaction, appropriate technology,
-sustainable development, open sourcing everything, mountain biking, snow sports, and meditation.
 
 Education
 ---------
@@ -165,3 +155,5 @@ Industry Experience
 [OnForce, Inc]: http://onforce.com
 [JBA Network]: http://jbanetwork.com
 [Skype Links Chrome Extension]: https://chrome.google.com/webstore/detail/skype-links/epbmllnadbdnppblcebkkmapkinkdchd
+[jacksenechal.com/resume]: http://jacksenechal.com/resume
+[github.com/jacksenechal]: https://github.com/jacksenechal
