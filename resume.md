@@ -2,8 +2,8 @@ Jack Senechal
 =============
 
 1901 8th St, Berkeley, CA 94710  
-415-779-2701 ♦ <jacksenechal@gmail.com>  
-[jacksenechal.com/resume][] ♦ [github.com/jacksenechal][]
+415-779-2701 ⬧ <jacksenechal@gmail.com>  
+[jacksenechal.com/resume][] ⬧ [github.com/jacksenechal][]
 
 Introduction
 ------------
@@ -31,8 +31,6 @@ Languages and Technologies
 
 Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js, jQuery, D3, PHP,
 ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and Python.
-
-Deeply familiar with MVC.
 
 Experience with automated testing in JavaScript, Ruby, PHP, Selenium, and ActionScript.
 
@@ -66,11 +64,12 @@ Open Source Projects
 **[Skype Links Chrome Extension][]** 2011
 
 -   A Chrome extension to make `callto:` or `skype:` links out of phone numbers on web pages
+-   47,000 users, 4 stars, 900 g+ plus ones
 
 Industry Experience
 -------------------
 
-**[Superluminal Systems][]** AUG 2013 - current
+**[Superluminal Systems][]** August 2013 - current
 
 -   Helped to develop and launch the first client site based on the Superluminal
     Learning Management System.
@@ -97,7 +96,7 @@ Industry Experience
     manage the site with detailed admin reports on purchases and user activity.
 -   Various smaller websites and components.
 
-**[OnForce, Inc][] - New York, NY** JUNE 2006 - DEC 2007
+**[OnForce, Inc][] - New York, NY** June 2006 - December 2007
 
 -   Programmed features and updates to the OnForce platform.
 -   Introduced automated testing with PHPUnit. Implemented tests for OnForce's
@@ -108,7 +107,7 @@ Industry Experience
 -   Project managed the implementation of Salesforce throughout the company, and
     oversaw the administration of the application.
 
-**[JBA Network][] - Asheville, NC** JUNE 2003 - DEC 2006
+**[JBA Network][] - Asheville, NC** June 2003 - December 2006
 
 -   Project manager and lead programmer for medium-scale web application,
     mynewsletterbuilder.com. Designed the application and coded the initial
@@ -119,20 +118,20 @@ Industry Experience
     products and services, including www.jukeboxalive.com and www.byregion.net.
 -   Systems administration and networking (Linux, Windows).
 
-**US Navy FNMOD - Asheville, NC** MAY 2001 - AUG 2001
+**US Navy FNMOD - Asheville, NC** May 2001 - August 2001
 
 -   Programmer, database designer for the Fleet Numerical Meteorology and
     Oceanography Detachment. Migrated Navy weather data from a flat text format
     to a MySQL database. Wrote a Java application for quality checking weather
     data, and converting it to a MySQL-accessible format.
 
-**Freelance - Sydney, Australia** DEC 1999 - DEC 2000
+**Freelance - Sydney, Australia** December 1999 - December 2000
 
 -   Web designer, programmer. Developed a Java search engine applet for a CD-ROM
     based knowledge bank. Various other web development and graphic design
     projects.
 
-**Internet Safety Association - Asheville, NC** DEC 1998 - DEC 1999
+**Internet Safety Association - Asheville, NC** December 1998 - December 1999
 
 -   Designer, computer technician. HTML and JavaScript programming, graphic
     design, web design and management, network management, computer repairs and
