@@ -8,23 +8,20 @@ Jack Senechal
 Introduction
 ------------
 
-I am an engineer with a passion for the future. I wish to see clean and lucid technology guiding
-the world's vector of change toward the long-term greatest good of humanity. I have a deep
-interest in the architecture of complex systems and facilitating emergence. I value foresight,
-innovation, multidimensional thinking, and appropriate application of technology. I am
-existentially intolerant of the status quo.
+I am an engineer with a passion for the future. I have a deep interest in the architecture of
+complex systems and facilitating emergence. I value foresight, innovation, multidimensional
+thinking, and appropriate application of technology. I am existentially intolerant of the status
+quo.
 
-My current professional interests include building tools for community self-organization,
-including tools for identity, trust, collaboration, annotation, and discovery. I'm fascinated with
+Current professional interests include building tools for community self-organization, including
+tools for identity, trust, collaboration, annotation, and discovery. I'm fascinated with
 application and data ecosystems, and would like to see more flexibility and crossover between
-systems. Other interests include human-computer interaction, appropriate technology, sustainable
-development, open source everything, mountain biking, snow sports, and meditation.
+systems.
 
-I bring 10+ years of industry experience. My ideal workplace has a vibrant environment of
-innovation, a strong team practicing Agile methodologies, and a culture of excellence. It is more
-than a day job, it is a platform to launch big ideas. I have played many roles over the years, and
-am open to the right job, whatever form that takes. If you think you have a great position for me,
-let's discuss.
+My ideal workplace has a vibrant environment of innovation, a strong team practicing Agile
+methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
+big ideas. I bring 10+ years of industry experience, an appetite for challenges, and a broad
+understanding of the technological landscape.
 
 Languages and Technologies
 --------------------------
@@ -32,9 +29,25 @@ Languages and Technologies
 Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js, jQuery, D3, PHP,
 ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and Python.
 
-Experience with automated testing in JavaScript, Ruby, PHP, Selenium, and ActionScript.
-
 Most comfortable developing with Vim on Linux.
+
+Open Source Projects
+--------------------
+
+**[Enlightened Structure][]**
+
+-   Co-founded the Enlightened Structure metaproject to create an open, decentralized,
+    collaborative application and data ecosystem.
+-   Envisioning and prototyping of tools and applications such as reputation exchange,
+    forking-based collaboration, and visualization and navigation the global semantic graph.
+-   Research and synthesis of information on candidate technologies.
+-   Code contributions to related projects (primarily written in Ruby and JavaScript).
+-   Ongoing contributor to [Building the Collaborative Internet][] community.
+
+**[Skype Links Chrome Extension][]**
+
+-   A Chrome extension to make `callto:` or `skype:` links out of phone numbers on web pages.
+-   47,000 users, 4 stars, 900 g+ plus ones.
 
 Education
 ---------
@@ -46,34 +59,14 @@ Bachelor of Arts from the [University of North Carolina at Asheville][]
 -   Undergraduate research in mathematics
 -   Graduated with distinction in mathematics
 
-Open Source Projects
---------------------
-
-**[Enlightened Structure][]** 2007 - current
-
--   Co-founded the Enlightened Structure metaproject to facilitate the emergence
-    of an open, decentralized global infrastructure for applications to make use
-    of rich cloud data such as identity, reputation, and commons licensed
-    content, and to lead the way with reference applications such as a
-    forking-based collaboration engine and visualization tools for navigating
-    the global semantic graph.
--   Research and synthesis of information on candidate technologies
--   Code contributions to related projects (primarily written in Ruby and
-    JavaScript)
-
-**[Skype Links Chrome Extension][]** 2011
-
--   A Chrome extension to make `callto:` or `skype:` links out of phone numbers on web pages
--   47,000 users, 4 stars, 900 g+ plus ones
-
 Industry Experience
 -------------------
 
-**[Superluminal Systems][]** August 2013 - current
+**[Superluminal Systems][]** August 2013 - January 2014
 
 -   Helped to develop and launch the first client site based on the Superluminal
     Learning Management System.
--   Collaboration on innovative user interface elements using D3 and
+-   Collaborated on innovative user interface elements using D3 and
     CoffeeScript.
 -   Wordpress plugin wrangling, development and customization.
 
@@ -156,3 +149,4 @@ Industry Experience
 [Skype Links Chrome Extension]: https://chrome.google.com/webstore/detail/skype-links/epbmllnadbdnppblcebkkmapkinkdchd
 [jacksenechal.com/resume]: http://jacksenechal.com/resume
 [github.com/jacksenechal]: https://github.com/jacksenechal
+[Building the Collaborative Internet]: http://collaborativeinter.net/
