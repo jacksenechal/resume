@@ -3,7 +3,7 @@ Jack Senechal
 
 1901 8th St, Berkeley, CA 94710  
 415-779-2701 ⬧ <jacksenechal@gmail.com>  
-[jacksenechal.com/resume][] ⬧ [github.com/jacksenechal][]
+**[jacksenechal.com/resume][] ⬧ [github.com/jacksenechal][]**
 
 Introduction
 ------------
@@ -18,23 +18,23 @@ tools for identity, trust, collaboration, annotation, and discovery. I'm fascina
 application and data ecosystems, and would like to see more flexibility and crossover between
 systems.
 
-My ideal workplace has a vibrant environment of innovation, a strong team practicing Agile
+My ideal workplace has a vibrant environment of innovation, a strong team practicing **Agile**
 methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
-big ideas. I bring 10+ years of industry experience, an appetite for challenges, and a broad
+big ideas. I bring **10+ years of industry experience**, an appetite for challenges, and a broad
 understanding of the technological landscape.
 
 Languages and Technologies
 --------------------------
 
-Programming experience with Ruby, Rails, JavaScript, CoffeeScript, Node.js, jQuery, D3, PHP,
+Programming experience with **Ruby**, Rails, **JavaScript**, CoffeeScript, Node.js, jQuery, D3, PHP,
 ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and Python.
 
-Most comfortable developing with Vim on Linux.
+Most comfortable developing with **Vim on Linux**.
 
 Open Source Projects
 --------------------
 
-**[Enlightened Structure][]**
+[Enlightened Structure][]
 
 -   Co-founded the Enlightened Structure metaproject to create an open, decentralized,
     collaborative application and data ecosystem.
@@ -44,7 +44,7 @@ Open Source Projects
 -   Code contributions to related projects (primarily written in Ruby and JavaScript).
 -   Ongoing contributor to [Building the Collaborative Internet][] community.
 
-**[Skype Links Chrome Extension][]**
+[Skype Links Chrome Extension][]
 
 -   A Chrome extension to make `callto:` or `skype:` links out of phone numbers on web pages.
 -   47,000 users, 4 stars, 900 g+ plus ones.
@@ -52,17 +52,31 @@ Open Source Projects
 Education
 ---------
 
-Bachelor of Arts from the [University of North Carolina at Asheville][]
+**Bachelor of Arts** from the [University of North Carolina at Asheville][]
 (May, 2003)
 
--   Major in mathematics, minor in computer science
+-   Major in **mathematics**, minor in **computer science**
 -   Undergraduate research in mathematics
 -   Graduated with distinction in mathematics
 
 Industry Experience
 -------------------
 
-**[Superluminal Systems][]** August 2013 - January 2014
+Clairvision School of Meditation (Nonprofit)
+
+-   Multiple volunteer projects over 15 years as a student.
+-   Overhauled the e-commerce and fulfillment systems, reducing order processing time
+    by a factor of 10. Payment gateway and paid-postage integrations using APIs from Stripe and
+    EasyPost. Custom Ruby/JavaScript shipping and fulfillment application taking data from the
+    existing system and presenting it in an intuitive interface for volunteers to process orders,
+    pack items, and print shipping labels. (2013-2014)
+-   Helped to develop electronic music systems using open source tools. Trained a team of
+    musicians in basic programming. Wrote arpeggiator and sampler patches for SuperCollider.
+    Prototyped Reactable clone in PureData. (2011)
+-   Developed Java search engine for knowledge base, website development including
+    JavaScript shipping estimator. (2000)
+
+[Superluminal Systems][] August 2013 - January 2014
 
 -   Helped to develop and launch the first client site based on the Superluminal
     Learning Management System.
@@ -70,7 +84,7 @@ Industry Experience
     CoffeeScript.
 -   Wordpress plugin wrangling, development and customization.
 
-**[OpenTest Pro, LLC][]** 2008 - 2011
+[OpenTest Pro, LLC][] 2008 - 2011
 
 -   Founded the company to provide educational resources relating to automated
     testing and continuous integration using open source tools in a PHP
@@ -78,7 +92,7 @@ Industry Experience
 -   Activities include technical writing, web application development in Ruby on
     Rails and Flex, studio voiceover recording, and project management.
 
-**Independent Contracting** 2004 - 2009
+Independent Contracting 2004 - 2009
 
 -   [Turnbull & Asser][] - shirtmakers (2008-2009). Built a virtual showroom for
     their bespoke department, allowing users to browse fabrics and place orders.
@@ -89,7 +103,7 @@ Industry Experience
     manage the site with detailed admin reports on purchases and user activity.
 -   Various smaller websites and components.
 
-**[OnForce, Inc][] - New York, NY** June 2006 - December 2007
+[OnForce, Inc][] - New York, NY June 2006 - December 2007
 
 -   Programmed features and updates to the OnForce platform.
 -   Introduced automated testing with PHPUnit. Implemented tests for OnForce's
@@ -100,7 +114,7 @@ Industry Experience
 -   Project managed the implementation of Salesforce throughout the company, and
     oversaw the administration of the application.
 
-**[JBA Network][] - Asheville, NC** June 2003 - December 2006
+[JBA Network][] - Asheville, NC June 2003 - December 2006
 
 -   Project manager and lead programmer for medium-scale web application,
     mynewsletterbuilder.com. Designed the application and coded the initial
@@ -111,26 +125,26 @@ Industry Experience
     products and services, including www.jukeboxalive.com and www.byregion.net.
 -   Systems administration and networking (Linux, Windows).
 
-**US Navy FNMOD - Asheville, NC** May 2001 - August 2001
+US Navy FNMOD - Asheville, NC May 2001 - August 2001
 
 -   Programmer, database designer for the Fleet Numerical Meteorology and
     Oceanography Detachment. Migrated Navy weather data from a flat text format
     to a MySQL database. Wrote a Java application for quality checking weather
     data, and converting it to a MySQL-accessible format.
 
-**Freelance - Sydney, Australia** December 1999 - December 2000
+Freelance - Sydney, Australia December 1999 - December 2000
 
 -   Web designer, programmer. Developed a Java search engine applet for a CD-ROM
     based knowledge bank. Various other web development and graphic design
     projects.
 
-**Internet Safety Association - Asheville, NC** December 1998 - December 1999
+Internet Safety Association - Asheville, NC December 1998 - December 1999
 
 -   Designer, computer technician. HTML and JavaScript programming, graphic
     design, web design and management, network management, computer repairs and
     upgrades.
 
-**Various - Asheville, NC** 1996 - 1998
+Various - Asheville, NC 1996 - 1998
 
 -   Assorted computer related jobs and volunteer work, including CAT-5 and
     fiber-optic network installation, web development, desktop publishing,
