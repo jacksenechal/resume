@@ -13,12 +13,15 @@
   code { font-size: 10pt; background-color: #ddd; padding: 2px; }
   #downloads { position: absolute; top: 1em; right: 1em; color: #777; font-style: italic;
     font-size: 10pt; }
-</style>
-<style type="text/css" media="print">
-  body { width: 92%; margin: auto; }
-  h1 { font-size: 16pt; }
-  h2 { font-size: 12pt; margin-top: 2em; }
-  body, p, li { font-size: 10pt; }
-  code {font-size: 8pt; background-color: #eee; padding: 2px;}
-  #downloads { display: none; }
+  hr { display: none; }
+
+  @media print {
+    body { width: 92%; margin: auto; }
+    h1 { font-size: 16pt; }
+    h2 { font-size: 12pt; margin-top: 2em; }
+    body, p, li { font-size: 10pt; }
+    code {font-size: 8pt; background-color: #eee; padding: 2px;}
+    hr { display: block; page-break-after: always; padding: 0; margin: 0; border: 0; }
+    #downloads { display: none; }
+  }
 </style>

@@ -47,6 +47,8 @@ Open Source Projects
 -   A Chrome extension to make `callto:` or `skype:` links out of phone numbers on web pages.
 -   47,000 users, 4 stars, 900 g+ plus ones.
 
+---
+
 Education
 ---------
 
