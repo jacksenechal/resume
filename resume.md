@@ -8,6 +8,11 @@ Jack Senechal
 Introduction
 ------------
 
+My ideal workplace has a vibrant environment of innovation, a strong team practicing **Agile**
+methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
+big ideas. I bring **10+ years of industry experience**, an appetite for challenges, and a broad
+understanding of the technological landscape.
+
 I am an engineer with a passion for the future. I wish to see lucid technology guiding the world's
 vector of change toward the greatest good of humanity. I value foresight, innovation,
 multidimensional thinking, and appropriate application of technology. I am existentially
@@ -15,11 +20,6 @@ intolerant of the status quo.
 
 I have a deep interest in the architecture of emergent systems, including standards, protocols,
 shared infrastructure, and other means toward creating thriving digital ecosystems.
-
-My ideal workplace has a vibrant environment of innovation, a strong team practicing **Agile**
-methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
-big ideas. I bring **10+ years of industry experience**, an appetite for challenges, and a broad
-understanding of the technological landscape.
 
 Languages and Technologies
 --------------------------
