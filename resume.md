@@ -8,15 +8,13 @@ Jack Senechal
 Introduction
 ------------
 
-I am an engineer with a passion for the future. I have a deep interest in the architecture of
-complex systems and facilitating emergence. I value foresight, innovation, multidimensional
-thinking, and appropriate application of technology. I am existentially intolerant of the status
-quo.
+I am an engineer with a passion for the future. I wish to see lucid technology guiding the world's
+vector of change toward the greatest good of humanity. I value foresight, innovation,
+multidimensional thinking, and appropriate application of technology. I am existentially
+intolerant of the status quo.
 
-Current professional interests include building tools for community self-organization, including
-tools for identity, trust, collaboration, annotation, and discovery. I'm fascinated with
-application and data ecosystems, and would like to see more flexibility and crossover between
-systems.
+I have a deep interest in the architecture of emergent systems, including standards, protocols,
+shared infrastructure, and other means toward creating thriving digital ecosystems.
 
 My ideal workplace has a vibrant environment of innovation, a strong team practicing **Agile**
 methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
@@ -39,7 +37,7 @@ Open Source Projects
 -   Co-founded the Enlightened Structure metaproject to create an open, decentralized,
     collaborative application and data ecosystem.
 -   Envisioning and prototyping of tools and applications such as reputation exchange,
-    forking-based collaboration, and visualization and navigation the global semantic graph.
+    forking-based collaboration, and visualization and navigation of the global semantic graph.
 -   Research and synthesis of information on candidate technologies.
 -   Code contributions to related projects (primarily written in Ruby and JavaScript).
 -   Ongoing contributor to [Building the Collaborative Internet][] community.
