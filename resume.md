@@ -2,8 +2,8 @@ Jack Senechal
 =============
 
 1901 8th St, Berkeley, CA 94710  
-415-779-2701 ⬧ <jacksenechal@gmail.com>  
-**[jacksenechal.com/resume][] ⬧ [github.com/jacksenechal][]**
+415-779-2701 --- <jacksenechal@gmail.com>  
+**[jacksenechal.com/resume][]** --- **[github.com/jacksenechal][]**
 
 Introduction
 ------------
