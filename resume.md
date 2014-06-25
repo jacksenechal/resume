@@ -11,26 +11,19 @@ Introduction
 
 My ideal workplace has a vibrant environment of innovation, a strong team practicing Agile
 methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
-big ideas. I bring **10 years of industry experience**, an appetite for challenges, and a broad
+big ideas. I bring 10 years of industry experience, an appetite for challenges, and a broad
 understanding of the technological landscape.
 
-I am an engineer with a passion for the future. I wish to see lucid technology guiding the world's
-vector of change toward the greatest good of humanity. I value foresight, innovation,
-multidimensional thinking, and appropriate application of technology. I am existentially intolerant
-of the status quo.
-
-I have a deep interest in the architecture of [emergent systems][]. The tools we build now set
-initial conditions for the self-organization of new technological, social, and economic patterns. By
-definition these patterns are unpredictable, but we *can* observe that certain initial conditions
-tend to facilitate classes of emergent phenomena. For instance, the free exchange of knowledge and
-resources tends to foster stronger and more stable economies. By leveraging these principles we can
-invoke a future that is true to our ideals. This drives my interest in the development of standards,
-protocols, and shared infrastructure.
+I am an engineer with a passion for humanity. I wish to build lucid technology to help navigate
+the rapid changes lying ahead. To that end I have a deep interest in architecture of [emergent
+systems][], open infrastructure, and tools that facilitate collaboration, communication, and
+education. I value foresight, innovation, multidimensional thinking, and appropriate application
+of technology. I am existentially intolerant of the status quo.
 
 Languages and Technologies
 --------------------------
 
-Programming experience with **Ruby**, Rails, **JavaScript**, **CoffeeScript**, Node.js, jQuery,
+Programming experience with **Ruby**, Rails, **JavaScript**, CoffeeScript, **Node.js**, jQuery,
 D3, PHP, ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and
 Python.
 
@@ -41,6 +34,9 @@ Industry Experience
 
 Independent Contractor 2004 - 2014
 
+-   Darasha (April 2014 - June 2014). Rapid prototyping of global-graph technologies using XDI and
+    Famo.us. Integration of XDI with Ruby on Rails applications. Launched beta cloud name service
+    based on XDI and Node.js.
 -   [Superluminal Systems][] (August 2013 - January 2014). Helped to develop and launch the first
     client site based on the Superluminal Learning Management System. Collaborated on innovative
     user interface elements using D3 and CoffeeScript. Wordpress plugin wrangling, development and
@@ -49,8 +45,8 @@ Independent Contractor 2004 - 2014
     department, allowing users to browse fabrics and place orders. Ruby on Rails backend, Flash
     frontend.
 -   [Idance.net][] - video dance instruction (2004-2005). Designed and implemented an e-commerce
-    site in PHP and MySQL. Pay-per-download purchasing, content browsing and searching, back-end for
-    the client to manage the site with detailed admin reports on purchases and user activity.
+    site in PHP and MySQL. Pay-per-download purchasing, content browsing and searching, back-end
+    for the client to manage the site with detailed admin reports on purchases and user activity.
 -   Various smaller websites and components.
 
 Founder, [OpenTest Pro, LLC][] - 2008 - 2011
