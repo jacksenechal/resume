@@ -1,7 +1,7 @@
 Jack Senechal
 =============
 
-Located in Berkeley, CA  
+Located in Kentfield, CA  
 Phone: 415-779-2701  
 Email: <jacksenechal@gmail.com>  
 GitHub: [github.com/jacksenechal][]
@@ -34,6 +34,9 @@ Industry Experience
 
 Independent Contractor 2004 - 2014
 
+-   Pegg (July 2014 - current). Mobile game development in JavaScript and Parse with a Famo.us
+    front-end and a Flux architecture. Authoring an express/JS admin interface. Major refactoring
+    around CommonJS Promises.
 -   Darasha (April 2014 - June 2014). Rapid prototyping of global-graph technologies using XDI and
     Famo.us. Integration of XDI with Ruby on Rails applications. Launched beta cloud name service
     based on XDI and Node.js.
