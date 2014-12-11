@@ -11,7 +11,7 @@ Introduction
 
 My ideal workplace has a vibrant environment of innovation, a strong team practicing Agile
 methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
-big ideas. I bring 10 years of industry experience, an appetite for challenges, and a broad
+big ideas. I bring years of industry experience, an appetite for challenges, and a broad
 understanding of the technological landscape.
 
 I am an engineer with a passion for humanity. I wish to build lucid technology to help navigate
@@ -23,9 +23,9 @@ of technology. I am existentially intolerant of the status quo.
 Languages and Technologies
 --------------------------
 
-Programming experience with **Ruby**, Rails, **JavaScript**, CoffeeScript, **Node.js**, jQuery,
-D3, PHP, ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl and
-Python.
+Programming experience with JavaScript, CoffeeScript, Node.js, jQuery, Famo.us, Polymer, Ruby,
+Rails, D3, PHP, ActionScript, Flex, and SuperCollider. Limited experience with C/C++, Java, Perl
+and Python.
 
 My ideal development environment is **Vim on Linux**.
 
