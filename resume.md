@@ -9,14 +9,12 @@ GitHub: [github.com/jacksenechal][]
 Introduction
 ------------
 
-My ideal workplace has a vibrant environment of innovation, a strong team practicing Agile
-methodologies, and a culture of excellence. It is more than a day job, it is a platform to launch
-big ideas. I bring years of industry experience, an appetite for challenges, and a broad
-understanding of the technological landscape.
+I'm seeking a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
+culture of excellence. It is more than a day job, it is a platform to launch big ideas.
 
-I am an engineer with a passion for humanity. I wish to build lucid tools to help navigate the rapid
+I am an engineer with a *passion for humanity*. I wish to build lucid tools to help navigate the rapid
 changes lying ahead in society, technology and the environment. To that end I have a deep interest
-in distributed systems, engineering for [emergence][], standards and open infrastructure, and tools
+in distributed systems, *engineering for [emergence][]*, standards and open infrastructure, and tools
 that facilitate collaboration, communication, and education. I value foresight, innovation,
 multidimensional thinking, and appropriate application of technology. I am existentially intolerant
 of the status quo.
