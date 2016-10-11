@@ -13,8 +13,8 @@ Introduction
 engineering manager role.*
 
 As an engineer I care deeply about quality, detail and precision, not only at the code level but
-throughout the product. I temper my perfectionism with a relentless drive to ship, because a product
-is only as good as its usefulness to actual people.
+throughout the product. I temper perfectionism with a relentless drive to ship, because a product is
+only as good as its usefulness to actual people.
 
 As a leader I bring empathy, warmth, and clarity of communication. I stick to the goal at hand while
 holding the big picture.
@@ -23,23 +23,24 @@ I enjoy creating lucid user experiences, designing robust software architectures
 operations and processes.
 
 I'm seeking a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
-culture of excellence. It is more than a day job, it is a platform for ideas and innovation at the
-global level.
+culture of excellence. It is more than a day job, it is a platform to make a meaningful contribution
+at a global scale.
 
 Industry Experience
 -------------------
 
 Lead Developer, Co-founder, [Pegg][] - 2014 - current
 
--   Development and architecture of a cross-platform mobile game targeted at iOS and Android via
-    PhoneGap. Famo.us/Flux front-end, Parse/Node backend, Firebase for realtime notifications and
+-   Development: Design, architecture, and implementation of cross-platform mobile game targeted at
+    iOS and Android via PhoneGap.
+-   Team Processes: Setup and optimization of development workflow using Pivotal Tracker, Git, Karma
+    testing, and continuous deployment with CircleCI. Developing launch strategy, optimizing for
+    scalability and reliability, setting up processes and workflows to enable rapid response to
+    issues.
+-   Business Strategy: product design, monetization strategy, marketing strategy, as well as
+    contributing to the company's mission, vision, and governance models.
+-   Technology: Famo.us/Flux front-end, Parse/Node backend, Firebase for realtime notifications and
     chat.
--   Task prioritization and management using Pivotal Tracker, Git workflow, testing and continuous
-    integration.
--   Developing launch strategy, optimizing for scalability and reliability, setting up processes and
-    workflows to enable rapid response to issues.
--   Collaborating closely with founders on product design, monetization strategy, marketing
-    strategy, as well as contributing to the company's mission, vision, and governance models.
 
 Founder, [OpenTest Pro, LLC][] - 2008 - 2011
 
