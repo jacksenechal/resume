@@ -9,15 +9,22 @@ GitHub: [github.com/jacksenechal][]
 Introduction
 ------------
 
-I'm seeking a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
-culture of excellence. It is more than a day job, it is a platform to launch big ideas.
+*Software engineer with strong people and management skills, seeking a lead developer or
+engineering manager role.*
 
-I am an engineer with a *passion for humanity*. I wish to build lucid tools to help navigate the rapid
-changes lying ahead in society, technology and the environment. To that end I have a deep interest
-in distributed systems, *engineering for [emergence][]*, standards and open infrastructure, and tools
-that facilitate collaboration, communication, and education. I value foresight, innovation,
-multidimensional thinking, and appropriate application of technology. I am existentially intolerant
-of the status quo.
+As an engineer I care deeply about quality, detail and precision, not only at the code level but
+throughout the product. I temper my perfectionism with a relentless drive to ship, because a product
+is only as good as its usefulness to actual people.
+
+As a leader I bring empathy, warmth, and clarity of communication. I stick to the goal at hand while
+holding the big picture.
+
+I enjoy creating lucid user experiences, designing robust software architectures, and optimizing
+operations and processes.
+
+I'm seeking a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
+culture of excellence. It is more than a day job, it is a platform for ideas and innovation at the
+global level.
 
 Industry Experience
 -------------------
@@ -54,7 +61,7 @@ Development Lead, [JBA Network][] - Asheville, NC 2003 - 2006
 
 -   Project manager and lead programmer for mynewsletterbuilder.com. Architected and implemented the
     initial release, and later oversaw the development team for the project.
--   Developed a modular, evented, MVC programming framework in PHP.
+-   Developed a modular, evented, MVC programming framework.
 -   Concept development, project management, and programming for other company products and
     services, including www.jukeboxalive.com and www.byregion.net.
 -   Systems administration and networking (Linux, Windows).
