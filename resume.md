@@ -12,17 +12,16 @@ Introduction
 *Software engineer with strong people and management skills, seeking a lead developer or
 engineering manager role.*
 
-As an engineer I care deeply about quality, detail and precision, not only at the code level but
-throughout the product. I temper perfectionism with a relentless drive to ship, because a product is
-only as good as its usefulness to actual people.
+As an engineer I care deeply about quality and precision, not only at the code level but throughout
+the product. I balance attention to detail with a drive to ship, because a product is only as good
+as its usefulness to actual people. I enjoy creating lucid user experiences and designing robust
+software architectures.
 
-As a leader I bring empathy, warmth, and clarity of communication. I stick to the goal at hand while
-holding the big picture.
+As a team leader I bring empathy, warmth, and clarity of communication. I enjoy optimizing processes
+and refining infrastructure so teams are faced with minimal repetitive load and can focus on
+high-flying creativity.
 
-I enjoy creating lucid user experiences, designing robust software architectures, and optimizing
-operations and processes.
-
-I'm seeking a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
+I seek a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
 culture of excellence. It is more than a day job, it is a platform to make a meaningful contribution
 at a global scale.
 
@@ -33,14 +32,14 @@ Lead Developer, Co-founder, [Pegg][] - 2014 - current
 
 -   Development: Design, architecture, and implementation of cross-platform mobile game targeted at
     iOS and Android via PhoneGap.
--   Team Processes: Setup and optimization of development workflow using Pivotal Tracker, Git, Karma
-    testing, and continuous deployment with CircleCI. Developing launch strategy, optimizing for
-    scalability and reliability, setting up processes and workflows to enable rapid response to
-    issues.
+-   Team Processes: Implementing and honing development workflow with agile methods such as pair
+    programming, testing, and continuous integration. Developing launch strategy, setting up
+    processes and workflows to enable rapid response to issues.
 -   Business Strategy: product design, monetization strategy, marketing strategy, as well as
     contributing to the company's mission, vision, and governance models.
 -   Technology: Famo.us/Flux front-end, Parse/Node backend, Firebase for realtime notifications and
-    chat.
+    chat, Webpack and Gulp build environment, Karma/Chai testing, and continuous deployment to
+    AWS/Cloudfront via CircleCI.
 
 Founder, [OpenTest Pro, LLC][] - 2008 - 2011
 
