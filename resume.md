@@ -1,7 +1,7 @@
 Jack Senechal
 =============
 
-Located in Kentfield, CA  
+Located in San Francisco, CA  
 Phone: 415-779-2701  
 Email: <jacksenechal@gmail.com>  
 GitHub: [github.com/jacksenechal][]
