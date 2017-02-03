@@ -17,9 +17,9 @@ the product. I balance attention to detail with a drive to ship, because a produ
 as its usefulness to actual people. I enjoy creating lucid user experiences and designing robust
 software architectures.
 
-As a team leader I bring empathy, warmth, and clarity of communication. I enjoy optimizing processes
-and refining infrastructure so teams are faced with minimal repetitive load and can focus on
-high-flying creativity.
+As a team leader I bring empathy, solidity, and clarity of communication. I enjoy optimizing
+processes and refining infrastructure so teams are faced with minimal repetitive load and can focus
+on high-flying creativity.
 
 I seek a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
 culture of excellence. It is more than a day job, it is a platform to make a meaningful contribution
@@ -41,12 +41,20 @@ Lead Developer, Co-founder, [Pegg][] - 2014 - current
     chat, Webpack and Gulp build environment, Karma/Chai testing, and continuous deployment to
     AWS/Cloudfront via CircleCI.
 
-Founder, [OpenTest Pro, LLC][] - 2008 - 2011
+Consultant and Entrepreneur 2008 - 2014
 
--   Founded the company to provide educational resources relating to automated testing and
-    continuous integration using open source tools in a PHP environment.
--   Activities include technical writing, web application development in Ruby on Rails and Flex,
-    studio voiceover recording, and project management.
+-   2014 - Rapid prototyping of global-graph technologies using XDI. Integration of XDI services
+    with existing Ruby on Rails application. Launched beta cloud name service based on XDI and
+    Node.js.
+-   [Superluminal Systems][] - 2013 - Helped to develop the Superluminal Learning Management System
+    and launch the first client site. Building data visualizations and UI elements in D3. Wordpress
+    plugin wrangling, development and customization.
+-   OpenTest Pro, LLC - 2008 - 2012 - Founded the company to provide educational resources relating
+    to automated testing and continuous integration using open source tools in a PHP environment.
+    Technical writing, web application development in Ruby on Rails and Flex, studio voiceover
+    recording, and project management.
+-   [Turnbull & Asser][] shirtmakers - 2009 - Built a virtual showroom for their bespoke department,
+    allowing users to browse fabrics and place orders. Ruby on Rails backend, Flash frontend.
 
 Web Developer, [OnForce, Inc][] - New York, NY 2006 - 2007
 
@@ -66,16 +74,11 @@ Development Lead, [JBA Network][] - Asheville, NC 2003 - 2006
     services, including www.jukeboxalive.com and www.byregion.net.
 -   Systems administration and networking (Linux, Windows).
 
-Misc. Consulting
+Education
+---------
 
--   Rapid prototyping of global-graph technologies using XDI. Integration of XDI services with
-    existing Ruby on Rails application. Launched beta cloud name service based on XDI and Node.js.
--   [Superluminal Systems][] - Helped to develop and launch the first client site based on the
-    Superluminal Learning Management System. Collaborated on innovative user interface elements
-    using D3 and CoffeeScript. Wordpress plugin wrangling, development and customization.
--   [Turnbull & Asser][] shirtmakers - Built a virtual showroom for their bespoke department,
-    allowing users to browse fabrics and place orders. Ruby on Rails backend, Flash frontend.
-
+BA in Mathematics, minor in Computer Science from the [University of North Carolina at Asheville][]
+(May, 2003)
 
 Volunteer
 ---------
@@ -85,8 +88,8 @@ Clairvision School of Meditation (Nonprofit)
 -   2014 - Overhauled e-commerce and fulfillment systems, reducing order processing time by a factor
     of 10. Created shipping and fulfillment application using data from the existing system and
     presenting it in an intuitive interface for volunteers to process orders, pack items, and print
-    postage-paid shipping labels. Application written in JavaScript with a Ruby backend, using APIs
-    from Stripe and EasyPost.
+    postage-paid shipping labels. Application written in JavaScript with a Ruby/Sinatra backend,
+    using APIs from Stripe and EasyPost.
 -   2011 - Developed electronic music systems using open source tools. Trained a team of musicians
     in basic programming. Wrote arpeggiator and sampler patches for SuperCollider. Prototyped
     [Reactable][] clone in PureData.
@@ -97,12 +100,10 @@ Open Source Projects
 
 [Enlightened Structure][]
 
--   Advisor to the Enlightened Structure metaproject, founded to create an open, decentralized,
-    federated application and data ecosystem.
--   Working with other project members to envision and prototype tools for visualizing and
-    navigating the global semantic graph, including graph visualization,
-    reputation exchange, forking-based collaboration, and content-addressable data interchange
-    formats.
+-   Collaborating with the project team to envision and prototype tools for visualizing and
+    navigating the global semantic graph, including augmented reality interfaces, graph
+    visualization, trust and reputation systems, fork-based collaboration, and content-addressable
+    data interchange.
 
 Communities and Conferences
 ---------------------------
@@ -111,26 +112,17 @@ Communities and Conferences
 -   [Indie Web Camp][]
 -   [Internet Identity Workshop][]
 
-Education
----------
-
-**BA** in **mathematics**, minor in **computer science** from the [University of North Carolina at Asheville][]
-(May, 2003)
 
 [Building the Collaborative Internet]: http://collaborativeinter.net/
-[emergence]: http://en.wikipedia.org/wiki/Emergence
 [Enlightened Structure]: http://enlightenedstructure.org
 [github.com/jacksenechal]: https://github.com/jacksenechal
-[Idance.net]: http://idance.net
 [Indie Web Camp]: http://indiewebcamp.com/
 [Internet Identity Workshop]: http://www.internetidentityworkshop.com/
 [jacksenechal.com/resume]: http://jacksenechal.com/resume
 [JBA Network]: http://jbanetwork.com
 [OnForce, Inc]: http://onforce.com
-[OpenTest Pro, LLC]: http://opentestpro.com
 [Pegg]: http://www.pegg.us/
 [Reactable]: http://reactable.com/
-[Skype Links Chrome Extension]: https://chrome.google.com/webstore/detail/skype-links/epbmllnadbdnppblcebkkmapkinkdchd
 [Superluminal Systems]: http://superluminal.is/
 [Turnbull & Asser]: http://turnbullandasser.com
 [University of North Carolina at Asheville]: http://unca.edu
