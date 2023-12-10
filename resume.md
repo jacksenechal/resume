@@ -68,7 +68,7 @@ Additional / cross-functional:
 
 -   Mentorship and coaching
 -   Interviewing and hiring
--   Organizational change management and process design
+-   Organizational change management and process optimization
 
 ### Lead Developer, Co-founder, Pegg
 #### (2014 - 2017)
@@ -119,6 +119,13 @@ Additional / cross-functional:
 -   Concept development, project management, and programming for other company products and
     services, including www.jukeboxalive.com and www.byregion.net.
 -   Systems administration and networking (Linux, Windows).
+
+### Intern, US Navy FNMOD
+#### (2001)
+-   Programmer, database designer for the Fleet Numerical Meteorology and Oceanography Detachment.
+-   Migrated Navy weather data from a flat text format to a MySQL database.
+-   Wrote a Java application to quality check, normalize, and convert weather data to a
+    MySQL-accessible format.
 
 Education
 ---------
