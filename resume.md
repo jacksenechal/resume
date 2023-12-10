@@ -1,34 +1,77 @@
 Jack Senechal
 =============
 
-Located in San Francisco, CA  
+Located in Novato, CA  
 Phone: 415-779-2701  
 Email: <jacksenechal@gmail.com>  
-GitHub: [github.com/jacksenechal][]
+GitHub: [github.com/jacksenechal][]  
+LinkedIn: [linkedin.com/in/jacksenechal][]  
 
 Introduction
 ------------
 
-*Software engineer with strong people and management skills, seeking a lead developer or
-engineering manager role.*
+*Seasoned Principal Software Engineer with a proven track record in team leadership and software
+development, aiming to transition into an AI Engineer or Manager role to drive AI innovation and
+contribute significantly to globally impactful technologies.*
 
-As an engineer I care deeply about quality and precision, not only at the code level but throughout
-the product. I balance attention to detail with a drive to ship, because a product is only as good
-as its usefulness to actual people. I enjoy creating lucid user experiences and designing robust
-software architectures.
+As a seasoned Principal Software Engineer with a rich history of leading teams through complex and
+challenging projects, I am now focusing my expertise towards the AI industry. With a goal to
+transition into an AI Engineer or Manager role, and ultimately into ML research, I aspire to
+contribute to world-changing technologies that enhance humanity's future.
 
-As a team leader I bring empathy, solidity, and clarity of communication. I enjoy optimizing
-processes and refining infrastructure so teams are faced with minimal repetitive load and can focus
-on high-flying creativity.
+At Kantata, I honed my leadership capabilities, transforming teams to navigate and succeed in
+demanding environments. I specialize in building cohesive units that excel in software development,
+marked by a track record of stabilizing critical systems and steering them towards success. My
+leadership philosophy is rooted in empathy, collaboration, and transparency, drawing inspiration
+from Lao Tzu's teachings on subtle yet effective guidance.
 
-I seek a vibrant environment of innovation, a strong team practicing Agile methodologies, and a
-culture of excellence. It is more than a day job, it is a platform to make a meaningful contribution
-at a global scale.
+In my technical journey, I have consistently balanced precision and pragmatism, ensuring that the
+products we develop are not only technically sound but also valuable and user-friendly. This
+combination of technical acumen and leadership skill positions me uniquely for roles where managing
+teams and driving AI innovation are paramount.
+
+My ambition is clear: to contribute significantly to the AI field, leveraging my experience to lead
+teams in developing technologies that make a tangible difference. I am eager to embrace the
+challenges and opportunities in AI, with a vision of eventually founding a company at the
+intersection of AI and globally impactful tech.
+
+In sum, I offer a blend of seasoned leadership, technical expertise, and a deep commitment to
+meaningful innovation, ready to make a significant impact in the AI industry.
 
 Industry Experience
 -------------------
 
-Lead Developer, Co-founder, [Pegg][] - 2014 - current
+### Principal Software Engineer, [Kantata][]
+#### (2017 - Dec 2023)
+
+Team lead, M-Bridge platform (2 years):
+
+-   Lead a new team to stabilize and improve an agent-based integration platform
+-   Established operational metrics; reduced errors and incidents by ~100x
+-   Zero-downtime infrastructure migration into kubernetes, including several databases
+
+Team lead, Insights platform (3 months):
+
+-   Lead a short transition team overseeing and improving the BI data pipeline
+-   Migrated the pipeline to kubernetes
+
+Team lead, Ops team (4 years):
+
+-   Recruited and lead a new team focused on building and scaling the infrastructure platform
+-   Lead transition towards a DevOps culture throughout the organization
+-   Established a clear, calm, constructive environment in which the team could thrive
+-   Roadmap stewardship, untangling requirements, arranging priorities to maximize flow
+-   Transitioned a large legacy infrastructure codebase to cutting edge, cloud-native, IAC-oriented tools
+-   Coding, architecture, and collaboration on numerous mission-critical projects
+
+Additional / cross-functional:
+
+-   Mentorship and coaching
+-   Interviewing and hiring
+-   Organizational change management and process design
+
+### Lead Developer, Co-founder, Pegg
+#### (2014 - 2017)
 
 -   Development: Design, architecture, and implementation of cross-platform mobile game targeted at
     iOS and Android via PhoneGap.
@@ -41,7 +84,8 @@ Lead Developer, Co-founder, [Pegg][] - 2014 - current
     chat, Webpack and Gulp build environment, Karma/Chai testing, and continuous deployment to
     AWS/Cloudfront via CircleCI.
 
-Consultant and Entrepreneur 2008 - 2014
+### Consultant and Entrepreneur
+#### (2008 - 2014)
 
 -   2014 - Rapid prototyping of global-graph technologies using XDI. Integration of XDI services
     with existing Ruby on Rails application. Launched beta cloud name service based on XDI and
@@ -56,16 +100,18 @@ Consultant and Entrepreneur 2008 - 2014
 -   [Turnbull & Asser][] shirtmakers - 2009 - Built a virtual showroom for their bespoke department,
     allowing users to browse fabrics and place orders. Ruby on Rails backend, Flash frontend.
 
-Web Developer, [OnForce, Inc][] - New York, NY 2006 - 2007
+### Web Developer, OnForce, Inc
+#### (2006 - 2007)
 
 -   Introduced automated testing and continuous integration. Implemented comprehensive test suite
     for the public-facing API.
 -   Project managed the implementation of Salesforce throughout the company, and oversaw the
     administration of the application.
--   Integrated OnFoce platform with Salesforce APIs to provide up-to-date customer information for
+-   Integrated OnForce platform with Salesforce APIs to provide up-to-date customer information for
     sales and support teams.
 
-Development Lead, [JBA Network][] - Asheville, NC 2003 - 2006
+### Development Lead, JBA Network
+#### (2003 - 2006)
 
 -   Project manager and lead programmer for mynewsletterbuilder.com. Architected and implemented the
     initial release, and later oversaw the development team for the project.
@@ -83,7 +129,7 @@ BA in Mathematics, minor in Computer Science from the [University of North Carol
 Volunteer
 ---------
 
-Clairvision School of Meditation (Nonprofit)
+### Clairvision School of Meditation (Nonprofit)
 
 -   2014 - Overhauled e-commerce and fulfillment systems, reducing order processing time by a factor
     of 10. Created shipping and fulfillment application using data from the existing system and
@@ -98,30 +144,19 @@ Clairvision School of Meditation (Nonprofit)
 Open Source Projects
 --------------------
 
-[Enlightened Structure][]
+### [CoreNexus][]
 
 -   Collaborating with the project team to envision and prototype tools for visualizing and
     navigating the global semantic graph, including augmented reality interfaces, graph
     visualization, trust and reputation systems, fork-based collaboration, and content-addressable
     data interchange.
 
-Communities and Conferences
----------------------------
 
--   [Building the Collaborative Internet][]
--   [Indie Web Camp][]
--   [Internet Identity Workshop][]
-
-
-[Building the Collaborative Internet]: http://collaborativeinter.net/
-[Enlightened Structure]: http://enlightenedstructure.org
+[Kantata]: http://kantata.com
+[CoreNexus]: http://corenexus.is
+[linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
 [github.com/jacksenechal]: https://github.com/jacksenechal
-[Indie Web Camp]: http://indiewebcamp.com/
-[Internet Identity Workshop]: http://www.internetidentityworkshop.com/
 [jacksenechal.com/resume]: http://jacksenechal.com/resume
-[JBA Network]: http://jbanetwork.com
-[OnForce, Inc]: http://onforce.com
-[Pegg]: http://www.pegg.us/
 [Reactable]: http://reactable.com/
 [Superluminal Systems]: http://superluminal.is/
 [Turnbull & Asser]: http://turnbullandasser.com

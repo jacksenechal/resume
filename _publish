@@ -1,7 +1,7 @@
 #!/bin/bash
 
 pandoc resume.md -o index.html -t html5 \
-  --smart \
+  -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
   --data-dir=_pandoc \
@@ -10,7 +10,7 @@ pandoc resume.md -o index.html -t html5 \
   --include-after-body=_pandoc/footer.html \
   --variable="pagetitle:Resume :: Jack Senechal"
 
-pandoc resume.md -o resume.odt --reference-odt=_pandoc/reference.odt
+pandoc resume.md -o resume.odt --reference-doc=_pandoc/reference.odt
 
 libreoffice --headless --convert-to doc resume.odt
 libreoffice --headless --convert-to pdf resume.odt
