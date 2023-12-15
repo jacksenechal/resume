@@ -1,6 +1,8 @@
 Jack Senechal
 =============
 
+Principal Engineer / Coach / Leader
+
 Located in Novato, CA  
 Phone: 415-779-2701  
 Email: <jacksenechal@gmail.com>  
@@ -26,31 +28,23 @@ Industry Experience
 ### Principal Software Engineer, [Kantata][]
 #### (2017 - Dec 2023)
 
-Team lead, M-Bridge platform (2 years):
-
--   Lead a new team to stabilize and improve an agent-based integration platform
--   Established operational metrics; reduced errors and incidents by ~100x
--   Zero-downtime infrastructure migration into kubernetes, including several databases
-
-Team lead, Insights platform (3 months):
-
--   Lead a short transition team overseeing and improving the BI data pipeline
--   Migrated the pipeline to kubernetes
-
-Team lead, Ops team (4 years):
-
--   Recruited and lead a new team focused on building and scaling the infrastructure platform
--   Lead transition towards a DevOps culture throughout the organization
--   Established a clear, calm, constructive environment in which the team could thrive
--   Roadmap stewardship, untangling requirements, arranging priorities to maximize flow
--   Transitioned a large legacy infrastructure codebase to cutting edge, cloud-native, IAC-oriented tools
--   Coding, architecture, and collaboration on numerous mission-critical projects
-
-Additional / cross-functional:
-
--   Mentorship and coaching
--   Interviewing and hiring
--   Organizational change management and process optimization
+-   Operations Team Leadership: Over four years, I recruited and led a new team dedicated to
+    building and scaling the infrastructure platform. I was instrumental in leading the transition
+    towards a DevOps culture throughout the organization. I created a clear, calm, and constructive
+    environment that allowed the team to thrive. I was responsible for roadmap stewardship,
+    untangling requirements, and arranging priorities to maximize flow. We transitioned a large
+    legacy infrastructure codebase to cutting edge, cloud-native, IAC-oriented tools. I was also
+    involved in coding, architecture, and collaboration on numerous mission-critical projects.
+-   Insights Platform Leadership: For three months, I led a short transition team that was
+    responsible for overseeing and improving the BI data pipeline. We successfully migrated the
+    pipeline to Kubernetes.
+-   M-Bridge Platform Leadership: For two years, I spearheaded a new team to stabilize and enhance
+    an agent-based integration platform. We established operational metrics that significantly
+    reduced errors and incidents by approximately 100x. We successfully performed a migration to
+    Kubernetes with zero downtime, including relational, document, and cache databases.
+-   Additional Responsibilities: I took on cross-functional roles that included mentorship and
+    coaching, interviewing and hiring, and organizational change management and process
+    optimization. My efforts were recognized when I received the Top Performer Award in 2021.
 
 
 ### Lead Developer, Co-founder, Pegg
@@ -118,8 +112,12 @@ Additional / cross-functional:
 Education
 ---------
 
-BA in Mathematics, minor in Computer Science from the [University of North Carolina at Asheville][]
-(May, 2003)
+### [University of North Carolina at Asheville][]
+#### (May, 2003)
+
+-    BA in Mathematics, minor in Computer Science.
+-    Graduated with distinction in Mathematics.
+-    Undergraduate research in 4D fractals.
 
 
 Recommendations
