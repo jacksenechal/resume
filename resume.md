@@ -133,38 +133,10 @@ Education
 BA in Mathematics, minor in Computer Science from the [University of North Carolina at Asheville][]
 (May, 2003)
 
-Volunteer
----------
-
-### Clairvision School of Meditation (Nonprofit)
-
--   2014 - Overhauled e-commerce and fulfillment systems, reducing order processing time by a factor
-    of 10. Created shipping and fulfillment application using data from the existing system and
-    presenting it in an intuitive interface for volunteers to process orders, pack items, and print
-    postage-paid shipping labels. Application written in JavaScript with a Ruby/Sinatra backend,
-    using APIs from Stripe and EasyPost.
--   2011 - Developed electronic music systems using open source tools. Trained a team of musicians
-    in basic programming. Wrote arpeggiator and sampler patches for SuperCollider. Prototyped
-    [Reactable][] clone in PureData.
--   2000 - Developed Java search engine for knowledge base
-
-Open Source Projects
---------------------
-
-### [CoreNexus][]
-
--   Collaborating with the project team to envision and prototype tools for visualizing and
-    navigating the global semantic graph, including augmented reality interfaces, graph
-    visualization, trust and reputation systems, fork-based collaboration, and content-addressable
-    data interchange.
-
-
 [Kantata]: http://kantata.com
-[CoreNexus]: http://corenexus.is
 [linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
 [github.com/jacksenechal]: https://github.com/jacksenechal
 [jacksenechal.com/resume]: http://jacksenechal.com/resume
-[Reactable]: http://reactable.com/
 [Superluminal Systems]: http://superluminal.is/
 [Turnbull & Asser]: http://turnbullandasser.com
 [University of North Carolina at Asheville]: http://unca.edu
