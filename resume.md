@@ -133,6 +133,81 @@ Education
 BA in Mathematics, minor in Computer Science from the [University of North Carolina at Asheville][]
 (May, 2003)
 
+Recommendations
+---------------
+
+"Jack is an exceptional engineer and leader. He strives to deeply understand the technology he's
+working on while remaining cognizant of the socio-technical components that may be a factor in any
+project. He's thorough, detail-oriented, and outcome-oriented, which means the solutions he
+architects, builds, and collaborates on come out better. Jack also strives to be at the forefront of
+new technology and assess how he can leverage it. Newer tech like GenAI can be complex and
+ever-evolving, and Jack is not one to back down but step up and embrace. He does all this with a
+strong team mentality, is a phenomenal team player, and can effectively delegate to help lift
+others' skill sets."  
+
+##### Brandon Clifford, Director of DevOps, Kantata
+
+"Jack is a fantastic engineer always ready to help solve problems and more importantly, teach you
+how to solve them. He guided me and my team through a bunch of challenging gitops situations with
+patience and kindness, leading by example. Always diligent with his work, willing to roll up his
+sleeves to get things done and find creative solutions, maybe tinkering in some kind of script that
+would make the manual processes easier and more resilient. Everyone would be lucky to have someone
+like him in their teams!"  
+
+##### Cesar Palafox Garza, Principal Software Engineer, Kantata
+
+"Jack has had quite a profound impact on my career. As a young engineer, I was fortunate enough to
+work with Jack as my coach. He served as a great mentor, helping me build both technical and
+professional skills and forming me into the engineer that I am today. Throughout our time together,
+Jack was caring and invested in helping me set goals and develop my career. His mentorship was a key
+factor in elevating myself from an incoming Junior Engineer to an Engineering Manager. Jack has a
+great curiosity and a strong set of technical capabilities that allow him to serve as a great
+example for others and a key contributor to any team!"  
+
+##### Wesley Morlock, Engineering Manager, Kantata
+
+"Jack provided invaluable leadership as a Principal Software Engineer at Kantata. He was a powerful
+voice for the technology but made sure to advocate for changes that were also certain to provide
+immediate impact to the customer. I highly recommend Jack as a excellent dev ops engineer and as a
+technical leader."  
+
+##### Nathan Perry, Principal Software Engineer, Kantata
+
+"Jack is talented both as software developer and as an operations engineer. While working together
+in a Principal Engineer capacity, I saw how passionate Jack is about helping his colleagues and his
+organization level up. He is a great engineer with excellent leadership and organizational
+abilities."  
+
+##### Jason Larsen, Software Engineering Manager, Kantata
+
+"Jack is a great co-worker. He is awesome at understanding the direction teams need to go to make
+important improvements in Kantata’s Engineering organization as a whole. He has been instrumental in
+building and implementing strategies to upgrade Ruby, Rails, and React. If I had any questions about
+infrastructure and Kubernetes he would be able to answer and provide solid explanations to the
+entire team."  
+
+##### Justin Hurstwright, Principal Software Engineer, Kantata
+
+"Jack is a phenomenal resource to work with. He is very knowledgeable about programming and cloud
+infrastructure and is always eager to learn new things."  
+
+##### Donovan Hubbard, Senior DevOps Engineer, Kantata
+
+"Jack has a flair for finding better, faster, and more reliable ways to get things done. He
+advocates best practices, like unit testing, and has a deep knowledge of OO architecture. Jack
+thinks on his toes, and will always be there with the team at 4 a.m. if circumstance requires it.
+`:%s/average developers/developers like jack/g` if you know what's good for you."  
+
+##### Greg Whitescarver, Founder, Mojave
+
+"With Jack, the more complex the problem, the more simple his solutions. From eradicating dynamic
+php bugs to providing innovative javascript capabilities, Master Senechal is more than a mind to be
+reckoned with, he's an integrative capacity builder with a wide range of technological expertise. If
+there is anything that can be done through web development, Jack can figure out how to do it, and
+make it happen."  
+
+##### Adam Apollo, Cofounder & CEO, Superluminal Systems
+
 [Kantata]: http://kantata.com
 [linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
 [github.com/jacksenechal]: https://github.com/jacksenechal
