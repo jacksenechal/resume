@@ -7,6 +7,7 @@ Email: <jacksenechal@gmail.com>
 GitHub: [github.com/jacksenechal][]  
 LinkedIn: [linkedin.com/in/jacksenechal][]  
 
+
 Introduction
 ------------
 
@@ -37,6 +38,7 @@ intersection of AI and globally impactful tech.
 
 In sum, I offer a blend of seasoned leadership, technical expertise, and a deep commitment to
 meaningful innovation, ready to make a significant impact in the AI industry.
+
 
 Industry Experience
 -------------------
@@ -70,6 +72,7 @@ Additional / cross-functional:
 -   Interviewing and hiring
 -   Organizational change management and process optimization
 
+
 ### Lead Developer, Co-founder, Pegg
 #### (2014 - 2017)
 
@@ -83,6 +86,7 @@ Additional / cross-functional:
 -   Technology: Famo.us/Flux front-end, Parse/Node backend, Firebase for realtime notifications and
     chat, Webpack and Gulp build environment, Karma/Chai testing, and continuous deployment to
     AWS/Cloudfront via CircleCI.
+
 
 ### Consultant and Entrepreneur
 #### (2008 - 2014)
@@ -100,6 +104,7 @@ Additional / cross-functional:
 -   [Turnbull & Asser][] shirtmakers - 2009 - Built a virtual showroom for their bespoke department,
     allowing users to browse fabrics and place orders. Ruby on Rails backend, Flash frontend.
 
+
 ### Web Developer, OnForce, Inc
 #### (2006 - 2007)
 
@@ -109,6 +114,7 @@ Additional / cross-functional:
     administration of the application.
 -   Integrated OnForce platform with Salesforce APIs to provide up-to-date customer information for
     sales and support teams.
+
 
 ### Development Lead, JBA Network
 #### (2003 - 2006)
@@ -120,6 +126,7 @@ Additional / cross-functional:
     services, including www.jukeboxalive.com and www.byregion.net.
 -   Systems administration and networking (Linux, Windows).
 
+
 ### Intern, US Navy FNMOD
 #### (2001)
 -   Programmer, database designer for the Fleet Numerical Meteorology and Oceanography Detachment.
@@ -127,11 +134,13 @@ Additional / cross-functional:
 -   Wrote a Java application to quality check, normalize, and convert weather data to a
     MySQL-accessible format.
 
+
 Education
 ---------
 
 BA in Mathematics, minor in Computer Science from the [University of North Carolina at Asheville][]
 (May, 2003)
+
 
 Recommendations
 ---------------
@@ -147,6 +156,7 @@ others' skill sets."
 
 ##### Brandon Clifford, Director of DevOps, Kantata
 
+
 "Jack is a fantastic engineer always ready to help solve problems and more importantly, teach you
 how to solve them. He guided me and my team through a bunch of challenging gitops situations with
 patience and kindness, leading by example. Always diligent with his work, willing to roll up his
@@ -155,6 +165,7 @@ would make the manual processes easier and more resilient. Everyone would be luc
 like him in their teams!"  
 
 ##### Cesar Palafox Garza, Principal Software Engineer, Kantata
+
 
 "Jack has had quite a profound impact on my career. As a young engineer, I was fortunate enough to
 work with Jack as my coach. He served as a great mentor, helping me build both technical and
@@ -166,6 +177,7 @@ example for others and a key contributor to any team!"
 
 ##### Wesley Morlock, Engineering Manager, Kantata
 
+
 "Jack provided invaluable leadership as a Principal Software Engineer at Kantata. He was a powerful
 voice for the technology but made sure to advocate for changes that were also certain to provide
 immediate impact to the customer. I highly recommend Jack as a excellent dev ops engineer and as a
@@ -173,12 +185,14 @@ technical leader."
 
 ##### Nathan Perry, Principal Software Engineer, Kantata
 
+
 "Jack is talented both as software developer and as an operations engineer. While working together
 in a Principal Engineer capacity, I saw how passionate Jack is about helping his colleagues and his
 organization level up. He is a great engineer with excellent leadership and organizational
 abilities."  
 
 ##### Jason Larsen, Software Engineering Manager, Kantata
+
 
 "Jack is a great co-worker. He is awesome at understanding the direction teams need to go to make
 important improvements in Kantata’s Engineering organization as a whole. He has been instrumental in
@@ -188,10 +202,12 @@ entire team."
 
 ##### Justin Hurstwright, Principal Software Engineer, Kantata
 
+
 "Jack is a phenomenal resource to work with. He is very knowledgeable about programming and cloud
 infrastructure and is always eager to learn new things."  
 
 ##### Donovan Hubbard, Senior DevOps Engineer, Kantata
+
 
 "Jack has a flair for finding better, faster, and more reliable ways to get things done. He
 advocates best practices, like unit testing, and has a deep knowledge of OO architecture. Jack
@@ -200,6 +216,7 @@ thinks on his toes, and will always be there with the team at 4 a.m. if circumst
 
 ##### Greg Whitescarver, Founder, Mojave
 
+
 "With Jack, the more complex the problem, the more simple his solutions. From eradicating dynamic
 php bugs to providing innovative javascript capabilities, Master Senechal is more than a mind to be
 reckoned with, he's an integrative capacity builder with a wide range of technological expertise. If
@@ -207,6 +224,7 @@ there is anything that can be done through web development, Jack can figure out 
 make it happen."  
 
 ##### Adam Apollo, Cofounder & CEO, Superluminal Systems
+
 
 [Kantata]: http://kantata.com
 [linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
