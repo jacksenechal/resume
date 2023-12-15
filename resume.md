@@ -8,36 +8,16 @@ GitHub: [github.com/jacksenechal][]
 LinkedIn: [linkedin.com/in/jacksenechal][]  
 
 
-Introduction
-------------
+Summary
+-------
 
-*Seasoned Principal Software Engineer with a proven track record in team leadership and software
-development, aiming to transition into an AI Engineer or Manager role to drive AI innovation and
-contribute significantly to globally impactful technologies.*
-
-As a seasoned Principal Software Engineer with a rich history of leading teams through complex and
-challenging projects, I am now focusing my expertise towards the AI industry. With a goal to
-transition into an AI Engineer or Manager role, and ultimately into ML research, I aspire to
-contribute to world-changing technologies that enhance humanity's future.
-
-At Kantata, I honed my leadership capabilities, transforming teams to navigate and succeed in
-demanding environments. I specialize in building cohesive units that excel in software development,
-marked by a track record of stabilizing critical systems and steering them towards success. My
-leadership philosophy is rooted in empathy, collaboration, and transparency, drawing inspiration
-from Lao Tzu's teachings on subtle yet effective guidance.
-
-In my technical journey, I have consistently balanced precision and pragmatism, ensuring that the
-products we develop are not only technically sound but also valuable and user-friendly. This
-combination of technical acumen and leadership skill positions me uniquely for roles where managing
-teams and driving AI innovation are paramount.
-
-My ambition is clear: to contribute significantly to the AI field, leveraging my experience to lead
-teams in developing technologies that make a tangible difference. I am eager to embrace the
-challenges and opportunities in AI, with a vision of eventually founding a company at the
-intersection of AI and globally impactful tech.
-
-In sum, I offer a blend of seasoned leadership, technical expertise, and a deep commitment to
-meaningful innovation, ready to make a significant impact in the AI industry.
+- Proven leader in software development and team management
+- Committed mentor and coach, elevating team members' skill sets and fostering professional growth
+- Strategic thinker, mercurial innovator, and expert problem solver
+- Resilient and dedicated, ready to embrace challenges and opportunities
+- Strong customer focus, advocating for impactful changes and ensuring product value
+- Entrepreneurial spirit with experience in co-founding and consulting roles
+- 20 years of engineering experience
 
 
 Industry Experience
