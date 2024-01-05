@@ -131,7 +131,7 @@ Skills
 
 ### Additional Competencies
 - **Industry Knowledge**: Software Engineering, Web Development, Cloud Computing, AI/ML Familiarity, Startup Ecosystem, SaaS, PaaS, B2B Software.
-- **Personal Attributes**: Resilience, Innovation, Dedication, Entrepreneurial Spirit, Strategic Thinker, Out of the Box Thinker, Detail-Oriented, Analytical Mindset, Kindness and Compassion, Truth Seeker.
+- **Personal Attributes**: Resilient, Innovative, Dedicated, Entrepreneurial, Strategic Thinker, Out of the Box Thinker, Detail-Oriented, Analytical, Kind and Compassionate, Truth Seeker.
 
 
 Education
