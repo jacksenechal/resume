@@ -109,6 +109,31 @@ Industry Experience
     MySQL-accessible format.
 
 
+Skills
+------
+
+### Technical Skills
+- **Languages & Frameworks**: Ruby on Rails, Node.js, JavaScript, Bash, Python, React.
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Cloud-based data services.
+- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), CircleCI, GitHub Actions, Terraform, Ansible, Linux, Git, Webpack, Cloudfront.
+- **Web Technologies**: HTML, CSS, Front-end Development, Responsive Design, Back-end Development,
+    Distributed Systems, Web3/DWeb, Decentralized Technologies.
+- **Software Development**: Object-Oriented Programming (OOP), Functional Programming, API Design and Development, Automated Testing, Continuous Integration, Continuous Deployment, CI/CD, System Architecture, Microservices.
+
+### Methodologies
+- **Project Management**: Agile, Pair Programming, Test-Driven Development (TDD), DevOps, Lean Thinking, Rapid Prototyping, Scrum, Kanban.
+- **Design & Architecture**: Software Design Patterns, Systems Design, Infrastructure as Code (IAC), Data Pipeline Design, Cloud-Native Architecture, User Interface Design.
+
+### Organizational & Soft Skills
+- **Leadership & Management**: Team Building, Cross-Functional Leadership, Coaching & Mentoring, Talent Recruitment & Development, High-Performance Team Management, Strategic Planning, Decision Making, Change Management.
+- **Communication & Collaboration**: Effective Communication, Stakeholder Engagement, Negotiation, Problem-Solving, Conflict Resolution, Customer-Oriented Approach.
+- **Innovation & Creativity**: Entrepreneurship, Creative Problem Solving, Product Development and Innovation, Adaptive Learning, Forward-Thinking.
+
+### Additional Competencies
+- **Industry Knowledge**: Software Engineering, Web Development, Cloud Computing, AI/ML Familiarity, Startup Ecosystem, SaaS, PaaS, B2B Software.
+- **Personal Attributes**: Resilience, Innovation, Dedication, Entrepreneurial Spirit, Strategic Thinker, Out of the Box Thinker, Detail-Oriented, Analytical Mindset, Kindness and Compassion, Truth Seeker.
+
+
 Education
 ---------
 
