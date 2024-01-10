@@ -159,6 +159,8 @@ Recommendations
 
 Please see my recommendations on [LinkedIn][].
 
+Excellent references available upon request.
+
 [Kantata]: http://kantata.com
 [linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
 [LinkedIn]: https://www.linkedin.com/in/jacksenechal
