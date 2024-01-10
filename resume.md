@@ -28,10 +28,10 @@ Industry Experience
 ### Co-founder, Mirror App
 #### (May 2023 - Current)
 
--   Working with GPT-4 to build a virtual astrologer chatbot.
+-   Working with GPT-4 to build a virtual astrologer chat app.
 -   Full-stack development with Ruby on Rails, HTML+CSS, Javascript, responsive UI+UX design.
 -   Infrastructure implementation with scalable hosting, database, CI/CD, and CDN. 
--   Wrote Ruby code to manage GPT conversation context, roles, and backend streaming processes. 
+-   Managing GPT conversation context, roles, and backend streaming processes. 
 -   Project management, roadmap planning, prioritization, and critical path identification.
 
 ### Principal Software Engineer, [Kantata][]
