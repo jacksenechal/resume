@@ -13,13 +13,13 @@ LinkedIn: [linkedin.com/in/jacksenechal][]
 Summary
 -------
 
-- Proven leader in software development and team management
-- Committed mentor and coach, elevating team members' skill sets and fostering professional growth
+- Proven leader in software development and **team management**
+- Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
 - Strategic thinker, mercurial innovator, and expert problem solver
 - Resilient and dedicated, ready to embrace challenges and opportunities
-- Strong customer focus, advocating for impactful changes and ensuring product value
+- Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with experience in co-founding and consulting roles
-- Full-stack generalist with 15+ years of hands-on engineering experience
+- **Full-stack generalist** with **15+ years** of hands-on engineering experience
 
 
 Industry Experience
