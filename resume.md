@@ -1,7 +1,7 @@
 Jack Senechal
 =============
 
-Software Engineer / Leader / Generalist
+Software Engineer / Engineering Leader
 
 Located in Novato, CA  
 Phone: 415-779-2701  
