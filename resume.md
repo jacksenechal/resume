@@ -26,7 +26,7 @@ Industry Experience
 -------------------
 
 ### Co-founder, Mirror App
-#### (May 2023 - Current)
+#### (Dec 2023 - Current)
 
 -   Working with GPT-4 to build a virtual astrologer chat app.
 -   Full-stack development with Ruby on Rails, HTML+CSS, Javascript, responsive UI+UX design.
