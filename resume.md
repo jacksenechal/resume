@@ -1,7 +1,7 @@
 Jack Senechal
 =============
 
-Principal Engineer / Coach / Leader
+Software Engineer / Leader / Generalist
 
 Located in Novato, CA  
 Phone: 415-779-2701  
@@ -19,7 +19,7 @@ Summary
 - Resilient and dedicated, ready to embrace challenges and opportunities
 - Strong customer focus, advocating for impactful changes and ensuring product value
 - Entrepreneurial spirit with experience in co-founding and consulting roles
-- 20 years of engineering experience
+- Full-stack generalist with 15+ years of hands-on engineering experience
 
 
 Industry Experience
