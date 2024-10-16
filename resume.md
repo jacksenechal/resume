@@ -13,7 +13,7 @@ LinkedIn: [linkedin.com/in/jacksenechal][]
 Summary
 -------
 
-- Proven leader in software development and **team management**
+- Proven leader in software development, infrastructure, and **team management**
 - Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
 - Strategic thinker, mercurial innovator, and expert problem solver
 - Resilient and dedicated, ready to embrace challenges and opportunities
@@ -25,13 +25,21 @@ Summary
 Industry Experience
 -------------------
 
-### Co-founder, Mirror App
-#### (Dec 2023 - Current)
+### Infrastructure Engineer, [Tobiko][]
+#### (Feb 2024 - Present)
 
--   Working with GPT-4 to build a virtual astrologer chat app.
--   Full-stack development with Ruby on Rails, HTML+CSS, Javascript, responsive UI+UX design.
+-   Creating a new infrastructure platform for the Tobiko Cloud product.
+-   Rapid iteration on a broad range of platform initiatives, onboarding of new customers, and supporting the development team.
+-   Implemented customer support and incident response platform, integrated with Slack, and onboarded teammates and customers.
+-   Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
+
+### Co-founder, Mirror App
+#### (Dec 2023 - Present)
+
+-   Chatbot integrating multiple LLMs, complex prompting, tool use, and context augmentation.
+-   Product development, Figma design, UX/UI design. Creating delightful and polished features.
+-   Full-stack development with Ruby on Rails, HTML+CSS, Tailwind, Javascript, responsive UI+UX.
 -   Infrastructure implementation with scalable hosting, database, CI/CD, and CDN. 
--   Managing GPT conversation context, roles, and backend streaming processes. 
 -   Project management, roadmap planning, prioritization, and critical path identification.
 
 ### Principal Software Engineer, [Kantata][]
@@ -122,10 +130,10 @@ Skills
 ------
 
 ### Technical Skills
-- **Languages & Frameworks**: Ruby on Rails, Node.js, JavaScript, Bash, Python, React.
+- **Languages & Frameworks**: Ruby on Rails, Python, Node.js, JavaScript, Bash.
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Cloud-based data services.
-- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), CircleCI, GitHub Actions, Terraform, Ansible, Linux, Git, Webpack, Cloudfront.
-- **Web Technologies**: HTML, CSS, Front-end Development, Responsive Design, Back-end Development,
+- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), CircleCI, GitHub Actions, Terraform, Ansible, Pulumi, Linux, Git, Webpack, Cloudfront.
+- **Web Technologies**: HTML, CSS, Tailwind, Front-end Development, Responsive Design, Back-end Development,
     Distributed Systems, Web3/DWeb, Decentralized Technologies.
 - **Software Development**: Object-Oriented Programming (OOP), Functional Programming, API Design and Development, Automated Testing, Continuous Integration, Continuous Deployment, CI/CD, System Architecture, Microservices.
 
@@ -238,6 +246,7 @@ figure out how to do it, and make it happen."
 ##### Adam Apollo, Cofounder & CEO, Superluminal Systems
 
 
+[Tobiko]: http://tobikodata.com
 [Kantata]: http://kantata.com
 [linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
 [github.com/jacksenechal]: https://github.com/jacksenechal
