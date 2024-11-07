@@ -1,7 +1,7 @@
 Jack Senechal
 =============
 
-Software Engineer / Leader / Generalist
+Software Engineer / Engineering Leader
 
 Located in Novato, CA  
 Phone: 415-779-2701  
@@ -13,27 +13,44 @@ LinkedIn: [linkedin.com/in/jacksenechal][]
 Summary
 -------
 
-- Proven leader in software development and team management
-- Committed mentor and coach, elevating team members' skill sets and fostering professional growth
+- Proven leader in software development, infrastructure, and **team management**
+- Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
 - Strategic thinker, mercurial innovator, and expert problem solver
 - Resilient and dedicated, ready to embrace challenges and opportunities
-- Strong customer focus, advocating for impactful changes and ensuring product value
+- Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with experience in co-founding and consulting roles
-- Full-stack generalist with 15+ years of hands-on engineering experience
+- **Full-stack generalist** with **15+ years** of hands-on engineering experience
 
 
 Industry Experience
 -------------------
 
+### Infrastructure Engineer, [Tobiko][]
+#### (Mar 2024 - Oct 2024)
+
+-   Collaborated with a fast-paced team to architect and implement a robust, scalable, modern cloud platform serving customer workloads.
+-   Built out CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
+-   Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
+-   Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
+
+### Co-founder, Mirror App
+#### (Dec 2023 - Present)
+
+-   Chatbot development integrating multiple LLMs, complex prompting, tool use, and context augmentation.
+-   Product development, Figma design, UX/UI design. Creating delightful and polished features.
+-   Full-stack development with Ruby on Rails, HTML+CSS, Tailwind, Javascript, responsive UI+UX.
+-   Project management, roadmap planning, prioritization, and critical path identification.
+-   Product and company visioning, product-market fit analysis.
+
 ### Principal Software Engineer, [Kantata][]
 #### (2017 - Dec 2023)
 
 -   Operations Team Leadership: Over four years, I recruited and led a new team dedicated to
-    building and scaling the infrastructure platform. I was instrumental in leading the transition
-    towards a DevOps culture throughout the organization. I created a clear, calm, and constructive
+    building and scaling the infrastructure platform. I was instrumental in leading the organization's
+    transition towards a DevOps culture. I created a clear, calm, and constructive
     environment that allowed the team to thrive. I was responsible for roadmap stewardship,
     untangling requirements, and arranging priorities to maximize flow. We transitioned a large
-    legacy infrastructure codebase to cutting edge, cloud-native, IAC-oriented tools. I was also
+    legacy infrastructure codebase to cutting-edge, cloud-native, IAC-oriented tools. I was also
     involved in coding, architecture, and collaboration on numerous mission-critical projects.
 -   Insights Platform Leadership: For three months, I led a short transition team that was
     responsible for overseeing and improving the BI data pipeline. We successfully migrated the
@@ -53,11 +70,11 @@ Industry Experience
 -   Development: Design, architecture, and implementation of cross-platform mobile game targeted at
     iOS and Android via PhoneGap.
 -   Team Processes: Implementing and honing development workflow with agile methods such as pair
-    programming, testing, and continuous integration. Developing launch strategy, setting up
+    programming, testing, and continuous integration. Developing launch strategy, and setting up
     processes and workflows to enable rapid response to issues.
 -   Business Strategy: product design, monetization strategy, marketing strategy, as well as
     contributing to the company's mission, vision, and governance models.
--   Technology: Famo.us/Flux front-end, Parse/Node backend, Firebase for realtime notifications and
+-   Technology: Famo.us/Flux front-end, Parse/Node backend, Firebase for real-time notifications and
     chat, Webpack and Gulp build environment, Karma/Chai testing, and continuous deployment to
     AWS/Cloudfront via CircleCI.
 
@@ -69,10 +86,10 @@ Industry Experience
     with existing Ruby on Rails application. Launched beta cloud name service based on XDI and
     Node.js.
 -   [Superluminal Systems][] - 2013 - Helped to develop the Superluminal Learning Management System
-    and launch the first client site. Building data visualizations and UI elements in D3. Wordpress
-    plugin wrangling, development and customization.
+    and launch the first client site. Building data visualizations and UI elements in D3. WordPress
+    plugin wrangling, development, and customization.
 -   OpenTest Pro, LLC - 2008 - 2012 - Founded the company to provide educational resources relating
-    to automated testing and continuous integration using open source tools in a PHP environment.
+    to automated testing and continuous integration using open-source tools in a PHP environment.
     Technical writing, web application development in Ruby on Rails and Flex, studio voiceover
     recording, and project management.
 -   [Turnbull & Asser][] shirtmakers - 2009 - Built a virtual showroom for their bespoke department,
@@ -82,9 +99,9 @@ Industry Experience
 ### Web Developer, OnForce, Inc
 #### (2006 - 2007)
 
--   Introduced automated testing and continuous integration. Implemented comprehensive test suite
+-   Introduced automated testing and continuous integration. Implemented a comprehensive test suite
     for the public-facing API.
--   Project managed the implementation of Salesforce throughout the company, and oversaw the
+-   Project managed the implementation of Salesforce throughout the company and oversaw the
     administration of the application.
 -   Integrated OnForce platform with Salesforce APIs to provide up-to-date customer information for
     sales and support teams.
@@ -103,7 +120,7 @@ Industry Experience
 
 ### Intern, US Navy FNMOD
 #### (2001)
--   Programmer, database designer for the Fleet Numerical Meteorology and Oceanography Detachment.
+-   Programmer and database designer for the Fleet Numerical Meteorology and Oceanography Detachment.
 -   Migrated Navy weather data from a flat text format to a MySQL database.
 -   Wrote a Java application to quality check, normalize, and convert weather data to a
     MySQL-accessible format.
@@ -113,12 +130,12 @@ Skills
 ------
 
 ### Technical Skills
-- **Languages & Frameworks**: Ruby on Rails, Node.js, JavaScript, Bash, Python, React.
+- **Languages & Frameworks**: Ruby on Rails, Python, Node.js, JavaScript, Bash.
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Cloud-based data services.
-- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), CircleCI, GitHub Actions, Terraform, Ansible, Linux, Git, Webpack, Cloudfront.
-- **Web Technologies**: HTML, CSS, Front-end Development, Responsive Design, Back-end Development,
+- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), CircleCI, GitHub Actions, Terraform, Ansible, Pulumi, Linux, Git, Webpack, Cloudfront.
+- **Web Technologies**: HTML, CSS, Tailwind, Front-end Development, Responsive Design, Back-end Development,
     Distributed Systems, Web3/DWeb, Decentralized Technologies.
-- **Software Development**: Object-Oriented Programming (OOP), Functional Programming, API Design and Development, Automated Testing, Continuous Integration, Continuous Deployment, CI/CD, System Architecture, Microservices.
+- **Software Development**: Object-oriented programming (OOP), Functional Programming, API Design and Development, Automated Testing, Continuous Integration, Continuous Deployment, CI/CD, System Architecture, Microservices.
 
 ### Methodologies
 - **Project Management**: Agile, Pair Programming, Test-Driven Development (TDD), DevOps, Lean Thinking, Rapid Prototyping, Scrum, Kanban.
@@ -161,7 +178,7 @@ others' skill sets**."
 
 
 "Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you
-how to solve them**. He guided me and my team through a bunch of challenging gitops situations with
+how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with
 patience and kindness, leading by example. Always diligent with his work, willing to roll up his
 sleeves to get things done and **find creative solutions**, maybe tinkering in some kind of script
 that would make the manual processes easier and more resilient. Everyone would be lucky to have
@@ -174,7 +191,7 @@ someone like him in their teams!"
 to work with Jack as my coach. He served as a great mentor, helping me build both technical and
 professional skills and **forming me into the engineer that I am today**. Throughout our time
 together, Jack was caring and invested in helping me set goals and develop my career. **His
-mentorship was a key factor in elevating myself from an incoming Junior Engineer to an Engineering
+mentorship was a key factor in elevating me from an incoming Junior Engineer to an Engineering
 Manager**. Jack has a great curiosity and a strong set of technical capabilities that allow him to
 serve as a great example for others and a key contributor to any team!"  
 
@@ -183,13 +200,13 @@ serve as a great example for others and a key contributor to any team!"
 
 "Jack provided invaluable leadership as a Principal Software Engineer at Kantata. He was a powerful
 voice for the technology but made sure to **advocate for changes that were also certain to provide
-immediate impact to the customer**. I highly recommend Jack as a excellent dev ops engineer and as a
+immediate impact to the customer**. I highly recommend Jack as an excellent dev ops engineer and as a
 technical leader."  
 
 ##### Nathan Perry, Principal Software Engineer, Kantata
 
 
-"Jack is talented both as software developer and as an operations engineer. While working together
+"Jack is talented both as a software developer and as an operations engineer. While working together
 in a Principal Engineer capacity, I saw how **passionate Jack is about helping his colleagues and
 his organization level up**. He is a great engineer with excellent leadership and organizational
 abilities."  
@@ -229,6 +246,7 @@ figure out how to do it, and make it happen."
 ##### Adam Apollo, Cofounder & CEO, Superluminal Systems
 
 
+[Tobiko]: http://tobikodata.com
 [Kantata]: http://kantata.com
 [linkedin.com/in/jacksenechal]: https://www.linkedin.com/in/jacksenechal
 [github.com/jacksenechal]: https://github.com/jacksenechal
