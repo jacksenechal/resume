@@ -25,14 +25,6 @@ Summary
 Industry Experience
 -------------------
 
-### Infrastructure Engineer, [Tobiko][]
-#### (Mar 2024 - Oct 2024)
-
--   Collaborated with a fast-paced team to architect and implement a robust, scalable, modern cloud platform serving customer workloads.
--   Built out CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
--   Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
--   Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
-
 ### Co-founder, Mirror App
 #### (Dec 2023 - Present)
 
@@ -41,6 +33,14 @@ Industry Experience
 -   Full-stack development with Ruby on Rails, HTML+CSS, Tailwind, Javascript, responsive UI+UX.
 -   Project management, roadmap planning, prioritization, and critical path identification.
 -   Product and company visioning, product-market fit analysis.
+
+### Infrastructure Engineer, [Tobiko][]
+#### (Mar 2024 - Oct 2024)
+
+-   Collaborated with a fast-paced team to architect and implement a robust, scalable, modern cloud platform serving customer workloads.
+-   Built out CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
+-   Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
+-   Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
 
 ### Principal Software Engineer, [Kantata][]
 #### (2017 - Dec 2023)
