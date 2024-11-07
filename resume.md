@@ -40,7 +40,7 @@ Industry Experience
 -   Product development, Figma design, UX/UI design. Creating delightful and polished features.
 -   Full-stack development with Ruby on Rails, HTML+CSS, Tailwind, Javascript, responsive UI+UX.
 -   Project management, roadmap planning, prioritization, and critical path identification.
--   Product and company visioning, product-market fit analysis, 
+-   Product and company visioning, product-market fit analysis.
 
 ### Principal Software Engineer, [Kantata][]
 #### (2017 - Dec 2023)
