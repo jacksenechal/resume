@@ -1,7 +1,7 @@
 Jack Senechal
 =============
 
-Software Engineer / Engineering Leader
+Engineering Leader / Entrepreneur
 
 Located in Novato, CA  
 Phone: 415-779-2701  
@@ -26,7 +26,7 @@ Industry Experience
 -------------------
 
 ### Co-founder, Mirror App
-#### (Dec 2023 - Present)
+#### (Nov 2024 - Present)
 
 -   Chatbot development integrating multiple LLMs, complex prompting, tool use, and context augmentation.
 -   Product development, Figma design, UX/UI design. Creating delightful and polished features.
@@ -42,7 +42,7 @@ Industry Experience
 -   Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
 -   Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
 
-### Principal Software Engineer, [Kantata][]
+### Engineering Manager / Principal Software Engineer, [Kantata][]
 #### (2017 - Dec 2023)
 
 -   Operations Team Leadership: Over four years, I recruited and led a new team dedicated to
