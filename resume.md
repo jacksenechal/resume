@@ -22,10 +22,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Industry Experience
 
-### Co-founder, Building Humane Technology
+### Technical Collaborator, Building Humane Technology
 #### (2024 - Present)
 
-- Co-founding an initiative to create practical tools and frameworks for measuring and improving humaneness in AI systems.
 - Building an open-source Humane Tech Framework to help builders, designers, and product teams create technology that serves human well-being.
 - Community building and event organization, including hackathons and meetups focused on humane technology practices.
 - Developing metrics and assessment tools to make humane tech practices accessible and actionable for organizations.
