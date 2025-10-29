@@ -22,12 +22,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Industry Experience
 
-### Technical Collaborator, Building Humane Technology
-#### (2024 - Present)
+### Fractional CTO, Freelance
+#### (June 2025 - Present)
 
-- Building an open-source Humane Tech Framework to help builders, designers, and product teams create technology that serves human well-being.
-- Community building and event organization, including hackathons and meetups focused on humane technology practices.
-- Developing metrics and assessment tools to make humane tech practices accessible and actionable for organizations.
+- Advising and leading technical strategy for startups and mission-driven organizations, with a focus on scalability, humane technology, and AI-driven innovation.
+- Providing architectural guidance, team alignment, and process improvements to help early-stage companies stabilize infrastructure and accelerate delivery.
+- Currently supporting **[Building Humane Technology](https://buildinghumanetech.com)** through the creation of **[HumaneBench.ai](https://humanebench.ai)**, an open-source benchmark to quantify how AI systems support human well-being.
 
 ### Co-founder, Mirror Astrology
 #### (Nov 2024 - Present)
