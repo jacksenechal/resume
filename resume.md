@@ -8,7 +8,6 @@ Email: <jacksenechal@gmail.com>
 GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)  
 LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
-
 ## Summary
 
 - Proven leader in software development, infrastructure, and **team management** with **15+ years** of hands-on experience
@@ -18,79 +17,37 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with multiple co-founding experiences
 - **Full-stack generalist** specializing in DevOps, AI/LLM integration, and modern web
-- Currently available for fractional CTO and technical consulting engagements
+- Senior infrastructure and reliability engineer specializing in DevOps, cloud-native platforms, and large-scale systems
 
 ## Industry Experience
 
-### Fractional CTO, Freelance
+### Technical Lead, Building Humane Technology
 #### (June 2025 - Present)
 
-- Advising and leading technical strategy for startups and mission-driven organizations, with a focus on scalability, humane technology, and AI-driven innovation.
-- Providing architectural guidance, team alignment, and process improvements to help early-stage companies stabilize infrastructure and accelerate delivery.
-- Currently supporting **[Building Humane Technology](https://buildinghumanetech.com)** through the creation of **[HumaneBench.ai](https://humanebench.ai)**, an open-source benchmark to quantify how AI systems support human well-being.
-
-### Co-founder, Mirror Astrology
-#### (Nov 2024 - Present)
-
-- Chatbot development integrating multiple LLMs, complex prompting, tool use, and context augmentation.
-- Product development, Figma design, UX/UI design. Creating delightful and polished features.
-- Full-stack development with Ruby on Rails, HTML+CSS, Tailwind, JavaScript, responsive UI+UX.
-- Project management, roadmap planning, prioritization, and critical path identification.
-- Product and company visioning, product-market fit analysis.
+- Co-architecting HumaneBench.ai, an open-source benchmark for evaluating AI systems against humane technology principles.
+- Developing evaluation framework built on AISI Inspect with extensible scenario datasets testing AI assistant behavior across sociotechnical risk domains.
+- Shaping product and technical roadmap including production monitoring applications, certification programs, multi-turn evaluation capabilities, and expansion strategies to broaden coverage of human impact domains and incorporate diverse community perspectives in annotation and LLM judge training.
+- Contributing to education initiatives including Humane Tech and Agentic AI training for the UN Secretariat and broader developer community, plus coordinating hackathons and public AMAs.
+- Building partnerships and fostering open-source community engagement around humane AI evaluation standards.
 
 ### Infrastructure Engineer, Tobiko
 #### (Mar 2024 - Oct 2024)
 
-- Collaborated with a fast-paced team to architect and implement a robust, scalable, modern cloud platform serving customer workloads.
-- Built out CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
-- Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
-- Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
+- Designed, implemented, and operated a scalable cloud platform supporting production customer workloads, with a focus on reliability, security, and operational excellence.
+- Built and maintained CI/CD pipelines enabling automated build, test, and deployment workflows, reducing manual intervention and improving delivery speed.
+- Operated Kubernetes-based platforms across cloud environments, supporting containerized services with strong observability and incident response practices.
+- Implemented infrastructure as code and automation patterns to ensure consistency, scalability, and repeatable deployments.
+- Partnered cross-functionally with engineering and operations teams to improve platform stability and developer workflows.
 
 ### Engineering Manager / Principal Software Engineer, Kantata
 #### (2017 - Dec 2023)
 
-- **Operations Team Leadership**: Over four years, I recruited and led a new team dedicated to building and scaling the infrastructure platform. I was instrumental in leading the organization's transition towards a DevOps culture. I created a clear, calm, and constructive environment that allowed the team to thrive. I was responsible for roadmap stewardship, untangling requirements, and arranging priorities to maximize flow. We transitioned a large legacy infrastructure codebase to cutting-edge, cloud-native, IAC-oriented tools. I was also involved in coding, architecture, and collaboration on numerous mission-critical projects.
-- **Insights Platform Leadership**: For three months, I led a short transition team that was responsible for overseeing and improving the BI data pipeline. We successfully migrated the pipeline to Kubernetes.
-- **M-Bridge Platform Leadership**: For two years, I spearheaded a new team to stabilize and enhance an agent-based integration platform. We established operational metrics that significantly reduced errors and incidents by approximately 100x. We successfully performed a migration to Kubernetes with zero downtime, including relational, document, and cache databases.
-- **Additional Responsibilities**: I took on cross-functional roles that included mentorship and coaching, interviewing and hiring, and organizational change management and process optimization. My efforts were recognized when I received the Top Performer Award in 2021.
-
-### Lead Developer, Co-founder, Pegg
-#### (2014 - 2017)
-
-- Development: Design, architecture, and implementation of cross-platform mobile game targeted at iOS and Android via PhoneGap.
-- Team Processes: Implementing and honing development workflow with agile methods such as pair programming, testing, and continuous integration. Developing launch strategy, and setting up processes and workflows to enable rapid response to issues.
-- Business Strategy: product design, monetization strategy, marketing strategy, as well as contributing to the company's mission, vision, and governance models.
-- Technology: Famo.us/Flux front-end, Parse/Node backend, Firebase for real-time notifications and chat, Webpack and Gulp build environment, Karma/Chai testing, and continuous deployment to AWS/Cloudfront via CircleCI.
-
-### Consultant and Entrepreneur
-#### (2008 - 2014)
-
-- 2014 - Rapid prototyping of global-graph technologies using XDI. Integration of XDI services with existing Ruby on Rails application. Launched beta cloud name service based on XDI and Node.js.
-- Superluminal Systems - 2013 - Helped to develop the Superluminal Learning Management System and launch the first client site. Building data visualizations and UI elements in D3. WordPress plugin wrangling, development, and customization.
-- OpenTest Pro, LLC - 2008 - 2012 - Founded the company to provide educational resources relating to automated testing and continuous integration using open-source tools in a PHP environment. Technical writing, web application development in Ruby on Rails and Flex, studio voiceover recording, and project management.
-- Turnbull & Asser shirtmakers - 2009 - Built a virtual showroom for their bespoke department, allowing users to browse fabrics and place orders. Ruby on Rails backend, Flash frontend.
-
-### Web Developer, OnForce, Inc
-#### (2006 - 2007)
-
-- Introduced automated testing and continuous integration. Implemented a comprehensive test suite for the public-facing API.
-- Project managed the implementation of Salesforce throughout the company and oversaw the administration of the application.
-- Integrated OnForce platform with Salesforce APIs to provide up-to-date customer information for sales and support teams.
-
-### Development Lead, JBA Network
-#### (2003 - 2006)
-
-- Project manager and lead programmer for mynewsletterbuilder.com. Architected and implemented the initial release, and later oversaw the development team for the project.
-- Developed a modular, evented, MVC programming framework.
-- Concept development, project management, and programming for other company products and services, including jukeboxalive.com and byregion.net.
-- Systems administration and networking (Linux, Windows).
-
-### Intern, US Navy FNMOD
-#### (2001)
-
-- Programmer and database designer for the Fleet Numerical Meteorology and Oceanography Detachment.
-- Migrated Navy weather data from a flat text format to a MySQL database.
-- Wrote a Java application to quality check, normalize, and convert weather data to a MySQL-accessible format.
+- Led the design, operation, and evolution of mission-critical infrastructure platforms supporting large-scale, distributed production systems.
+- Recruited and led an infrastructure and DevOps team, driving adoption of modern SRE and cloud-native practices across the organization.
+- Migrated legacy infrastructure to Kubernetes-based platforms using infrastructure-as-code tooling, achieving zero-downtime deployments for critical services.
+- Designed and operated CI/CD pipelines for secure software delivery across multiple environments, integrating automated testing, deployment, and observability.
+- Established operational metrics and monitoring systems that reduced platform errors and production incidents by ~100x.
+- Collaborated closely with application engineers, security stakeholders, and leadership to ensure systems met reliability, scalability, and security requirements.
 
 ## Open Source Projects
 
