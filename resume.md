@@ -16,8 +16,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Resilient and dedicated, ready to embrace challenges and opportunities
 - Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with multiple co-founding experiences
-- **Full-stack generalist** specializing in DevOps, AI/LLM integration, and modern web
-- Senior infrastructure and reliability engineer specializing in DevOps, cloud-native platforms, and large-scale systems
+- Principal-level engineer specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
+- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
 
 ## Industry Experience
 
@@ -25,15 +25,16 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 #### (June 2025 - Present)
 
 - Co-architecting HumaneBench.ai, an open-source benchmark for evaluating AI systems against humane technology principles.
-- Developing evaluation framework built on AISI Inspect with extensible scenario datasets testing AI assistant behavior across sociotechnical risk domains.
-- Shaping product and technical roadmap including production monitoring applications, certification programs, multi-turn evaluation capabilities, and expansion strategies to broaden coverage of human impact domains and incorporate diverse community perspectives in annotation and LLM judge training.
+- Developing an extensible AI evaluation framework built on AISI Inspect, focused on measuring and improving LLM behavior in real-world developer and operational workflows.
+- Shaping product and technical roadmap for AI-driven tooling, including production monitoring concepts, multi-turn evaluation, and maturity models to support adoption, measurement, and continuous improvement.
 - Contributing to education initiatives including Humane Tech and Agentic AI training for the UN Secretariat and broader developer community, plus coordinating hackathons and public AMAs.
 - Building partnerships and fostering open-source community engagement around humane AI evaluation standards.
 
 ### Infrastructure Engineer, Tobiko
 #### (Mar 2024 - Oct 2024)
 
-- Designed, implemented, and operated a scalable cloud platform supporting production customer workloads, with a focus on reliability, security, and operational excellence.
+- Led large-scale modernization initiatives, reducing technical debt by standardizing CI/CD, improving test automation, and introducing tooling patterns that accelerated developer velocity and reduced operational load.
+- Designed and operated a scalable cloud platform enabling engineering teams to deliver production workloads faster, with a focus on reliability, security, and operational excellence.
 - Built and maintained CI/CD pipelines enabling automated build, test, and deployment workflows, reducing manual intervention and improving delivery speed.
 - Operated Kubernetes-based platforms across cloud environments, supporting containerized services with strong observability and incident response practices.
 - Implemented infrastructure as code and automation patterns to ensure consistency, scalability, and repeatable deployments.
@@ -68,7 +69,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 ### Technical Skills
 
 - **Languages & Frameworks**: Ruby on Rails, Python, Node.js, JavaScript, TypeScript, Bash.
-- **AI/LLM Development**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
+- **AI/LLM Development**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Cloud-based data services.
 - **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), Google Cloud Platform, CircleCI, GitHub Actions, Terraform, Ansible, Pulumi, Linux, Git, Webpack, Cloudfront, Helm.
 - **Web Technologies**: HTML, CSS, Tailwind, Front-end Development, Responsive Design, Back-end Development, Distributed Systems, Web3/DWeb, Decentralized Technologies.
