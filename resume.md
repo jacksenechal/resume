@@ -33,18 +33,17 @@ LinkedIn: [https://linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksen
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote (US)
 
-- Led large-scale modernization initiatives, reducing technical debt by standardizing CI/CD, improving test automation, and introducing tooling patterns that accelerated developer velocity and reduced operational load.
-- Designed and operated a scalable cloud platform enabling engineering teams to deliver production workloads faster, with a focus on reliability, security, and operational excellence.
-- Built and maintained CI/CD pipelines enabling automated build, test, and deployment workflows, reducing manual intervention and improving delivery speed.
-- Operated Kubernetes-based platforms across cloud environments, supporting containerized services with strong observability and incident response practices.
-- Implemented infrastructure as code and automation patterns to ensure consistency, scalability, and repeatable deployments.
-- Partnered cross-functionally with engineering and operations teams to improve platform stability and developer workflows.
+- Collaborated with a fast-paced team to architect and implement a robust, scalable, modern cloud platform serving customer workloads.
+- Built out CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
+- Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
+- Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
 
 ### Principal DevOps Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - Led the design, operation, and evolution of mission-critical infrastructure platforms supporting large-scale, distributed production systems.
 - Recruited and led an infrastructure and DevOps team, driving adoption of modern SRE and cloud-native practices across the organization.
+- Reduced technical debt by standardizing CI/CD pipelines, improving test automation, and transitioning legacy infrastructure to modern, cloud-native tooling.
 - Migrated legacy infrastructure to Kubernetes-based platforms using infrastructure-as-code tooling, achieving zero-downtime deployments for critical services.
 - Designed and operated CI/CD pipelines for secure software delivery across multiple environments, integrating automated testing, deployment, and observability.
 - Established operational metrics and monitoring systems that reduced platform errors and production incidents by ~100x.
