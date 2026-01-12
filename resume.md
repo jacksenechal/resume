@@ -5,8 +5,8 @@
 **Located in Novato, CA**  
 Phone: 415-779-2701  
 Email: <jacksenechal@gmail.com>  
-GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)  
-LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
+GitHub: [https://github.com/jacksenechal](https://github.com/jacksenechal)  
+LinkedIn: [https://linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
@@ -21,8 +21,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Industry Experience
 
-### Technical Lead, Building Humane Technology
-#### (June 2025 - Present)
+### Technical Lead
+#### Building Humane Technology | June 2025 - Present | Remote (US)
 
 - Co-architecting HumaneBench.ai, an open-source benchmark for evaluating AI systems against humane technology principles.
 - Developing an extensible AI evaluation framework built on AISI Inspect, focused on measuring and improving LLM behavior in real-world developer and operational workflows.
@@ -30,8 +30,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Contributing to education initiatives including Humane Tech and Agentic AI training for the UN Secretariat and broader developer community, plus coordinating hackathons and public AMAs.
 - Building partnerships and fostering open-source community engagement around humane AI evaluation standards.
 
-### Infrastructure Engineer, Tobiko
-#### (Mar 2024 - Oct 2024)
+### Infrastructure Engineer
+#### Tobiko | Mar 2024 - Oct 2024 | Remote (US)
 
 - Led large-scale modernization initiatives, reducing technical debt by standardizing CI/CD, improving test automation, and introducing tooling patterns that accelerated developer velocity and reduced operational load.
 - Designed and operated a scalable cloud platform enabling engineering teams to deliver production workloads faster, with a focus on reliability, security, and operational excellence.
@@ -40,8 +40,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Implemented infrastructure as code and automation patterns to ensure consistency, scalability, and repeatable deployments.
 - Partnered cross-functionally with engineering and operations teams to improve platform stability and developer workflows.
 
-### Engineering Manager / Principal Software Engineer, Kantata
-#### (2017 - Dec 2023)
+### Principal DevOps Engineer
+#### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - Led the design, operation, and evolution of mission-critical infrastructure platforms supporting large-scale, distributed production systems.
 - Recruited and led an infrastructure and DevOps team, driving adoption of modern SRE and cloud-native practices across the organization.
@@ -49,20 +49,6 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Designed and operated CI/CD pipelines for secure software delivery across multiple environments, integrating automated testing, deployment, and observability.
 - Established operational metrics and monitoring systems that reduced platform errors and production incidents by ~100x.
 - Collaborated closely with application engineers, security stakeholders, and leadership to ensure systems met reliability, scalability, and security requirements.
-
-## Open Source Projects
-
-### Scan MCP (2024 - Present)
-
-MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
-
-[github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
-
-### HumaneBench (2024 - Present)
-
-Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Supports multiple LLM providers with extensible scenario datasets. Python.
-
-[github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
 ## Skills
 
@@ -93,12 +79,26 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Education
 
-### University of North Carolina at Asheville
-#### (May, 2003)
+### Bachelor of Arts in Mathematics
+#### University of North Carolina at Asheville | May 2003
 
-- BA in Mathematics, minor in Computer Science.
+- Minor in Computer Science.
 - Graduated with distinction in Mathematics.
 - Undergraduate research in 4D fractals.
+
+## Open Source Projects
+
+### Scan MCP (2024 - Present)
+
+MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
+
+[github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
+
+### HumaneBench (2024 - Present)
+
+Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Supports multiple LLM providers with extensible scenario datasets. Python.
+
+[github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
 ## Recommendations
 
