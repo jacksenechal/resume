@@ -1,53 +1,67 @@
 # Jack Senechal
 
-## Engineering Leader / Entrepreneur
+## Infrastructure & Platform Engineer
 
-**Located in Novato, CA**  
-Phone: 415-779-2701  
-Email: <jacksenechal@gmail.com>  
-GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)  
+**Located in Novato, CA**
+Phone: 415-779-2701
+Email: <jacksenechal@gmail.com>
+GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)
 LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- Proven leader in software development, infrastructure, and **team management** with **15+ years** of hands-on experience
-- Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
-- Strategic thinker, mercurial innovator, and expert problem solver
-- Resilient and dedicated, ready to embrace challenges and opportunities
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
-- **Full-stack generalist** specializing in DevOps, AI/LLM integration, and modern web
-- Senior infrastructure and reliability engineer specializing in DevOps, cloud-native platforms, and large-scale systems
+- **Senior infrastructure and reliability engineer** with **15+ years** building software and **6+ years leading teams** across multiple platform domains
+- Specializing in DevOps, cloud-native platforms, Kubernetes, and large-scale distributed systems
+- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
+- Led organizational DevOps culture transformations, driving adoption of modern SRE and cloud-native practices
+- Full-stack generalist with deep experience in AI/LLM integration, modern web, and Infrastructure as Code
+- Pragmatic problem solver focused on **reliability, scalability**, and **measurable operational improvement**
 
 ## Industry Experience
 
-### Technical Lead, Building Humane Technology
-#### (June 2025 - Present)
+### Technical Lead
+#### Building Humane Technology | June 2025 - Present | Remote
 
-- Co-architecting HumaneBench.ai, an open-source benchmark for evaluating AI systems against humane technology principles.
-- Developing evaluation framework built on AISI Inspect with extensible scenario datasets testing AI assistant behavior across sociotechnical risk domains.
-- Shaping product and technical roadmap including production monitoring applications, certification programs, multi-turn evaluation capabilities, and expansion strategies to broaden coverage of human impact domains and incorporate diverse community perspectives in annotation and LLM judge training.
-- Contributing to education initiatives including Humane Tech and Agentic AI training for the UN Secretariat and broader developer community, plus coordinating hackathons and public AMAs.
-- Building partnerships and fostering open-source community engagement around humane AI evaluation standards.
+- Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect. Python.
+- Shaping product and technical roadmap including production monitoring applications, multi-turn evaluation capabilities, and expansion strategies.
+- Coordinating open-source community engagement, hackathons, and developer education initiatives.
 
-### Infrastructure Engineer, Tobiko
-#### (Mar 2024 - Oct 2024)
+### Co-founder & Lead Developer
+#### Mirror Astrology | Nov 2024 - Present | Remote
+
+- Owned the entire frontend: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX. Contributed to backend development.
+- Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
+- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+
+### Infrastructure Engineer
+#### Tobiko | Mar 2024 - Oct 2024 | Remote
 
 - Designed, implemented, and operated a scalable cloud platform supporting production customer workloads, with a focus on reliability, security, and operational excellence.
 - Built and maintained CI/CD pipelines enabling automated build, test, and deployment workflows, reducing manual intervention and improving delivery speed.
 - Operated Kubernetes-based platforms across cloud environments, supporting containerized services with strong observability and incident response practices.
 - Implemented infrastructure as code and automation patterns to ensure consistency, scalability, and repeatable deployments.
-- Partnered cross-functionally with engineering and operations teams to improve platform stability and developer workflows.
+- Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
 
-### Engineering Manager / Principal Software Engineer, Kantata
-#### (2017 - Dec 2023)
+### Engineering Manager / Principal Software Engineer
+#### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- Led the design, operation, and evolution of mission-critical infrastructure platforms supporting large-scale, distributed production systems.
-- Recruited and led an infrastructure and DevOps team, driving adoption of modern SRE and cloud-native practices across the organization.
-- Migrated legacy infrastructure to Kubernetes-based platforms using infrastructure-as-code tooling, achieving zero-downtime deployments for critical services.
-- Designed and operated CI/CD pipelines for secure software delivery across multiple environments, integrating automated testing, deployment, and observability.
-- Established operational metrics and monitoring systems that reduced platform errors and production incidents by ~100x.
-- Collaborated closely with application engineers, security stakeholders, and leadership to ensure systems met reliability, scalability, and security requirements.
+- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
+- **Infrastructure Platform** (4 years): Recruited and built a new infrastructure and DevOps team from scratch. Led the organization's DevOps culture transformation, driving adoption of modern SRE and cloud-native practices. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding and architecture. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Designed and operated CI/CD pipelines for secure software delivery across multiple environments.
+- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
+- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+
+### Lead Developer, Co-founder
+#### Pegg | 2014 - 2017 | San Francisco, CA
+
+- Designed, architected, and built a cross-platform mobile app from scratch (iOS/Android). Node.js backend, JS/Phonegap frontend, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
+- Established engineering workflow: pair programming, automated testing (Karma/Chai), continuous integration, and rapid deployment processes.
+- Co-led product strategy, monetization, and launch planning.
+
+### Earlier Career (2001 - 2014)
+
+- **Consultant & Entrepreneur** (2008 - 2014): Founded OpenTest Pro (automated testing education). Built e-commerce ordering system for Turnbull & Asser shirtmakers. Full-stack consulting in Ruby on Rails, Node.js, D3 data visualization. Rapid prototyping and client delivery.
+- **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and CI. Built comprehensive API test suite. Integrated platform with Salesforce APIs.
+- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com — architected initial release, then built and scaled the development team.
 
 ## Open Source Projects
 
@@ -65,74 +79,37 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Skills
 
-### Technical Skills
-
-- **Languages & Frameworks**: Ruby on Rails, Python, Node.js, JavaScript, TypeScript, Bash.
-- **AI/LLM Development**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Cloud-based data services.
-- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), Google Cloud Platform, CircleCI, GitHub Actions, Terraform, Ansible, Pulumi, Linux, Git, Webpack, Cloudfront, Helm.
-- **Web Technologies**: HTML, CSS, Tailwind, Front-end Development, Responsive Design, Back-end Development, Distributed Systems, Web3/DWeb, Decentralized Technologies.
-- **Software Development**: Object-oriented programming (OOP), Functional Programming, API Design and Development, Automated Testing, Continuous Integration, Continuous Deployment, CI/CD, System Architecture, Microservices.
-
-### Methodologies
-
-- **Project Management**: Agile, Pair Programming, Test-Driven Development (TDD), DevOps, Lean Thinking, Rapid Prototyping, Scrum, Kanban.
-- **Design & Architecture**: Software Design Patterns, Systems Design, Infrastructure as Code (IAC), Data Pipeline Design, Cloud-Native Architecture, User Interface Design.
-
-### Organizational & Soft Skills
-
-- **Leadership & Management**: Team Building, Cross-Functional Leadership, Coaching & Mentoring, Talent Recruitment & Development, High-Performance Team Management, Strategic Planning, Decision Making, Change Management.
-- **Communication & Collaboration**: Effective Communication, Stakeholder Engagement, Negotiation, Problem-Solving, Conflict Resolution, Customer-Oriented Approach.
-- **Innovation & Creativity**: Entrepreneurship, Creative Problem Solving, Product Development and Innovation, Adaptive Learning, Forward-Thinking.
-
-### Additional Competencies
-
-- **Industry Knowledge**: Software Engineering, Web Development, Cloud Computing, AI/ML Development, Startup Ecosystem, SaaS, PaaS, B2B Software, Humane Technology.
-- **Personal Attributes**: Resilient, Innovative, Dedicated, Entrepreneurial, Strategic Thinker, Out of the Box Thinker, Detail-Oriented, Analytical, Kind and Compassionate, Truth Seeker.
+- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
+- **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
+- **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
+- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
+- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
+- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
 
-### University of North Carolina at Asheville
-#### (May, 2003)
+### BA in Mathematics, minor in Computer Science
+#### University of North Carolina at Asheville | May 2003
 
-- BA in Mathematics, minor in Computer Science.
-- Graduated with distinction in Mathematics.
-- Undergraduate research in 4D fractals.
+- Graduated with distinction in Mathematics. Undergraduate research in 4D fractals.
 
 ## Recommendations
 
-"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means **the solutions he architects, builds, and collaborates on come out better**. Jack also strives to be at the forefront of new technology and assess how he can leverage it. Newer tech like GenAI can be complex and ever-evolving, and Jack is not one to back down but step up and embrace. He does all this with a **strong team mentality**, is a phenomenal team player, and can **effectively delegate to help lift others' skill sets**."
+"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means **the solutions he architects, builds, and collaborates on come out better**. Jack also strives to be at the forefront of new technology and assess how he can leverage it. He does all this with a **strong team mentality**, is a phenomenal team player, and can **effectively delegate to help lift others' skill sets**."
 
 *— Brandon Clifford, Director of DevOps, Kantata*
 
-"Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**, maybe tinkering in some kind of script that would make the manual processes easier and more resilient. Everyone would be lucky to have someone like him in their teams!"
-
-*— Cesar Palafox Garza, Principal Software Engineer, Kantata*
-
-"Jack has **had quite a profound impact on my career**. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and **forming me into the engineer that I am today**. Throughout our time together, Jack was caring and invested in helping me set goals and develop my career. **His mentorship was a key factor in elevating me from an incoming Junior Engineer to an Engineering Manager**. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
+"Jack has **had quite a profound impact on my career**. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and **forming me into the engineer that I am today**. **His mentorship was a key factor in elevating me from an incoming Junior Engineer to an Engineering Manager**. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
 
 *— Wesley Morlock, Engineering Manager, Kantata*
 
-"Jack provided invaluable leadership as a Principal Software Engineer at Kantata. He was a powerful voice for the technology but made sure to **advocate for changes that were also certain to provide immediate impact to the customer**. I highly recommend Jack as an excellent dev ops engineer and as a technical leader."
+"Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**. Everyone would be lucky to have someone like him in their teams!"
 
-*— Nathan Perry, Principal Software Engineer, Kantata*
+*— Cesar Palafox Garza, Principal Software Engineer, Kantata*
 
-"Jack is talented both as a software developer and as an operations engineer. While working together in a Principal Engineer capacity, I saw how **passionate Jack is about helping his colleagues and his organization level up**. He is a great engineer with excellent leadership and organizational abilities."
-
-*— Jason Larsen, Software Engineering Manager, Kantata*
-
-"Jack is a great co-worker. He is **awesome at understanding the direction teams need to go to make important improvements in Kantata's Engineering organization as a whole**. He has been instrumental in building and implementing strategies to upgrade Ruby, Rails, and React. If I had any questions about infrastructure and Kubernetes he would be able to answer and **provide solid explanations to the entire team**."
+"Jack is **awesome at understanding the direction teams need to go to make important improvements in Kantata's Engineering organization as a whole**. He has been instrumental in building and implementing strategies to upgrade Ruby, Rails, and React. If I had any questions about infrastructure and Kubernetes he would be able to answer and **provide solid explanations to the entire team**."
 
 *— Justin Hurstwright, Principal Software Engineer, Kantata*
 
-"Jack is a phenomenal resource to work with. He is **very knowledgeable about programming and cloud infrastructure** and is always eager to learn new things."
-
-*— Donovan Hubbard, Senior DevOps Engineer, Kantata*
-
-"Jack has a flair for finding better, faster, and more reliable ways to get things done. He **advocates best practices, like unit testing, and has a deep knowledge of OO architecture**. Jack thinks on his toes, and will always be there with the team at 4 a.m. if circumstance requires it. `:%s/average developers/developers like jack/g` if you know what's good for you."
-
-*— Greg Whitescarver, Founder, Mojave*
-
-"With Jack, **the more complex the problem, the more simple his solutions**. From eradicating dynamic php bugs to providing innovative javascript capabilities, Master Senechal is more than a mind to be reckoned with, he's an **integrative capacity builder** with a wide range of technological expertise. If there is anything that can be done through web development, Jack can figure out how to do it, and make it happen."
-
-*— Adam Apollo, Cofounder & CEO, Superluminal Systems*
+[See additional recommendations on LinkedIn](https://linkedin.com/in/jacksenechal)
