@@ -1,317 +1,146 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
-  <title>Resume :: Jack Senechal</title>
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <style type="text/css">
-    body { width: 73%; margin: auto; }
-    body, p { font-family: Liberation Serif, Times New Roman, serif; font-size: 14pt; color: #000; }
-    h1 { font-size: 40pt; font-weight: normal; text-transform: uppercase; margin: 1.3em 0 0; }
-    h2 { font-size: 18pt; text-transform: uppercase; font-weight: bold;
-      margin-top: 2em; margin-bottom: .4em; border-bottom: 1px solid black; }
-    h3 { font-size: 15pt; font-weight: bold; margin-top: 1.1em; margin-bottom: .1em; }
-    h4 { font-size: 14pt; font-weight: normal; margin-top: .1em; margin-bottom: .5em; }
-    h5 { display: block; text-align: right; position: relative; font-weight: normal; margin-top: 0; font-size: inherit; color: inherit; }
-    h5::before { content: "– "; }
-    h1 + p { text-transform: uppercase; margin-bottom: 2em; }
-    p { margin: 0.7em 0 0 0; color: #333; }
-    ul { margin: .5em 0 0 0; list-style: none; padding-left: unset; }
-    li { padding-left: 1em; text-indent: -1em; color: #333; }
-    li:before { content: "•"; padding-right: 0.5em; }
-    a { text-decoration: none; border-bottom: 1px dashed #bbb; color: #000; }
-    a:hover, #foot a:hover { color: #444;  border-bottom: 1px dashed #444; }
-    code { font-size: 10pt; background-color: #f4f4f4; padding: 2px; box-shadow: 1px 1px 2px #ddd; }
-    #downloads { position: absolute; top: 1em; right: 1em; color: #777; font-style: italic; font-size: 10pt; }
-    #online_resume { display: none; }
-    #clear_foot { height: 3em; }
-    hr { display: none; }
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume :: Jack Senechal</title>
+    <style type="text/css">
+  body { width: 73%; margin: auto; }
+  body, p { font-family: Liberation Serif, Times New Roman, serif; font-size: 14pt; color: #000; }
+  h1 { font-size: 40pt; font-weight: normal; text-transform: uppercase; margin: 1.3em 0 0; }
+  h2 { font-size: 18pt; text-transform: uppercase; font-weight: bold;
+    margin-top: 2em; margin-bottom: .4em; border-bottom: 1px solid black; }
+  h3 { font-size: 15pt; font-weight: bold; margin-top: 1.1em; margin-bottom: .1em; }
+  h4 { font-size: 14pt; font-weight: normal; margin-top: .1em; margin-bottom: .5em; }
+  h5 { display: block; text-align: right; position: relative; font-weight: normal; margin-top: 0; font-size: inherit; color: inherit; }
+  h5::before { content: "– "; }
+  h1 + p { text-transform: uppercase; margin-bottom: 2em; }
+  p { margin: 0.7em 0 0 0; color: #333; }
+  ul { margin: .5em 0 0 0; list-style: none; padding-left: unset; }
+  li { padding-left: 1em; text-indent: -1em; color: #333; }
+  li:before { content: "•"; padding-right: 0.5em; }
+  a { text-decoration: none; border-bottom: 1px dashed #bbb; color: #000; }
+  a:hover, #foot a:hover { color: #444;  border-bottom: 1px dashed #444; }
+  code { font-size: 10pt; background-color: #f4f4f4; padding: 2px; box-shadow: 1px 1px 2px #ddd; }
+  #downloads { position: absolute; top: 1em; right: 1em; color: #777; font-style: italic; font-size: 10pt; }
+  #online_resume { display: none; }
+  #clear_foot { height: 3em; }
+  hr { display: none; }
 
-    @media print {
-      body { width: 92%; margin: auto; }
-      h1 { font-size: 20pt; margin-top: 0; }
-      h2 { font-size: 12pt; margin-top: 2em; }
-      h3 { font-size: 10pt; font-weight: bold; margin-top: 1.1em; margin-bottom: .1em; }
-      h4 { font-size: 9pt; font-weight: normal; margin-top: .1em; margin-bottom: .5em; }
-      body, p, li { font-size: 10pt; }
-      code {font-size: 8pt; background-color: #eee; padding: 2px;}
-      hr { display: block; page-break-after: always; padding: 0; margin: 0; border: 0; }
-      a { text-decoration: none; border-bottom: none; color: inherit; }
-      #downloads { display: none; }
-      #online_resume { display: block; text-align: center; color: #777; font-style: italic; font-size: 10pt; }
-    }
-  </style>
-</head>
-<body>
-<div id="downloads">
+  @media print {
+    body { width: 92%; margin: auto; }
+    h1 { font-size: 20pt; margin-top: 0; }
+    h2 { font-size: 12pt; margin-top: 2em; }
+    h3 { font-size: 10pt; font-weight: bold; margin-top: 1.1em; margin-bottom: .1em; }
+    h4 { font-size: 9pt; font-weight: normal; margin-top: .1em; margin-bottom: .5em; }
+    body, p, li { font-size: 10pt; }
+    code {font-size: 8pt; background-color: #eee; padding: 2px;}
+    hr { display: block; page-break-after: always; padding: 0; margin: 0; border: 0; }
+    a { text-decoration: none; border-bottom: none; color: inherit; }
+    #downloads { display: none; }
+    #online_resume { display: block; text-align: center; color: #777; font-style: italic; font-size: 10pt; }
+  }
+</style>
+
+  </head>
+  <body>
+    <div id="downloads">
   download file as 
   <a href="resume.pdf">pdf</a>,
   <a href="resume.md">markdown</a>
   or <a href="https://github.com/jacksenechal/resume">fork it on github</a>
 </div>
-<h1 id="jack-senechal">Jack Senechal</h1>
-<h2 id="engineering-leader-entrepreneur">Engineering Leader /
-Entrepreneur</h2>
-<p><strong>Located in Novato, CA</strong><br />
-Phone: 415-779-2701<br />
-Email:
-<a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#106;&#x61;&#x63;&#x6b;&#x73;&#x65;&#110;&#x65;&#x63;&#104;&#x61;&#108;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;" class="email">&#106;&#x61;&#x63;&#x6b;&#x73;&#x65;&#110;&#x65;&#x63;&#104;&#x61;&#108;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a><br />
-GitHub: <a
-href="https://github.com/jacksenechal">https://github.com/jacksenechal</a><br />
-LinkedIn: <a
-href="https://linkedin.com/in/jacksenechal">https://linkedin.com/in/jacksenechal</a></p>
-<h2 id="summary">Summary</h2>
+
+    <h1>Jack Senechal</h1>
+<h2>Staff Software Engineer / Principal Engineer - AI Developer Experience</h2>
+<p><strong>Located in Novato, CA</strong><br>
+Phone: 415-779-2701<br>
+Email: <a href="mailto:jacksenechal@gmail.com">jacksenechal@gmail.com</a><br>
+Website: <a href="https://jacksenechal.com">jacksenechal.com</a><br>
+GitHub: <a href="https://github.com/jacksenechal">github.com/jacksenechal</a><br>
+LinkedIn: <a href="https://linkedin.com/in/jacksenechal">linkedin.com/in/jacksenechal</a></p>
+<h2>Summary</h2>
 <ul>
-<li>Proven leader in software development, infrastructure, and
-<strong>team management</strong> with <strong>15+ years</strong> of
-hands-on experience</li>
-<li>Committed <strong>mentor and coach</strong>, elevating team members’
-skill sets and fostering professional growth</li>
-<li>Strategic thinker, mercurial innovator, and expert problem
-solver</li>
-<li>Resilient and dedicated, ready to embrace challenges and
-opportunities</li>
-<li>Strong customer focus, <strong>advocating for impactful
-changes</strong> and ensuring product value</li>
-<li>Entrepreneurial spirit with multiple co-founding experiences</li>
-<li>Principal-level engineer specializing in AI-powered developer
-tooling, platform modernization, and large-scale engineering
-productivity</li>
-<li>Full-stack generalist with deep experience applying AI/LLMs, DevOps,
-and cloud-native systems to accelerate software delivery</li>
+<li>Staff/principal-level engineer with <strong>15+ years</strong> building software platforms, CI/CD systems, and cloud-native infrastructure, and <strong>6+ years</strong> leading teams and technical roadmaps.</li>
+<li>Hands-on builder of AI/LLM systems, agent tooling, and evaluation frameworks, including HumaneBench.ai, Scan MCP, and a production LLM-native product.</li>
+<li>Strong systems thinker who treats LLMs as probabilistic components inside deterministic delivery systems, with experience in benchmarking, guardrails, observability, and reproducible workflows.</li>
+<li>Track record of improving engineering velocity, reliability, and organizational effectiveness through platform modernization, DevOps adoption, and cross-functional technical leadership.</li>
 </ul>
-<h2 id="industry-experience">Industry Experience</h2>
-<h3 id="technical-lead">Technical Lead</h3>
-<h4
-id="building-humane-technology-june-2025---present-remote-us">Building
-Humane Technology | June 2025 - Present | Remote (US)</h4>
+<h2>Professional Experience</h2>
+<h3>Technical Lead</h3>
+<h4>Building Humane Technology | June 2025 - Present | Remote</h4>
 <ul>
-<li>Co-architecting and leading development of HumaneBench.ai, an
-open-source benchmark for evaluating AI systems against humane
-technology principles.</li>
-<li>Developing an extensible AI evaluation framework built on AISI
-Inspect, focused on measuring and improving LLM behavior in real-world
-developer and operational workflows.</li>
-<li>Shaping product and technical roadmap for AI-driven tooling,
-including production monitoring concepts, multi-turn evaluation, and
-maturity models to support adoption, measurement, and continuous
-improvement.</li>
-<li>Contributing to education initiatives including Humane Tech and
-Agentic AI training for the UN Secretariat and broader developer
-community, plus coordinating hackathons and public AMAs.</li>
-<li>Building partnerships and fostering open-source community engagement
-around humane AI evaluation standards.</li>
+<li>Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect for benchmarking LLM behavior across real-world scenarios.</li>
+<li>Designing reproducible evaluation workflows and metrics to compare models, prompts, and agent behavior across providers and use cases.</li>
+<li>Shaping product and technical roadmap for AI tooling, including monitoring concepts, multi-turn evaluation, and adoption patterns that help organizations move from experimentation toward production use.</li>
+<li>Contributing to developer education, open-source collaboration, hackathons, and public discussions around humane and measurable AI system quality.</li>
 </ul>
-<h3 id="infrastructure-engineer">Infrastructure Engineer</h3>
-<h4 id="tobiko-mar-2024---oct-2024-remote-us">Tobiko | Mar 2024 - Oct
-2024 | Remote (US)</h4>
+<h3>Co-founder &amp; Lead Developer</h3>
+<h4>Mirror Astrology | Nov 2024 - Present | Remote</h4>
 <ul>
-<li>Collaborated with a fast-paced team to architect and implement a
-robust, scalable, modern cloud platform serving customer workloads.</li>
-<li>Built out CI/CD patterns including mono-repo conditional workflows,
-workload identity federation, and continuous delivery.</li>
-<li>Implemented a Slack-based customer support and incident response
-platform, and onboarded teammates and customers.</li>
-<li>Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine,
-Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.</li>
+<li>Building an LLM-native product that integrates multiple models, prompt engineering, tool use, and context management.</li>
+<li>Translating product and design intent into production-ready features across Ruby on Rails, JavaScript, HTML/CSS, Tailwind, and responsive UI/UX.</li>
+<li>Collaborating closely across product direction, Figma design, roadmap planning, and feature prioritization.</li>
 </ul>
-<h3 id="engineering-manager-principal-software-engineer">Engineering
-Manager / Principal Software Engineer</h3>
-<h4
-id="mavenlink-kantata-apr-2017---dec-2023-san-francisco-ca">Mavenlink /
-Kantata | Apr 2017 - Dec 2023 | San Francisco, CA</h4>
+<h3>Infrastructure Engineer</h3>
+<h4>Tobiko | Mar 2024 - Oct 2024 | Remote</h4>
 <ul>
-<li><strong>Operations Team Leadership</strong>: Over four years,
-recruited and led a new infrastructure team dedicated to building and
-scaling the platform. Instrumental in leading the organization’s
-transition towards a DevOps culture, serving as a change agent and
-technical authority across engineering. Created a clear, calm, and
-constructive environment that allowed the team to thrive. Responsible
-for roadmap stewardship, untangling requirements, and arranging
-priorities to maximize flow. Transitioned a large legacy infrastructure
-codebase to cutting-edge, cloud-native, IAC-oriented tools while
-remaining hands-on with coding, architecture, and collaboration on
-mission-critical projects.</li>
-<li><strong>M-Bridge Platform Leadership</strong>: For two years,
-spearheaded a team to stabilize and enhance an agent-based integration
-platform. Established operational metrics and monitoring systems that
-reduced platform errors and incidents by approximately 100x.
-Successfully performed a migration to Kubernetes with zero downtime,
-including relational, document, and cache databases. Demonstrated
-ability to measure impact and drive data-informed decisions.</li>
-<li><strong>Insights Platform Leadership</strong>: For three months, led
-a transition team responsible for overseeing and improving the BI data
-pipeline. Successfully migrated the pipeline to Kubernetes, accelerating
-modernization initiatives.</li>
-<li><strong>Cross-Functional Leadership &amp; Organizational
-Impact</strong>: Took on organization-wide roles including mentorship
-and coaching, interviewing and hiring, and organizational change
-management and process optimization. Influenced decisions at all levels
-and promoted best practices across the engineering organization.
-Recognized with Top Performer Award in 2021 for contributions to
-technical excellence and team development.</li>
+<li>Led modernization of developer workflows through mono-repo CI/CD patterns, workload identity federation, and continuous delivery.</li>
+<li>Designed and implemented a scalable GCP platform serving production customer workloads across GKE and Cloud Run.</li>
+<li>Built automation and infrastructure-as-code patterns with Python, Pulumi, Helm, and SQLMesh to improve consistency, speed, and operational resilience.</li>
+<li>Implemented a Slack-based customer support and incident response platform and onboarded teammates and customers.</li>
 </ul>
-<h2 id="skills">Skills</h2>
-<h3 id="technical-skills">Technical Skills</h3>
+<h3>Engineering Manager / Principal Software Engineer</h3>
+<h4>Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA</h4>
 <ul>
-<li><strong>Languages &amp; Frameworks</strong>: Ruby on Rails, Python,
-Node.js, JavaScript, TypeScript, Bash.</li>
-<li><strong>AI/LLM Development</strong>: MCP (Model Context Protocol),
-chatbot development, prompt engineering, tool use, context augmentation,
-AI-assisted developer workflows.</li>
-<li><strong>Databases</strong>: MySQL, PostgreSQL, MongoDB, Redis,
-Cloud-based data services.</li>
-<li><strong>Tools &amp; Platforms</strong>: Kubernetes, AWS (Amazon Web
-Services), Google Cloud Platform, CircleCI, GitHub Actions, Terraform,
-Ansible, Pulumi, Linux, Git, Webpack, Cloudfront, Helm.</li>
-<li><strong>Web Technologies</strong>: HTML, CSS, Tailwind, Front-end
-Development, Responsive Design, Back-end Development, Distributed
-Systems, Web3/DWeb, Decentralized Technologies.</li>
-<li><strong>Software Development</strong>: Object-oriented programming
-(OOP), Functional Programming, API Design and Development, Automated
-Testing, Continuous Integration, Continuous Deployment, CI/CD, System
-Architecture, Microservices.</li>
+<li>Recruited and led a new infrastructure/platform team responsible for modernizing the engineering delivery environment across a large SaaS codebase.</li>
+<li>Drove organization-wide adoption of DevOps, cloud-native infrastructure, infrastructure as code, and CI/CD practices while remaining hands-on with architecture, automation, and implementation.</li>
+<li>Established operational metrics and monitoring for an agent-based integration platform, reducing errors and incidents by approximately <strong>100x</strong>.</li>
+<li>Migrated critical services and data systems to Kubernetes with zero downtime, including relational, document, and cache databases, plus the BI data pipeline.</li>
+<li>Mentored engineers, led interviewing and hiring, and influenced engineering standards and process improvements across the organization. Recognized with the <strong>Top Performer Award</strong> in 2021.</li>
 </ul>
-<h3 id="methodologies">Methodologies</h3>
+<h3>Lead Developer, Co-founder</h3>
+<h4>Pegg | 2014 - 2017 | San Francisco, CA</h4>
 <ul>
-<li><strong>Project Management</strong>: Agile, Pair Programming,
-Test-Driven Development (TDD), DevOps, Lean Thinking, Rapid Prototyping,
-Scrum, Kanban.</li>
-<li><strong>Design &amp; Architecture</strong>: Software Design
-Patterns, Systems Design, Infrastructure as Code (IAC), Data Pipeline
-Design, Cloud-Native Architecture, User Interface Design.</li>
+<li>Designed, architected, and built a cross-platform mobile product from scratch with a Node.js backend, JavaScript/PhoneGap frontend, Firebase real-time systems, and CI/CD to AWS/CloudFront via CircleCI.</li>
+<li>Established engineering workflow including pair programming, automated testing, continuous integration, and rapid deployment processes.</li>
+<li>Co-led product strategy, monetization, and launch planning.</li>
 </ul>
-<h3 id="organizational-soft-skills">Organizational &amp; Soft
-Skills</h3>
+<h3>Earlier Experience</h3>
+<h4>Consultant / Entrepreneur / Developer | 2001 - 2014</h4>
 <ul>
-<li><strong>Leadership &amp; Management</strong>: Team Building,
-Cross-Functional Leadership, Coaching &amp; Mentoring, Talent
-Recruitment &amp; Development, High-Performance Team Management,
-Strategic Planning, Decision Making, Change Management.</li>
-<li><strong>Communication &amp; Collaboration</strong>: Effective
-Communication, Stakeholder Engagement, Negotiation, Problem-Solving,
-Conflict Resolution, Customer-Oriented Approach.</li>
-<li><strong>Innovation &amp; Creativity</strong>: Entrepreneurship,
-Creative Problem Solving, Product Development and Innovation, Adaptive
-Learning, Forward-Thinking.</li>
+<li>Founded OpenTest Pro and delivered consulting work across Ruby on Rails, Node.js, D3, API integrations, and client-facing web products.</li>
+<li>Introduced automated testing and continuous integration at OnForce, including a comprehensive public API test suite and Salesforce integrations.</li>
+<li>Led development of mynewsletterbuilder.com at JBA Network and began career with data migration and Java software development at the US Navy FNMOD.</li>
 </ul>
-<h3 id="additional-competencies">Additional Competencies</h3>
+<h2>Selected Projects</h2>
+<h3>HumaneBench | Python | 2024 - Present</h3>
+<p>Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Supports multiple LLM providers, extensible scenario datasets, and reproducible benchmarking workflows.</p>
+<p><a href="https://github.com/buildinghumanetech/humanebench">github.com/buildinghumanetech/humanebench</a></p>
+<h3>Scan MCP | TypeScript / Node.js | 2024 - Present</h3>
+<p>MCP (Model Context Protocol) server for scanner automation and document digitization, with JSON Schema validation and support for both local stdio and network HTTP transports.</p>
+<p><a href="https://github.com/jacksenechal/scan-mcp">github.com/jacksenechal/scan-mcp</a></p>
+<h2>Skills</h2>
 <ul>
-<li><strong>Industry Knowledge</strong>: Software Engineering, Web
-Development, Cloud Computing, AI/ML Development, Startup Ecosystem,
-SaaS, PaaS, B2B Software, Humane Technology.</li>
-<li><strong>Personal Attributes</strong>: Resilient, Innovative,
-Dedicated, Entrepreneurial, Strategic Thinker, Out of the Box Thinker,
-Detail-Oriented, Analytical, Kind and Compassionate, Truth Seeker.</li>
+<li><strong>AI / Agentic Systems</strong>: LLM APIs, prompt engineering, tool use, context management, MCP (Model Context Protocol), AI evaluation frameworks, benchmark design, AI-assisted developer workflows.</li>
+<li><strong>Developer Platform / Delivery</strong>: CI/CD, GitHub Actions, CircleCI, mono-repo workflows, automated testing, release automation, infrastructure as code, observability.</li>
+<li><strong>Cloud / Infrastructure</strong>: Kubernetes, Google Cloud Platform, AWS, Pulumi, Terraform, Ansible, Helm, Linux, cloud-native architecture.</li>
+<li><strong>Languages</strong>: Python, TypeScript, JavaScript, Ruby, Bash.</li>
+<li><strong>Data / Systems</strong>: PostgreSQL, MySQL, MongoDB, Redis, SQLMesh, API design, microservices, distributed systems.</li>
+<li><strong>Leadership</strong>: Team building, mentoring, hiring, roadmap ownership, cross-functional collaboration, Agile, Scrum, Kanban, change management.</li>
 </ul>
-<h2 id="education">Education</h2>
-<h3 id="bachelor-of-arts-in-mathematics">Bachelor of Arts in
-Mathematics</h3>
-<h4 id="university-of-north-carolina-at-asheville-may-2003">University
-of North Carolina at Asheville | May 2003</h4>
+<h2>Education</h2>
+<h3>BA in Mathematics, Minor in Computer Science</h3>
+<h4>University of North Carolina at Asheville | May 2003</h4>
 <ul>
-<li>Minor in Computer Science.</li>
 <li>Graduated with distinction in Mathematics.</li>
 <li>Undergraduate research in 4D fractals.</li>
 </ul>
-<h2 id="open-source-projects">Open Source Projects</h2>
-<h3 id="scan-mcp-2024---present">Scan MCP (2024 - Present)</h3>
-<p>MCP (Model Context Protocol) server for scanner automation and
-document digitization. Privacy-first architecture with smart device
-discovery, JSON Schema validation, and support for both local stdio and
-network HTTP transports. TypeScript/Node.js.</p>
-<p><a
-href="https://github.com/jacksenechal/scan-mcp">github.com/jacksenechal/scan-mcp</a></p>
-<h3 id="humanebench-2024---present">HumaneBench (2024 - Present)</h3>
-<p>Evaluation framework for measuring human-friendly behavior in AI
-assistants, built on AISI Inspect. Tests AI responses across humane
-technology principles including loneliness, mental health, transparency,
-and privacy. Supports multiple LLM providers with extensible scenario
-datasets. Python.</p>
-<p><a
-href="https://github.com/buildinghumanetech/humanebench">github.com/buildinghumanetech/humanebench</a></p>
-<h2 id="recommendations">Recommendations</h2>
-<p>“Jack is <strong>an exceptional engineer and leader</strong>. He
-strives to <strong>deeply understand the technology</strong> he’s
-working on while remaining cognizant of the socio-technical components
-that may be a factor in any project. He’s thorough, detail-oriented, and
-outcome-oriented, which means <strong>the solutions he architects,
-builds, and collaborates on come out better</strong>. Jack also strives
-to be at the forefront of new technology and assess how he can leverage
-it. Newer tech like GenAI can be complex and ever-evolving, and Jack is
-not one to back down but step up and embrace. He does all this with a
-<strong>strong team mentality</strong>, is a phenomenal team player, and
-can <strong>effectively delegate to help lift others’ skill
-sets</strong>.”</p>
-<p><em>— Brandon Clifford, Director of DevOps, Kantata</em></p>
-<p>“Jack is a fantastic engineer always ready to <strong>help solve
-problems and more importantly, teach you how to solve them</strong>. He
-guided me and my team through a bunch of challenging GitOps situations
-with patience and kindness, leading by example. Always diligent with his
-work, willing to roll up his sleeves to get things done and <strong>find
-creative solutions</strong>, maybe tinkering in some kind of script that
-would make the manual processes easier and more resilient. Everyone
-would be lucky to have someone like him in their teams!”</p>
-<p><em>— Cesar Palafox Garza, Principal Software Engineer,
-Kantata</em></p>
-<p>“Jack has <strong>had quite a profound impact on my career</strong>.
-As a young engineer, I was fortunate enough to work with Jack as my
-coach. He served as a great mentor, helping me build both technical and
-professional skills and <strong>forming me into the engineer that I am
-today</strong>. Throughout our time together, Jack was caring and
-invested in helping me set goals and develop my career. <strong>His
-mentorship was a key factor in elevating me from an incoming Junior
-Engineer to an Engineering Manager</strong>. Jack has a great curiosity
-and a strong set of technical capabilities that allow him to serve as a
-great example for others and a key contributor to any team!”</p>
-<p><em>— Wesley Morlock, Engineering Manager, Kantata</em></p>
-<p>“Jack provided invaluable leadership as a Principal Software Engineer
-at Kantata. He was a powerful voice for the technology but made sure to
-<strong>advocate for changes that were also certain to provide immediate
-impact to the customer</strong>. I highly recommend Jack as an excellent
-dev ops engineer and as a technical leader.”</p>
-<p><em>— Nathan Perry, Principal Software Engineer, Kantata</em></p>
-<p>“Jack is talented both as a software developer and as an operations
-engineer. While working together in a Principal Engineer capacity, I saw
-how <strong>passionate Jack is about helping his colleagues and his
-organization level up</strong>. He is a great engineer with excellent
-leadership and organizational abilities.”</p>
-<p><em>— Jason Larsen, Software Engineering Manager, Kantata</em></p>
-<p>“Jack is a great co-worker. He is <strong>awesome at understanding
-the direction teams need to go to make important improvements in
-Kantata’s Engineering organization as a whole</strong>. He has been
-instrumental in building and implementing strategies to upgrade Ruby,
-Rails, and React. If I had any questions about infrastructure and
-Kubernetes he would be able to answer and <strong>provide solid
-explanations to the entire team</strong>.”</p>
-<p><em>— Justin Hurstwright, Principal Software Engineer,
-Kantata</em></p>
-<p>“Jack is a phenomenal resource to work with. He is <strong>very
-knowledgeable about programming and cloud infrastructure</strong> and is
-always eager to learn new things.”</p>
-<p><em>— Donovan Hubbard, Senior DevOps Engineer, Kantata</em></p>
-<p>“Jack has a flair for finding better, faster, and more reliable ways
-to get things done. He <strong>advocates best practices, like unit
-testing, and has a deep knowledge of OO architecture</strong>. Jack
-thinks on his toes, and will always be there with the team at 4 a.m. if
-circumstance requires it.
-<code>:%s/average developers/developers like jack/g</code> if you know
-what’s good for you.”</p>
-<p><em>— Greg Whitescarver, Founder, Mojave</em></p>
-<p>“With Jack, <strong>the more complex the problem, the more simple his
-solutions</strong>. From eradicating dynamic php bugs to providing
-innovative javascript capabilities, Master Senechal is more than a mind
-to be reckoned with, he’s an <strong>integrative capacity
-builder</strong> with a wide range of technological expertise. If there
-is anything that can be done through web development, Jack can figure
-out how to do it, and make it happen.”</p>
-<p><em>— Adam Apollo, Cofounder &amp; CEO, Superluminal Systems</em></p>
-<div id="clear_foot"></div>
+
+    <div id="clear_foot"></div>
 <div id="online_resume">
   The latest version of this document can be found at <a href="http://jacksenechal.com/resume">http://jacksenechal.com/resume</a>
 </div>
-</body>
+
+  </body>
 </html>

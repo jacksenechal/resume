@@ -1,135 +1,96 @@
 # Jack Senechal
 
-## Engineering Leader / Entrepreneur
+## Staff Software Engineer / Principal Engineer - AI Developer Experience
 
 **Located in Novato, CA**  
 Phone: 415-779-2701  
 Email: <jacksenechal@gmail.com>  
-GitHub: [https://github.com/jacksenechal](https://github.com/jacksenechal)  
-LinkedIn: [https://linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
+Website: [jacksenechal.com](https://jacksenechal.com)  
+GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)  
+LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- Proven leader in software development, infrastructure, and **team management** with **15+ years** of hands-on experience
-- Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
-- Strategic thinker, mercurial innovator, and expert problem solver
-- Resilient and dedicated, ready to embrace challenges and opportunities
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
-- Principal-level engineer specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
+- Staff/principal-level engineer with **15+ years** building software platforms, CI/CD systems, and cloud-native infrastructure, and **6+ years** leading teams and technical roadmaps.
+- Hands-on builder of AI/LLM systems, agent tooling, and evaluation frameworks, including HumaneBench.ai, Scan MCP, and a production LLM-native product.
+- Strong systems thinker who treats LLMs as probabilistic components inside deterministic delivery systems, with experience in benchmarking, guardrails, observability, and reproducible workflows.
+- Track record of improving engineering velocity, reliability, and organizational effectiveness through platform modernization, DevOps adoption, and cross-functional technical leadership.
 
-## Industry Experience
+## Professional Experience
 
 ### Technical Lead
-#### Building Humane Technology | June 2025 - Present | Remote (US)
+#### Building Humane Technology | June 2025 - Present | Remote
 
-- Co-architecting and leading development of HumaneBench.ai, an open-source benchmark for evaluating AI systems against humane technology principles.
-- Developing an extensible AI evaluation framework built on AISI Inspect, focused on measuring and improving LLM behavior in real-world developer and operational workflows.
-- Shaping product and technical roadmap for AI-driven tooling, including production monitoring concepts, multi-turn evaluation, and maturity models to support adoption, measurement, and continuous improvement.
-- Contributing to education initiatives including Humane Tech and Agentic AI training for the UN Secretariat and broader developer community, plus coordinating hackathons and public AMAs.
-- Building partnerships and fostering open-source community engagement around humane AI evaluation standards.
+- Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect for benchmarking LLM behavior across real-world scenarios.
+- Designing reproducible evaluation workflows and metrics to compare models, prompts, and agent behavior across providers and use cases.
+- Shaping product and technical roadmap for AI tooling, including monitoring concepts, multi-turn evaluation, and adoption patterns that help organizations move from experimentation toward production use.
+- Contributing to developer education, open-source collaboration, hackathons, and public discussions around humane and measurable AI system quality.
+
+### Co-founder & Lead Developer
+#### Mirror Astrology | Nov 2024 - Present | Remote
+
+- Building an LLM-native product that integrates multiple models, prompt engineering, tool use, and context management.
+- Translating product and design intent into production-ready features across Ruby on Rails, JavaScript, HTML/CSS, Tailwind, and responsive UI/UX.
+- Collaborating closely across product direction, Figma design, roadmap planning, and feature prioritization.
 
 ### Infrastructure Engineer
-#### Tobiko | Mar 2024 - Oct 2024 | Remote (US)
+#### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Collaborated with a fast-paced team to architect and implement a robust, scalable, modern cloud platform serving customer workloads.
-- Built out CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
-- Implemented a Slack-based customer support and incident response platform, and onboarded teammates and customers.
-- Python, Pulumi, Google Cloud Platform, Google Kubernetes Engine, Google Cloud Run, CI/CD with CircleCI, Helm, SQLMesh.
+- Led modernization of developer workflows through mono-repo CI/CD patterns, workload identity federation, and continuous delivery.
+- Designed and implemented a scalable GCP platform serving production customer workloads across GKE and Cloud Run.
+- Built automation and infrastructure-as-code patterns with Python, Pulumi, Helm, and SQLMesh to improve consistency, speed, and operational resilience.
+- Implemented a Slack-based customer support and incident response platform and onboarded teammates and customers.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **Operations Team Leadership**: Over four years, recruited and led a new infrastructure team dedicated to building and scaling the platform. Instrumental in leading the organization's transition towards a DevOps culture, serving as a change agent and technical authority across engineering. Created a clear, calm, and constructive environment that allowed the team to thrive. Responsible for roadmap stewardship, untangling requirements, and arranging priorities to maximize flow. Transitioned a large legacy infrastructure codebase to cutting-edge, cloud-native, IAC-oriented tools while remaining hands-on with coding, architecture, and collaboration on mission-critical projects.
-- **M-Bridge Platform Leadership**: For two years, spearheaded a team to stabilize and enhance an agent-based integration platform. Established operational metrics and monitoring systems that reduced platform errors and incidents by approximately 100x. Successfully performed a migration to Kubernetes with zero downtime, including relational, document, and cache databases. Demonstrated ability to measure impact and drive data-informed decisions.
-- **Insights Platform Leadership**: For three months, led a transition team responsible for overseeing and improving the BI data pipeline. Successfully migrated the pipeline to Kubernetes, accelerating modernization initiatives.
-- **Cross-Functional Leadership & Organizational Impact**: Took on organization-wide roles including mentorship and coaching, interviewing and hiring, and organizational change management and process optimization. Influenced decisions at all levels and promoted best practices across the engineering organization. Recognized with Top Performer Award in 2021 for contributions to technical excellence and team development.
+- Recruited and led a new infrastructure/platform team responsible for modernizing the engineering delivery environment across a large SaaS codebase.
+- Drove organization-wide adoption of DevOps, cloud-native infrastructure, infrastructure as code, and CI/CD practices while remaining hands-on with architecture, automation, and implementation.
+- Established operational metrics and monitoring for an agent-based integration platform, reducing errors and incidents by approximately **100x**.
+- Migrated critical services and data systems to Kubernetes with zero downtime, including relational, document, and cache databases, plus the BI data pipeline.
+- Mentored engineers, led interviewing and hiring, and influenced engineering standards and process improvements across the organization. Recognized with the **Top Performer Award** in 2021.
 
-## Skills
+### Lead Developer, Co-founder
+#### Pegg | 2014 - 2017 | San Francisco, CA
 
-### Technical Skills
+- Designed, architected, and built a cross-platform mobile product from scratch with a Node.js backend, JavaScript/PhoneGap frontend, Firebase real-time systems, and CI/CD to AWS/CloudFront via CircleCI.
+- Established engineering workflow including pair programming, automated testing, continuous integration, and rapid deployment processes.
+- Co-led product strategy, monetization, and launch planning.
 
-- **Languages & Frameworks**: Ruby on Rails, Python, Node.js, JavaScript, TypeScript, Bash.
-- **AI/LLM Development**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Cloud-based data services.
-- **Tools & Platforms**: Kubernetes, AWS (Amazon Web Services), Google Cloud Platform, CircleCI, GitHub Actions, Terraform, Ansible, Pulumi, Linux, Git, Webpack, Cloudfront, Helm.
-- **Web Technologies**: HTML, CSS, Tailwind, Front-end Development, Responsive Design, Back-end Development, Distributed Systems, Web3/DWeb, Decentralized Technologies.
-- **Software Development**: Object-oriented programming (OOP), Functional Programming, API Design and Development, Automated Testing, Continuous Integration, Continuous Deployment, CI/CD, System Architecture, Microservices.
+### Earlier Experience
+#### Consultant / Entrepreneur / Developer | 2001 - 2014
 
-### Methodologies
+- Founded OpenTest Pro and delivered consulting work across Ruby on Rails, Node.js, D3, API integrations, and client-facing web products.
+- Introduced automated testing and continuous integration at OnForce, including a comprehensive public API test suite and Salesforce integrations.
+- Led development of mynewsletterbuilder.com at JBA Network and began career with data migration and Java software development at the US Navy FNMOD.
 
-- **Project Management**: Agile, Pair Programming, Test-Driven Development (TDD), DevOps, Lean Thinking, Rapid Prototyping, Scrum, Kanban.
-- **Design & Architecture**: Software Design Patterns, Systems Design, Infrastructure as Code (IAC), Data Pipeline Design, Cloud-Native Architecture, User Interface Design.
+## Selected Projects
 
-### Organizational & Soft Skills
+### HumaneBench | Python | 2024 - Present
 
-- **Leadership & Management**: Team Building, Cross-Functional Leadership, Coaching & Mentoring, Talent Recruitment & Development, High-Performance Team Management, Strategic Planning, Decision Making, Change Management.
-- **Communication & Collaboration**: Effective Communication, Stakeholder Engagement, Negotiation, Problem-Solving, Conflict Resolution, Customer-Oriented Approach.
-- **Innovation & Creativity**: Entrepreneurship, Creative Problem Solving, Product Development and Innovation, Adaptive Learning, Forward-Thinking.
-
-### Additional Competencies
-
-- **Industry Knowledge**: Software Engineering, Web Development, Cloud Computing, AI/ML Development, Startup Ecosystem, SaaS, PaaS, B2B Software, Humane Technology.
-- **Personal Attributes**: Resilient, Innovative, Dedicated, Entrepreneurial, Strategic Thinker, Out of the Box Thinker, Detail-Oriented, Analytical, Kind and Compassionate, Truth Seeker.
-
-## Education
-
-### Bachelor of Arts in Mathematics
-#### University of North Carolina at Asheville | May 2003
-
-- Minor in Computer Science.
-- Graduated with distinction in Mathematics.
-- Undergraduate research in 4D fractals.
-
-## Open Source Projects
-
-### Scan MCP (2024 - Present)
-
-MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
-
-[github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
-
-### HumaneBench (2024 - Present)
-
-Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Supports multiple LLM providers with extensible scenario datasets. Python.
+Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Supports multiple LLM providers, extensible scenario datasets, and reproducible benchmarking workflows.
 
 [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
-## Recommendations
+### Scan MCP | TypeScript / Node.js | 2024 - Present
 
-"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means **the solutions he architects, builds, and collaborates on come out better**. Jack also strives to be at the forefront of new technology and assess how he can leverage it. Newer tech like GenAI can be complex and ever-evolving, and Jack is not one to back down but step up and embrace. He does all this with a **strong team mentality**, is a phenomenal team player, and can **effectively delegate to help lift others' skill sets**."
+MCP (Model Context Protocol) server for scanner automation and document digitization, with JSON Schema validation and support for both local stdio and network HTTP transports.
 
-*— Brandon Clifford, Director of DevOps, Kantata*
+[github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
-"Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**, maybe tinkering in some kind of script that would make the manual processes easier and more resilient. Everyone would be lucky to have someone like him in their teams!"
+## Skills
 
-*— Cesar Palafox Garza, Principal Software Engineer, Kantata*
+- **AI / Agentic Systems**: LLM APIs, prompt engineering, tool use, context management, MCP (Model Context Protocol), AI evaluation frameworks, benchmark design, AI-assisted developer workflows.
+- **Developer Platform / Delivery**: CI/CD, GitHub Actions, CircleCI, mono-repo workflows, automated testing, release automation, infrastructure as code, observability.
+- **Cloud / Infrastructure**: Kubernetes, Google Cloud Platform, AWS, Pulumi, Terraform, Ansible, Helm, Linux, cloud-native architecture.
+- **Languages**: Python, TypeScript, JavaScript, Ruby, Bash.
+- **Data / Systems**: PostgreSQL, MySQL, MongoDB, Redis, SQLMesh, API design, microservices, distributed systems.
+- **Leadership**: Team building, mentoring, hiring, roadmap ownership, cross-functional collaboration, Agile, Scrum, Kanban, change management.
 
-"Jack has **had quite a profound impact on my career**. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and **forming me into the engineer that I am today**. Throughout our time together, Jack was caring and invested in helping me set goals and develop my career. **His mentorship was a key factor in elevating me from an incoming Junior Engineer to an Engineering Manager**. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
+## Education
 
-*— Wesley Morlock, Engineering Manager, Kantata*
+### BA in Mathematics, Minor in Computer Science
+#### University of North Carolina at Asheville | May 2003
 
-"Jack provided invaluable leadership as a Principal Software Engineer at Kantata. He was a powerful voice for the technology but made sure to **advocate for changes that were also certain to provide immediate impact to the customer**. I highly recommend Jack as an excellent dev ops engineer and as a technical leader."
-
-*— Nathan Perry, Principal Software Engineer, Kantata*
-
-"Jack is talented both as a software developer and as an operations engineer. While working together in a Principal Engineer capacity, I saw how **passionate Jack is about helping his colleagues and his organization level up**. He is a great engineer with excellent leadership and organizational abilities."
-
-*— Jason Larsen, Software Engineering Manager, Kantata*
-
-"Jack is a great co-worker. He is **awesome at understanding the direction teams need to go to make important improvements in Kantata's Engineering organization as a whole**. He has been instrumental in building and implementing strategies to upgrade Ruby, Rails, and React. If I had any questions about infrastructure and Kubernetes he would be able to answer and **provide solid explanations to the entire team**."
-
-*— Justin Hurstwright, Principal Software Engineer, Kantata*
-
-"Jack is a phenomenal resource to work with. He is **very knowledgeable about programming and cloud infrastructure** and is always eager to learn new things."
-
-*— Donovan Hubbard, Senior DevOps Engineer, Kantata*
-
-"Jack has a flair for finding better, faster, and more reliable ways to get things done. He **advocates best practices, like unit testing, and has a deep knowledge of OO architecture**. Jack thinks on his toes, and will always be there with the team at 4 a.m. if circumstance requires it. `:%s/average developers/developers like jack/g` if you know what's good for you."
-
-*— Greg Whitescarver, Founder, Mojave*
-
-"With Jack, **the more complex the problem, the more simple his solutions**. From eradicating dynamic php bugs to providing innovative javascript capabilities, Master Senechal is more than a mind to be reckoned with, he's an **integrative capacity builder** with a wide range of technological expertise. If there is anything that can be done through web development, Jack can figure out how to do it, and make it happen."
-
-*— Adam Apollo, Cofounder & CEO, Superluminal Systems*
+- Graduated with distinction in Mathematics.
+- Undergraduate research in 4D fractals.
