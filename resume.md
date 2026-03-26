@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Leader
+## Engineering Leader / Entrepreneur
 
 **Located in Novato, CA**
 Phone: 415-779-2701
@@ -8,14 +8,17 @@ Email: <jacksenechal@gmail.com>
 GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)
 LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
+
 ## Summary
 
-- **Hands-on engineering leader** with **15+ years** building and shipping software, and **6+ years leading teams** across multiple product domains
-- Built teams from scratch, owned technical roadmaps, and stayed deep in the code — architecture, implementation, and code review
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions, and drove organization-wide DevOps culture transformation
-- **Full-stack generalist** across modern web, cloud-native infrastructure, and AI/LLM integration
-- Strong product instinct honed through multiple co-founding experiences and cross-functional collaboration with product, design, and stakeholders
-- Pragmatic problem solver focused on **shipping high-quality software** and **measurable impact**
+- Proven leader in software development, infrastructure, and **team management** with **15+ years** of hands-on experience
+- Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
+- Strategic thinker, mercurial innovator, and expert problem solver
+- Resilient and dedicated, ready to embrace challenges and opportunities
+- Strong customer focus, **advocating for impactful changes** and ensuring product value
+- Entrepreneurial spirit with multiple co-founding experiences
+- **Full-stack generalist** specializing in DevOps, AI/LLM integration, and modern web
+- Currently available for fractional CTO and technical consulting engagements
 
 ## Industry Experience
 
