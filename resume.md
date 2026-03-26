@@ -2,10 +2,10 @@
 
 ## Engineering Manager
 
-**Located in Novato, CA**
-Phone: 415-779-2701
-Email: <jacksenechal@gmail.com>
-GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)
+**Located in Novato, CA**<br>
+Phone: 415-779-2701<br>
+Email: <jacksenechal@gmail.com><br>
+GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)<br>
 LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
