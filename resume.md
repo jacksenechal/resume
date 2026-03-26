@@ -18,16 +18,16 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with multiple co-founding experiences
 - **Full-stack generalist** specializing in DevOps, AI/LLM integration, and modern web
-- Currently available for fractional CTO and technical consulting engagements
+- Seeking a hands-on engineering leadership role at a high-growth company
 
 ## Industry Experience
 
-### Fractional CTO
-#### Freelance | June 2025 - Present | Remote
+### Technical Lead
+#### Building Humane Technology | June 2025 - Present | Remote
 
-- Advising and leading technical strategy for startups and mission-driven organizations, with a focus on scalability, humane technology, and AI-driven innovation.
-- Providing architectural guidance, team alignment, and process improvements to help early-stage companies stabilize infrastructure and accelerate delivery.
-- Currently supporting **[Building Humane Technology](https://buildinghumanetech.com)** as Technical Lead through the creation of **[HumaneBench.ai](https://humanebench.ai)**, an open-source benchmark to quantify how AI systems support human well-being.
+- Co-architecting and leading development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. Python.
+- Shaping product and technical roadmap including production monitoring applications, multi-turn evaluation capabilities, and expansion strategies.
+- Coordinating open-source community engagement, hackathons, and developer education initiatives.
 
 ### Co-founder & Lead Developer
 #### Mirror Astrology | Nov 2024 - Present | Remote
