@@ -121,38 +121,6 @@ Guidelines:
 - Compress older experience when tailoring for a focused role.
 - Preserve readability in both Markdown and generated PDF.
 
-## Important Factual Context
+## Personal Context
 
-Keep these facts straight when tailoring resume/cover letter content. Some prior drafts have unintentionally overstated or distorted them.
-
-### Building Humane Technology / HumaneBench
-
-- BHT is **not salaried employment**.
-- It is a **volunteer / fractional-consulting-style** engagement.
-- Time commitment has been **part-time, roughly ~20 hours/week**.
-- It is **wrapping up**.
-- Do not imply full-time staff employment unless explicitly directed.
-- Do not overstate the work as if it matched the full scope of an internal AI developer platform org.
-- The concrete production delivery was the **design, implementation, and publication of the benchmark**.
-- There was also significant exploratory / strategic work around things like maturity models, possible real-time evals, and adjacent directions, but much of that remained investigative.
-- Rough split of effort: approximately **2/3 consulting / leadership / strategy** and **1/3 technical**.
-
-### Mirror Astrology
-
-- Mirror is a **production-quality app**.
-- It has **paying subscribers**, but only a small number.
-- Approximate scale at the moment: **~5 monthly active subscribers** and **~5 daily active users**.
-- It is fair to describe it as a real production app; do not imply significant scale.
-
-## Recommendations / References Convention
-
-Recommendations are currently kept out of the main body for ATS reasons and space discipline.
-
-Current preference:
-
-- if included, use a brief LinkedIn recommendations note in the footer rather than in the body
-- avoid a large recommendations section in tailored job resumes unless specifically needed
-- `References available upon request` is generally low value and should usually be omitted
-
-Note: the LinkedIn recommendations line is primarily for human readers, not ATS benefit.
-
+See [CONTEXT.md](CONTEXT.md) for factual details about specific roles, projects, and scale that must be kept accurate when tailoring content. Agents should read CONTEXT.md before making any content changes to resume.md.
