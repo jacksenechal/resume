@@ -35,6 +35,6 @@ Key files for agents:
 
 ## Requirements
 
-- pandoc
-- google-chrome-stable
+- pandoc or md2html
+- google-chrome-stable or chromium
 
