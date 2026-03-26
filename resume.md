@@ -2,10 +2,10 @@
 
 ## Engineering Leader / Entrepreneur
 
-**Located in Novato, CA**
-Phone: 415-779-2701
-Email: <jacksenechal@gmail.com>
-GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)
+**Located in Novato, CA** 
+Phone: 415-779-2701 
+Email: <jacksenechal@gmail.com> 
+GitHub: [github.com/jacksenechal](https://github.com/jacksenechal) 
 LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 
