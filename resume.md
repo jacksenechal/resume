@@ -26,8 +26,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 #### Building Humane Technology | June 2025 - Present | Remote
 
 - Co-architecting and leading development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. Python.
-- Shaping product and technical roadmap including production monitoring applications, multi-turn evaluation capabilities, and expansion strategies.
-- Coordinating open-source community engagement, hackathons, and developer education initiatives.
+- Driving product and technical roadmap including production monitoring, multi-turn evaluation, and maturity models to guide AI tool adoption across teams.
+- Coordinating open-source community engagement, hackathons, and education initiatives.
 
 ### Co-founder & Lead Developer
 #### Mirror Astrology | Nov 2024 - Present | Remote
