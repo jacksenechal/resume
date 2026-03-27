@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## AI Tooling & Platform Engineer
+## AI Enablement & Platform Engineer
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,11 +10,11 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
+- **Principal-level engineer** specializing in AI-powered developer tooling, agent infrastructure, and engineering productivity at scale
 - **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
+- Hands-on builder of **AI agents, LLM-powered workflows, and coding assistant integrations** — from evaluation and deployment to measurement and adoption
+- Full-stack generalist with deep experience in DevOps, cloud-native systems, and internal platform engineering
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with multiple co-founding experiences
 
 ## Industry Experience
@@ -24,14 +24,14 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 - Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect. Python.
 - Developing extensible evaluation tooling focused on measuring and improving LLM behavior in real-world developer and operational workflows.
-- Shaping product and technical roadmap for AI-driven tooling, including production monitoring, multi-turn evaluation, and maturity models for adoption and continuous improvement.
+- Defining AI adoption strategy and maturity models — measuring impact, championing best practices, and guiding teams through AI-assisted workflow integration.
 
 ### Co-founder & Lead Developer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
+- Built AI chatbot/agent integrating multiple LLMs with complex prompting, tool use, context augmentation, and multi-turn conversational workflows.
 - Owned the entire frontend: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX. Contributed to backend development.
-- Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
-- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+- Collaborated closely with co-founders on product direction, UX, roadmap planning, and prioritization.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
@@ -66,7 +66,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ### Scan MCP (2024 - Present)
 
-MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
+MCP (Model Context Protocol) server enabling AI agents to automate scanner hardware for document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
 
 [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
@@ -83,7 +83,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
+- **AI/LLM**: AI agent development, coding assistant evaluation & deployment (Claude Code, Cursor), MCP (Model Context Protocol), prompt engineering, tool use, context augmentation, LLM-powered workflow automation.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
