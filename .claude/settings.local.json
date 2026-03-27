@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(git:*)",
+      "Bash(pandoc:*)"
+    ]
+  }
+}

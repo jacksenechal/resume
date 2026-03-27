@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## AI Tooling & Platform Engineer
+## AI Productivity & Developer Tooling Engineer
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
-- **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
+- **Principal-level engineer** specializing in AI-powered developer tooling, engineering productivity systems, and platform modernization
+- **15+ years** building and shipping software, with **6+ years leading teams** across infrastructure, DevOps, and integration platforms
+- Hands-on with LLMs, MCP servers, prompt engineering, and AI-assisted developer workflows — building production-grade tools engineers use daily
+- Track record of driving **DevOps culture transformation** and measurably improving engineering velocity through tooling and automation
+- Strong product mindset with experience operating autonomously in ambiguous problem spaces
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
 
 ## Industry Experience
 
@@ -23,31 +23,29 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 #### Building Humane Technology | June 2025 - Present | Remote
 
 - Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect. Python.
-- Developing extensible evaluation tooling focused on measuring and improving LLM behavior in real-world developer and operational workflows.
-- Shaping product and technical roadmap for AI-driven tooling, including production monitoring, multi-turn evaluation, and maturity models for adoption and continuous improvement.
+- Developing extensible evaluation tooling for LLM behavior in real-world developer and operational workflows — designed for measurable adoption and continuous improvement.
+- Driving product and technical roadmap including production monitoring, multi-turn evaluation, and maturity models to guide AI tool adoption across teams.
 
 ### Co-founder & Lead Developer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
-- Owned the entire frontend: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX. Contributed to backend development.
-- Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
-- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+- Built production AI chatbot integrating multiple LLMs (OpenAI, Anthropic) with complex prompting, tool use, retrieval, and context augmentation.
+- Owned full-stack development: Ruby on Rails backend, JavaScript frontend, API design, and responsive UI/UX.
+- Collaborated closely with co-founders on product direction, roadmap planning, and prioritization.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Architected and implemented a scalable cloud platform serving customer workloads at a fast-paced startup.
-- Built CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
-- Implemented a Slack-based customer support and incident response platform; onboarded teammates and customers.
+- Architected scalable cloud platform and CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery pipelines.
+- Automated developer workflows and built Slack-based operational tooling for support and incident response; onboarded teammates and customers.
 - Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
-- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **Infrastructure Platform** (4 years): Recruited and built a team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Owned roadmap stewardship while staying hands-on with coding, architecture, and code review.
+- **M-Bridge Integration Platform** (2 years): Stabilized and scaled an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes.
+- **Cross-Functional Impact**: Mentored engineers across teams — coached a junior engineer who grew to Engineering Manager. Led interviewing, hiring, and organizational change management. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -66,25 +64,25 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ### Scan MCP (2024 - Present)
 
-MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
+MCP (Model Context Protocol) server for scanner automation and document digitization. Designed and built an end-to-end MCP service with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
 
 [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
 ### HumaneBench (2024 - Present)
 
-Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Supports multiple LLM providers with extensible scenario datasets. Python.
+AI evaluation framework built on AISI Inspect. Measures LLM behavior across multiple dimensions with extensible scenario datasets. Supports multiple LLM providers (OpenAI, Anthropic). Python.
 
 [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
 ## Skills
 
-- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
-- **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
+- **AI/LLM**: MCP (Model Context Protocol) server design, LLMs (OpenAI, Anthropic), prompt engineering, tool use, retrieval & context injection, AI-assisted developer workflows, AI evaluation frameworks.
+- **Languages & Frameworks**: Python, TypeScript, JavaScript, Node.js, Ruby on Rails, Bash.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
-- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, GitLab CI, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
+- **Developer Tooling**: Internal platform development, developer experience optimization, workflow automation, Slack integrations, observability.
+- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Change Management.
 
 ## Education
 
