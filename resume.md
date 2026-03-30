@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## AI Tooling & Platform Engineer
+## Senior Full-Stack Engineer | AI Agents & Web Applications
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
-- **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
+- **Senior full-stack engineer** with 15+ years shipping web applications end-to-end — React/TypeScript frontends to Rails/Node backends to production infrastructure
+- Builder of AI agents and LLM-powered features: chatbots, evaluation frameworks, tool-use pipelines, and context augmentation systems
+- Hands-on Ruby on Rails experience spanning consulting, feature development, and Rails/React upgrade leadership at scale
+- Bias for **product velocity and 80/20 thinking** — ships fast to gather real user feedback, iterates from there
+- **Entrepreneurial background**: co-founded two startups, owned products end-to-end from 0 to 1
+- Strong user empathy and cross-functional instincts — equally comfortable talking product direction and diving into code
 
 ## Industry Experience
 
@@ -29,25 +29,24 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Co-founder & Lead Developer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
-- Owned the entire frontend: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX. Contributed to backend development.
-- Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
-- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+- Built and shipped a production AI application end-to-end: Ruby on Rails backend, React/TypeScript, HTML+CSS/Tailwind, PostgreSQL, responsive UI/UX.
+- Designed and implemented an AI chatbot integrating multiple LLMs with complex multi-turn prompting, tool use, and context augmentation.
+- Owned full product lifecycle: Figma design → implementation → deployment → iteration based on user feedback.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Architected and implemented a scalable cloud platform serving customer workloads at a fast-paced startup.
-- Built CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
-- Implemented a Slack-based customer support and incident response platform; onboarded teammates and customers.
-- Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
+- Built scalable cloud platform and CI/CD patterns (mono-repo workflows, workload identity, continuous delivery) at a fast-paced startup.
+- Implemented Slack-based customer support and incident response tooling; onboarded teammates and customers.
+- Python, Pulumi, GCP, CircleCI, Kubernetes.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
-- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **Full-Stack Product Work**: Led Ruby/Rails and React upgrade initiatives across a large-scale SaaS product. Stayed hands-on with coding, architecture, and code review throughout. **Top Performer Award, 2021**.
+- **M-Bridge Integration Platform** (2 years): Led stabilization and scaling of an agent-based integration platform handling multi-system data orchestration. Reduced errors and incidents by ~100x through observability and operational improvements.
+- **Infrastructure Platform** (4 years): Built a new team from scratch, led DevOps transformation, and transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Cross-Functional Impact**: Mentored engineers and coached a junior engineer from entry-level to Engineering Manager. Led hiring and drove organizational process improvements.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -58,9 +57,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ### Earlier Career (2001 - 2014)
 
-- **Consultant & Entrepreneur** (2008 - 2014): Founded OpenTest Pro (automated testing education). Built e-commerce ordering system for Turnbull & Asser shirtmakers. Full-stack consulting in Ruby on Rails, Node.js, D3 data visualization. Rapid prototyping and client delivery.
+- **Consultant & Entrepreneur** (2008 - 2014): Full-stack consulting in **Ruby on Rails** and Node.js. Built e-commerce systems, data visualizations (D3), and client products from scratch with rapid iteration.
 - **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and CI. Built comprehensive API test suite. Integrated platform with Salesforce APIs.
-- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com — architected initial release, then built and scaled the development team.
+- **Development Lead, JBA Network** (2003 - 2006): Lead programmer for mynewsletterbuilder.com — architected initial release, then built and scaled the development team.
 
 ## Open Source Projects
 
@@ -78,9 +77,9 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Skills
 
-- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
-- **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
-- **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
+- **Languages & Frameworks**: Ruby on Rails, JavaScript, TypeScript, Python, Node.js, Bash.
+- **Front-end**: React, TypeScript, HTML, CSS, Tailwind, Responsive Design, UI/UX.
+- **Back-end & Data**: PostgreSQL, Redis, Elasticsearch, API Design, Microservices, Distributed Systems, MySQL, MongoDB.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
 - **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
