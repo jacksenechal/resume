@@ -1,21 +1,20 @@
 Jack Senechal
 
-AI Platform Engineer
+Platform Engineer
 
 Located in Novato, CA Phone: 415-779-2701 Email: jacksenechal@gmail.com
 GitHub: github.com/jacksenechal LinkedIn: linkedin.com/in/jacksenechal
 
 Summary
 
--   Senior platform engineer specializing in infrastructure and backend
-    systems for AI-powered products, with deep experience deploying
-    across multiple production environments
+-   Senior platform engineer with deep experience building and operating
+    infrastructure across multiple production environments
 -   15+ years building and shipping software, with 6+ years leading
     teams across platform, infrastructure, and product domains
 -   Track record building repeatable, secure, and reliable deployment
     pipelines using Kubernetes, IaC, and cloud-native tooling
--   Full-stack generalist with hands-on AI/LLM integration experience —
-    from evaluation frameworks to production chatbots
+-   Hands-on AI/LLM experience including evaluation frameworks,
+    production chatbots, and developer tooling
 -   Committed mentor and coach who elevated junior engineers to senior
     technical and engineering management positions
 -   Entrepreneurial spirit with multiple co-founding experiences at
