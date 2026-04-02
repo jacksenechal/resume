@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## AI Tooling & Platform Engineer
+## AI Platform Engineer
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
-- **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
+- **Senior platform engineer** specializing in infrastructure and backend systems for AI-powered products, with deep experience deploying across multiple production environments
+- **15+ years** building and shipping software, with **6+ years leading teams** across platform, infrastructure, and product domains
+- Track record building repeatable, secure, and reliable deployment pipelines using Kubernetes, IaC, and cloud-native tooling
+- Full-stack generalist with hands-on AI/LLM integration experience — from evaluation frameworks to production chatbots
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
+- Entrepreneurial spirit with multiple co-founding experiences at fast-moving startups
 
 ## Industry Experience
 
@@ -36,16 +36,17 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Architected and implemented a scalable cloud platform serving customer workloads at a fast-paced startup.
-- Built CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
+- Architected and implemented a scalable cloud platform serving customer workloads across multiple production environments at a fast-paced startup.
+- Built repeatable CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery pipelines.
+- Designed infrastructure for secure multi-tenant deployments with environment isolation and automated provisioning.
 - Implemented a Slack-based customer support and incident response platform; onboarded teammates and customers.
 - Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
+- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Designed repeatable deployment pipelines serving multiple production environments with security and reliability as first-class concerns.
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
 - **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
 
@@ -81,9 +82,9 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
-- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
+- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm, Multi-Environment Deployment, Security & Compliance.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture, Continuous Delivery.
+- **AI/LLM**: MCP (Model Context Protocol), LLM integration, prompt engineering, tool use, AI evaluation frameworks, production AI systems.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
