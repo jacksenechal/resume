@@ -10,4 +10,5 @@ pandoc resume.md -o index.html -t html5 \
   --include-after-body=_pandoc/footer.html \
   --variable="pagetitle:Resume :: Jack Senechal"
 
-google-chrome-stable --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume.pdf index.html
+CHROME=$(command -v google-chrome-stable || command -v chromium || command -v chromium-browser || echo "google-chrome-stable")
+"$CHROME" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume.pdf index.html
