@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Lead
+## Technical Lead
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,20 +10,21 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Hands-on engineering leader** with **15+ years** building and shipping software, and **6+ years leading teams** across multiple product domains
-- Built teams from scratch, owned technical roadmaps, and stayed deep in the code — architecture, implementation, and code review
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions, and drove organization-wide DevOps culture transformation
-- **Full-stack generalist** across modern web, cloud-native infrastructure, and AI/LLM integration
-- Strong product instinct honed through multiple co-founding experiences and cross-functional collaboration with product, design, and stakeholders
-- Pragmatic problem solver focused on **shipping high-quality software** and **measurable impact**
+- **Hands-on engineering leader** with **15+ years** shipping software and **6+ years leading teams**, balancing deep technical ownership with team mentorship and roadmap stewardship
+- Built and scaled **data-driven enterprise SaaS** — integration platforms, data pipelines, and workflow-heavy systems for B2B customers — architecting for **scalability, reliability, and security**
+- **Full-stack generalist** across Python, Ruby, Node.js, React, and cloud-native infrastructure (AWS, Kubernetes, Terraform)
+- Actively **integrating AI/LLMs** into production products — evaluation frameworks, agent tooling, and model selection — with an emphasis on **responsible AI** and measurable quality
+- Committed **mentor and coach** who has elevated junior engineers to senior and management roles and driven organization-wide **DevOps, observability, and reliability** culture
+- Strong product instinct from multiple co-founding experiences; pragmatic problem solver focused on **shipping quality software** with **measurable impact**
 
 ## Industry Experience
 
 ### Technical Lead
 #### Building Humane Technology | June 2025 - Present | Remote
 
-- Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect. Python.
-- Shaping product and technical roadmap including production monitoring applications, multi-turn evaluation capabilities, and expansion strategies.
+- Co-architecting and leading development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source **AI evaluation framework** for assessing LLM behavior against humane-technology principles. Python, built on AISI Inspect.
+- Leading technical discussions on **model evaluation techniques, responsible AI usage**, and integration patterns for production AI features.
+- Shaping product and technical roadmap including production monitoring, multi-turn evaluation, and maturity models for guiding AI adoption across teams.
 - Coordinating open-source community engagement, hackathons, and developer education initiatives.
 
 ### Co-founder & Lead Developer
@@ -44,10 +45,10 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
-- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **M-Bridge Integration Platform** (2 years): Led the team that turned around Kantata's **enterprise SaaS integrations platform** — complex, data-driven workflows connecting customer systems (Salesforce, HRIS, accounting). Rearchitected for reliability and established operational metrics and observability that **reduced error rates ~100x**. Executed a **zero-downtime migration from Heroku to Kubernetes + RDS** spanning relational, document, and cache databases.
+- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch. Led the organization's DevOps, **CI/CD, and observability** culture transformation. Owned roadmap, architecture, and code review while staying hands-on. Migrated the Rails monolith and services ecosystem to Kubernetes; migrated the primary datastore to AWS RDS, eliminating a production reliability crisis.
+- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics **data pipeline**; migrated to Kubernetes.
+- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Partnered with Product, Design, QA, and DevOps on cross-functional delivery. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -78,12 +79,13 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Skills
 
-- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
+- **Languages & Frameworks**: Python, JavaScript, TypeScript, Node.js, Ruby on Rails, Bash.
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
-- **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
-- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
+- **Back-end & Data**: API Design, Microservices, Event-Driven Architecture, Data Pipelines, Workflow Engines, PostgreSQL, MySQL, MongoDB, Redis.
+- **Cloud & Infrastructure**: AWS, GCP, Kubernetes, Docker, Serverless, Containerization, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
+- **Reliability & Security**: Observability (logging, metrics, tracing), Incident Response, Root-Cause Analysis, Security Best Practices, Operational Excellence.
+- **AI/LLM**: Model evaluation, MCP (Model Context Protocol), LLM integration, prompt engineering, tool use, RAG / context augmentation, responsible AI.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
