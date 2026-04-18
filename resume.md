@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## AI Tooling & Platform Engineer
+## Senior Ruby on Rails Engineer & AI Systems Builder
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
-- **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
+- **Senior full-stack Rails engineer** with 15+ years building production systems — currently deep in integrating AI/LLMs into the full stack
+- Rails practitioner since 2008, with hands-on experience in background job systems, PostgreSQL, and modern frontend patterns (Hotwire, StimulusJS)
+- **6+ years leading teams** across integrations, infrastructure, and product domains
+- Currently building AI-powered apps using LLM APIs, tool use, multi-agent workflows, and eval frameworks
+- Committed **mentor and coach** who elevated junior engineers to senior and engineering management roles
+- Entrepreneurial spirit with multiple co-founding experiences; strong customer focus
 
 ## Industry Experience
 
@@ -29,7 +29,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Co-founder & Lead Developer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
-- Owned the entire frontend: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX. Contributed to backend development.
+- Owned full-stack development: Ruby on Rails, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
 - Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
 - Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
 
@@ -45,9 +45,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led migration of the **full Rails monolith and all services to Kubernetes** (zero-downtime) and MySQL → RDS, resolving chronic production segfaults. Drove Ruby/Rails upgrade strategy across the engineering org. Led the organization's DevOps culture transformation, serving as technical authority and change agent. Top-line impact: dramatically reduced on-call incidents and error rates; strong team retention. **Top Performer Award, 2021**.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -78,12 +78,12 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Skills
 
-- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
-- **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
-- **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
+- **Languages & Frameworks**: Ruby on Rails, JavaScript, TypeScript, Python, Node.js, Bash.
+- **Front-end**: Hotwire, StimulusJS, React, Vue, HTML, CSS, Tailwind, Responsive Design.
+- **Back-end & Data**: Sidekiq, Background Jobs, API Design, PostgreSQL, MySQL, MongoDB, Redis, Microservices, Distributed Systems.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
+- **AI/LLM**: Agentic workflows, LLM API integration, prompt engineering, tool use, context augmentation, MCP (Model Context Protocol), AI-assisted developer tooling, eval frameworks.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
