@@ -160,4 +160,4 @@ Use this outline:
 
 ## Personal Context
 
-See [CONTEXT.md](CONTEXT.md) for factual details about specific roles, projects, and scale that must be kept accurate when tailoring content. Agents should read CONTEXT.md before making any content changes to resume.md.
+Personal context (project narratives, factual guardrails, self-assessment) is maintained outside this repo. The calling agent is responsible for providing relevant context when requesting resume edits.
