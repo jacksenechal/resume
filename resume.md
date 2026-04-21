@@ -19,18 +19,19 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Industry Experience
 
-### Technical Lead
-#### Building Humane Technology | June 2025 - Present | Remote
+### Co-founder & Fractional CTO
+#### Building Humane Technology | June 2025 - Mar 2026 | Remote
 
-- Co-architecting and leading development of HumaneBench.ai, an open-source AI evaluation framework built on AISI Inspect. Python.
+- Co-architecting and leading development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. Python.
 - Developing extensible evaluation tooling focused on measuring and improving LLM behavior in real-world developer and operational workflows.
 - Shaping product and technical roadmap for AI-driven tooling, including production monitoring, multi-turn evaluation, and maturity models for adoption and continuous improvement.
 
-### Co-founder & Lead Developer
+### Co-founder & Software Engineer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
-- Owned the entire frontend: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX. Contributed to backend development.
 - Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
+- Front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
+- Back-end development: Stripe integration, SSO authentication, Rails MVC.
 - Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
 
 ### Infrastructure Engineer
