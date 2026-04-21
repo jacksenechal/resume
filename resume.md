@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Infrastructure & Platform Engineer
+## Senior Platform & Developer Experience Engineer
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Senior infrastructure and reliability engineer** with **15+ years** building software and **6+ years leading teams** across multiple platform domains
-- Specializing in DevOps, cloud-native platforms, Kubernetes, and large-scale distributed systems
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
+- **Senior platform engineer** with **15+ years** building software and **6+ years leading teams** across infrastructure, CI/CD, and developer tooling domains
+- Specializing in **developer experience platforms**, cloud-native infrastructure (AWS, GCP, Kubernetes), and CI/CD pipeline design for multi-service environments
+- Built and led a platform engineering team from scratch, delivering the tooling and automation that empowered 100+ engineers to ship reliably
 - Led organizational DevOps culture transformations, driving adoption of modern SRE and cloud-native practices
-- Full-stack generalist with deep experience in AI/LLM integration, modern web, and Infrastructure as Code
-- Pragmatic problem solver focused on **reliability, scalability**, and **measurable operational improvement**
+- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
+- Pragmatic problem solver focused on **developer productivity, reliability**, and **measurable operational improvement**
 
 ## Industry Experience
 
@@ -37,16 +37,16 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
 - Designed, implemented, and operated a scalable cloud platform supporting production customer workloads, with a focus on reliability, security, and operational excellence.
-- Built and maintained CI/CD pipelines enabling automated build, test, and deployment workflows, reducing manual intervention and improving delivery speed.
+- Built and maintained CI/CD pipelines enabling automated build, test, and deployment workflows across multiple services, reducing manual intervention and improving delivery speed.
 - Operated Kubernetes-based platforms across cloud environments, supporting containerized services with strong observability and incident response practices.
-- Implemented infrastructure as code and automation patterns to ensure consistency, scalability, and repeatable deployments.
+- Implemented infrastructure as code and automation patterns (Pulumi, Helm) to ensure consistency, scalability, and repeatable deployments.
 - Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new infrastructure and DevOps team from scratch. Led the organization's DevOps culture transformation, driving adoption of modern SRE and cloud-native practices. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding and architecture. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Designed and operated CI/CD pipelines for secure software delivery across multiple environments.
+- **Infrastructure Platform** (4 years): Recruited and built a new infrastructure and DevOps team from scratch. Built an internal developer platform that empowered 100+ engineers with self-service CI/CD, environment provisioning, and deployment tooling. Led the organization's DevOps culture transformation, driving adoption of modern SRE and cloud-native practices. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Designed and operated CI/CD pipelines for secure software delivery across multiple environments and services.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
 - **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
 
@@ -82,8 +82,8 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
-- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
+- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm, CloudFormation.
+- **CI/CD & DevOps**: GitHub Actions, CircleCI, CI/CD Pipeline Design, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture, Multi-Service Deployment.
 - **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
