@@ -12,7 +12,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 - **Senior platform engineer** with **15+ years** building software and **6+ years leading teams** across infrastructure, CI/CD, and developer tooling domains
 - Specializing in **developer experience platforms**, cloud-native infrastructure (AWS, GCP, Kubernetes), and CI/CD pipeline design for multi-service environments
-- Built and led a platform engineering team from scratch, delivering the tooling and automation that empowered 100+ engineers to ship reliably
+- Built and led a platform engineering team from scratch, delivering the tooling and automation that empowered the engineering org to ship reliably
 - Led organizational DevOps culture transformations, driving adoption of modern SRE and cloud-native practices
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
 - Pragmatic problem solver focused on **developer productivity, reliability**, and **measurable operational improvement**
@@ -46,7 +46,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new infrastructure and DevOps team from scratch. Built an internal developer platform that empowered 100+ engineers with self-service CI/CD, environment provisioning, and deployment tooling. Led the organization's DevOps culture transformation, driving adoption of modern SRE and cloud-native practices. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Designed and operated CI/CD pipelines for secure software delivery across multiple environments and services.
+- **Infrastructure Platform** (4 years): Recruited and built a new infrastructure and DevOps team from scratch. Built an internal developer platform that empowered ~50 engineers with self-service CI/CD, environment provisioning, and deployment tooling. Led the organization's DevOps culture transformation, driving adoption of modern SRE and cloud-native practices. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes). Designed and operated CI/CD pipelines for secure software delivery across multiple environments and services.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
 - **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
 
