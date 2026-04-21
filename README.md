@@ -13,8 +13,7 @@ Live version: [jacksenechal.com/resume](http://jacksenechal.com/resume/)
 This repo is designed to be forked and adapted. If you do:
 
 1. Replace `resume.md` with your own content.
-2. Replace [CONTEXT.md](CONTEXT.md) with your own factual context (role details, scale, constraints that agents should respect when tailoring your resume).
-3. Keep [AGENTS.md](AGENTS.md) as-is — it contains the operational SOPs for the agentic workflow (branching, publishing, ATS formatting).
+2. Keep [AGENTS.md](AGENTS.md) as-is — it contains the operational SOPs for the agentic workflow (branching, publishing, ATS formatting).
 
 ## Agentic Workflow
 
@@ -29,7 +28,6 @@ Key files for agents:
 | File | Purpose |
 |------|---------|
 | [AGENTS.md](AGENTS.md) | Operational SOPs: branching, workflow, publishing, ATS formatting |
-| [CONTEXT.md](CONTEXT.md) | Personal factual context that agents must respect when tailoring content |
 | `resume.md` | Source of truth for resume content |
 | `_publish` | Generates `index.html` and `resume.pdf` from `resume.md` |
 
