@@ -29,7 +29,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Co-founder & Software Engineer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
-- Built and shipped a production AI chatbot end-to-end: multi-LLM integration with complex prompting, tool use, and context augmentation, exposed through a polished consumer web app.
+- Built and shipped a production AI chatbot end-to-end: multi-LLM integration with complex prompting and context augmentation, exposed through a polished consumer web app.
 - Full-stack development: Ruby on Rails MVC, Stripe integration, SSO authentication; React-flavored Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
 - Translated co-founders' product vision and Figma designs into working features; owned roadmap, prioritization, and customer-facing iteration cycles.
 
