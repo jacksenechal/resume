@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## AI Tooling & Platform Engineer
+## Full Stack & AI Engineer
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,11 +10,11 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
+- **Principal-level full-stack engineer** shipping AI-powered applications end-to-end — from LLM integration and prompt engineering through Rails/React UI to cloud-native deployment
 - **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
-- Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
+- Consultative engineer comfortable **partnering with non-technical stakeholders** to scope, prototype, and deliver custom solutions for real users
+- Hands-on with modern AI tooling: LLM application development, MCP servers, retrieval-augmented generation, AI evaluation frameworks, agent workflows
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
 - Entrepreneurial spirit with multiple co-founding experiences
 
 ## Industry Experience
@@ -29,10 +29,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Co-founder & Software Engineer
 #### Mirror Astrology | Nov 2024 - Present | Remote
 
-- Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
-- Front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
-- Back-end development: Stripe integration, SSO authentication, Rails MVC.
-- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+- Built and shipped a production AI chatbot end-to-end: multi-LLM integration with complex prompting, tool use, and context augmentation, exposed through a polished consumer web app.
+- Full-stack development: Ruby on Rails MVC, Stripe integration, SSO authentication; React-flavored Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
+- Translated co-founders' product vision and Figma designs into working features; owned roadmap, prioritization, and customer-facing iteration cycles.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
@@ -79,13 +78,13 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Skills
 
+- **AI/LLM**: LLM application development, prompt engineering, tool use, RAG, context augmentation, multi-LLM integration, AI evaluation (AISI Inspect), MCP (Model Context Protocol), agent workflows.
 - **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
-- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation, AI-assisted developer workflows.
-- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
+- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Pulumi, Helm.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code.
+- **Collaboration**: Partnering with non-technical stakeholders, requirements scoping, technical writing, mentoring, cross-functional delivery.
 
 ## Education
 
