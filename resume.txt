@@ -7,19 +7,19 @@ GitHub: github.com/jacksenechal LinkedIn: linkedin.com/in/jacksenechal
 
 Summary
 
--   Principal-level full-stack engineer shipping AI-powered applications
-    end-to-end — from LLM integration and prompt engineering through
-    Rails/React UI to cloud-native deployment
+-   Senior full-stack engineer shipping AI-powered applications
+    end-to-end — LLM integration, prompt engineering, tool use,
+    Rails/React UI, cloud-native deployment
 -   15+ years building and shipping software, with 6+ years leading
-    teams across multiple product domains
+    teams as tech lead, architect, and engineering manager
 -   Consultative engineer comfortable partnering with non-technical
     stakeholders to scope, prototype, and deliver custom solutions for
     real users
--   Hands-on with modern AI tooling: LLM application development, MCP
-    servers, retrieval-augmented generation, AI evaluation frameworks,
-    agent workflows
--   Committed mentor and coach who elevated junior engineers to senior
-    technical and engineering management positions
+-   Hands-on with modern AI tooling: multi-LLM application development,
+    MCP servers, AI evaluation frameworks, agentic coding workflows
+-   Strength in technical leadership and architecture: roadmapping,
+    system design, mentoring, and stewarding rag-tag teams to durable
+    outcomes
 -   Entrepreneurial spirit with multiple co-founding experiences
 
 Industry Experience
@@ -139,8 +139,8 @@ github.com/buildinghumanetech/humanebench
 Skills
 
 -   AI/LLM: LLM application development, prompt engineering, tool use,
-    RAG, context augmentation, multi-LLM integration, AI evaluation
-    (AISI Inspect), MCP (Model Context Protocol), agent workflows.
+    context augmentation, multi-LLM integration, AI evaluation (AISI
+    Inspect), MCP (Model Context Protocol), agentic coding workflows.
 -   Languages & Frameworks: JavaScript, TypeScript, Python, Ruby on
     Rails, Node.js, Bash.
 -   Front-end: React, Vue, HTML, CSS, Tailwind, Responsive Design,
