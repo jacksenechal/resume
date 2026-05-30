@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Engineering manager** with **15+ years** in software development and **6+ years building and leading teams** across multiple product domains
-- Recruited, coached, and grew high-performing teams from scratch — elevated junior engineers to senior technical and engineering management positions
-- Drove organization-wide DevOps culture transformation, influencing decisions at all levels and promoting best practices across engineering
-- Strong cross-functional collaborator, partnering with product, design, and stakeholders to align roadmaps and deliver business impact
-- Hands-on technical leader who stays deep in architecture, code review, and implementation alongside management responsibilities
-- Entrepreneurial mindset with multiple co-founding experiences and a focus on shipping high-quality software
+- **Engineering manager** with **15+ years** in software development and **6+ years building and leading teams** delivering SaaS to external customers across multiple product domains
+- Recruited, coached, and grew high-performing, globally distributed teams from scratch — set development standards and methodology, ran hiring and performance management, and elevated junior engineers to senior and engineering-management roles
+- Hands-on technical leader who provides architectural design oversight (scalable, maintainable systems) while staying deep in code review and implementation alongside management responsibilities
+- Drove organization-wide DevOps culture transformation, influencing decisions at all levels and promoting engineering best practices
+- Strong cross-functional collaborator who translates technical concepts for non-technical audiences and aligns roadmaps with business objectives
+- Building AI and automation into products today (LLM tooling, evaluation frameworks); entrepreneurial mindset with multiple co-founding experiences
 
 ## Industry Experience
 
@@ -45,8 +45,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Created a clear, calm, and constructive environment that allowed the team to thrive. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **M-Bridge Integration Platform** (2 years): Managed the team owning an external-facing component of Kantata's SaaS — an agent-based integration platform orchestrating multi-system customer data (Salesforce, HRIS, accounting). Provided architectural oversight that turned a flaky, escalation-heavy system into a scalable, maintainable one, reducing errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
+- **Infrastructure Platform** (4 years): Recruited and built a new, globally distributed team from scratch. Set development standards and methodology, ran hiring, onboarding, and performance management, and led the organization's DevOps culture transformation as change agent and technical authority across engineering. Created a clear, calm, constructive environment where the team thrived. Owned roadmap stewardship and priority management while staying hands-on with architecture and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
 - **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
 
