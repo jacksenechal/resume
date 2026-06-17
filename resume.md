@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Lead
+## Engineering Leader — Platform & Reliability
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Hands-on engineering leader** with **15+ years** building and shipping software, and **6+ years leading teams** across multiple product domains
-- Built teams from scratch, owned technical roadmaps, and stayed deep in the code — architecture, implementation, and code review
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions, and drove organization-wide DevOps culture transformation
-- **Full-stack generalist** across modern web, cloud-native infrastructure, and AI/LLM integration
-- Strong product instinct honed through multiple co-founding experiences and cross-functional collaboration with product, design, and stakeholders
-- Pragmatic problem solver focused on **shipping high-quality software** and **measurable impact**
+- **Platform and reliability leader** with **15+ years** in software and **6+ years leading engineering teams** at growth-stage B2B SaaS, owning the infrastructure, integration, and DevOps platforms that product teams build on
+- Built an infrastructure/platform team from scratch and **drove an organization-wide DevOps culture transformation**, setting the engineering standards, on-call practices, and operating model adopted across the eng org
+- **Reliability obsessed**: established the metrics, SLOs, and incident practices that **cut platform errors and incidents ~100x**, while keeping on-call load sustainable
+- Committed **coach and people-developer** who **grew a junior engineer into an Engineering Manager** and mentored engineers across teams; leads through clarity and flow, not control
+- **AI-native** by practice: built an open-source AI evaluation framework, MCP tooling, and multi-LLM products — well positioned to direct an AI-forward platform strategy
+- Deep in cloud-native infrastructure (Kubernetes, IaC, multi-cloud) and stays hands-on with architecture and code review
 
 ## Industry Experience
 
@@ -45,10 +45,10 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Infrastructure & Reliability Platform** (4 years): Recruited and built a new platform team from scratch and **led the organization's DevOps culture transformation**, defining the reliability, on-call, and CI/CD standards adopted across product teams. Owned the platform roadmap, requirements triage, and priority management while staying hands-on with architecture and code review. Migrated a large legacy codebase to cloud-native Infrastructure-as-Code (Terraform, Ansible, Kubernetes).
+- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. **Established the SLOs, operational metrics, and monitoring that reduced errors and incidents by ~100x** and turned a chronic source of escalations into a dependable foundation. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Mentored engineers across teams — notably coached a junior engineer who grew to Engineering Manager. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **Organization-wide leadership**: Set engineering standards and drove change management across the eng org, partnering with leadership on hiring and process. **Developed people, not just systems** — coached a junior engineer into an Engineering Manager and mentored engineers across multiple teams. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -83,9 +83,10 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
-- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
+- **Platform & Reliability**: Platform Engineering, SRE, SLOs & Error Budgets, Incident Response, On-Call Practices, Developer Productivity, Observability/Monitoring.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Testing Frameworks, Infrastructure as Code, Cloud-Native Architecture.
+- **AI/LLM**: MCP (Model Context Protocol), AI evaluation frameworks, chatbot development, prompt engineering, tool use, context augmentation.
+- **Leadership**: Engineering Standards, Org Design & Operating Model, Developing Managers & Engineers, Roadmap Ownership, Cross-Team Dependency Management, Hiring, Change Management, Agile/Scrum/Kanban.
 
 ## Education
 
