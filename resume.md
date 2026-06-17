@@ -13,7 +13,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - **Platform and reliability leader** with **15+ years** in software and **6+ years leading engineering teams** at growth-stage B2B SaaS, owning the infrastructure, integration, and DevOps platforms that product teams build on
 - Built an infrastructure/platform team from scratch and **drove an organization-wide DevOps culture transformation**, setting the engineering standards, on-call practices, and operating model adopted across the eng org
 - **Reliability obsessed**: established the metrics, SLOs, and incident practices that **cut platform errors and incidents ~100x**, while keeping on-call load sustainable
-- Committed **coach and people-developer** who **grew a junior engineer into an Engineering Manager** and mentored engineers across teams; leads through clarity and flow, not control
+- Committed **coach and people-developer** who **grew multiple junior engineers into senior SWE and Engineering Manager roles** and mentored engineers across teams; leads through clarity and flow, not control
 - **AI-native** by practice: built an open-source AI evaluation framework, MCP tooling, and multi-LLM products — well positioned to direct an AI-forward platform strategy
 - Deep in cloud-native infrastructure (Kubernetes, IaC, multi-cloud) and stays hands-on with architecture and code review
 
@@ -48,7 +48,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - **Infrastructure & Reliability Platform** (4 years): Recruited and built a new platform team from scratch and **led the organization's DevOps culture transformation**, defining the reliability, on-call, and CI/CD standards adopted across product teams. Owned the platform roadmap, requirements triage, and priority management while staying hands-on with architecture and code review. Migrated a large legacy codebase to cloud-native Infrastructure-as-Code (Terraform, Ansible, Kubernetes).
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. **Established the SLOs, operational metrics, and monitoring that reduced errors and incidents by ~100x** and turned a chronic source of escalations into a dependable foundation. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Organization-wide leadership**: Set engineering standards and drove change management across the eng org, partnering with leadership on hiring and process. **Developed people, not just systems** — coached a junior engineer into an Engineering Manager and mentored engineers across multiple teams. **Top Performer Award, 2021**.
+- **Organization-wide leadership**: Set engineering standards and drove change management across the eng org, partnering with leadership on hiring and process. **Developed people, not just systems** — grew multiple junior engineers into senior SWE and Engineering Manager roles and mentored engineers across multiple teams. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
