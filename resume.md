@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Leader — Platform & Reliability
+## Engineering Leader · Platform & Reliability
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
