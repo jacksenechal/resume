@@ -44,7 +44,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Drove product and technical roadmap including production monitoring and multi-turn evaluation.
 
 ### Co-founder & Software Engineer
-#### Mirror Astrology | Nov 2024 - Present | Remote
+#### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
 - Full-stack product development: Ruby on Rails MVC, JavaScript, responsive UI/UX, Stripe integration, SSO authentication.
 - Collaborated closely with co-founders on product direction, roadmap, and prioritization.
