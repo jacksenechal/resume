@@ -27,7 +27,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Shaping product and technical roadmap for AI-driven tooling, including production monitoring, multi-turn evaluation, and maturity models for adoption and continuous improvement.
 
 ### Co-founder & Software Engineer
-#### Mirror Astrology | Nov 2024 - Present | Remote
+#### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
 - Built AI chatbot integrating multiple LLMs with complex prompting, tool use, and context augmentation.
 - Front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
