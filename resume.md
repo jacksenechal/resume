@@ -38,10 +38,10 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, Docker.
 
 ### Co-founder & Fractional CTO
-#### Building Humane Technology | June 2025 - Mar 2026 | Remote
+#### Building Humane Technology | June 2025 - Present | Remote
 
-- Co-architected and led development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source evaluation framework built on AISI Inspect. Python, containerized execution, CI-driven test automation.
-- Drove product and technical roadmap including production monitoring and multi-turn evaluation.
+- Co-architect and lead development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source evaluation framework built on AISI Inspect. Python, containerized execution, CI-driven test automation.
+- Drive product and technical roadmap including production monitoring and multi-turn evaluation; currently leading a client contract implementation sprint.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
