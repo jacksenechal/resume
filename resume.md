@@ -20,7 +20,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ## Industry Experience
 
 ### Co-founder & Fractional CTO
-#### Building Humane Technology | June 2025 - Mar 2026 | Remote
+#### Building Humane Technology | June 2025 - Present | Remote
 
 - Co-architecting and leading development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. Python.
 - Developing extensible evaluation tooling focused on measuring and improving LLM behavior in real-world developer and operational workflows.
