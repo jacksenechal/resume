@@ -99,12 +99,15 @@ open-source AI evaluation framework built on AISI Inspect.
 product: scenario datasets, multi-provider LLM support, extensible
 scoring, and the documentation and positioning around it.</li>
 <li>Extending the framework toward <strong>real-time
-evaluation</strong>: built a <strong>proof-of-concept classifier
-model</strong> that scores model behavior against HumaneBench rubrics
-inline, rather than only in batch.</li>
-<li>Defined <strong>operational visibility metrics</strong> and the
-feedback path from evaluation results back into <strong>system-prompt
-iteration and fine-tuning</strong>.</li>
+evaluation</strong>: engineered a <strong>low-latency proof-of-concept
+classifier model</strong> that scores model behavior against HumaneBench
+rubrics inline at <strong>sub-100ms</strong>, fast enough to sit in a
+production request path rather than run only in batch.</li>
+<li>Translated qualitative behavioral rubrics into <strong>structured,
+trainable signal definitions</strong>, and designed the
+<strong>operational visibility metrics</strong> and automated feedback
+path carrying evaluation output back into <strong>system-prompt
+iteration and model fine-tuning</strong>.</li>
 <li>Own product direction as well as code, including roadmap work on
 production monitoring, multi-turn evaluation, and adoption maturity
 models.</li>
