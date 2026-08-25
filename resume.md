@@ -22,20 +22,21 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- **Run "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat. Persistent orchestrating agent sessions delegate implementation to cheaper-model subagents, each isolated in its own git worktree with its own database, so parallel work cannot collide.
-- **Core thesis, proven in production**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context instead of taught to people.
-- **Built the coordination substrate on GitHub itself**: issues, PRs, and Projects as the single ledger, kept honest by scheduled automation that derives board state from PR, CI, and label reality rather than trusting agents to remember to update it.
-- **Enforce the SDLC in the harness rather than by instruction**: every PR gated by an independent fresh-context reviewer agent and by branch protection (green CI, supply-chain scanning, deployment smoke check). **The harness improves itself by design**: the Architect and Team Lead agents (running on different frontier models) are tasked with refining the process, and converge independently on refinements that they ship and then evaluate. The session lifecycle hook that blocks an agent from ending with dispatched work uncommitted was theirs, built after they observed the failure.
-- **Own the product role by design**: define and prioritize the work, verify against deployed previews before anything ships, and steer how tight the human-in-the-loop gates run.
+- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat.
+- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
+- **GitHub as the coordination substrate**: issues, PRs, and Projects are the single ledger.
+- **Harness-enforced SDLC**: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
+- **Self-improving harness**: Orchestration agents tasked with running, observing, and refining the process. Agents collaboratively converge on refinements, ship and evaluate.
+- **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-- **Originated the concept for [HumaneBench.ai](https://humanebench.ai)** and co-architected it: an open-source AI evaluation framework built on AISI Inspect. **Python.**
-- Act as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
-- Extending the framework toward **real-time evaluation**: specified and designed a **low-latency proof-of-concept classifier**, built in collaboration with coding agents, that scores model behavior against HumaneBench rubrics inline at **sub-100ms** and can sit in a production request path rather than run only in batch.
-- Translated qualitative behavioral rubrics into **structured, trainable signal definitions**, and designed the **operational visibility metrics** and automated feedback path carrying evaluation output back into **system-prompt iteration and model fine-tuning**.
-- Own **product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
+- **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
+- Acting as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
+- Extending the framework toward **real-time evaluation**: built a **low-latency proof-of-concept classifier** that scores model behavior against HumaneBench rubrics inline at **sub-100ms** and can sit in a production request path rather than run only in batch.
+- Designing telemetry for operational visibility, and evaluation feedback loops to inform **system-prompt iteration** and model fine-tuning.
+- Owning **technical product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
