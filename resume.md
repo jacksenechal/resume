@@ -23,7 +23,7 @@ Full-stack product engineer with a strong record of shipping production software
 - **Core thesis**: the same DevOps and project-management discipline that makes human teams work is the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
 - **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
-- Chose **React, TypeScript, and Next.js** over Ruby on Rails for this client's stack: their tooling and feedback loops are markedly more tractable for agents to work in.
+- Chose **React, TypeScript, and Next.js** stack: their tooling and feedback loops are very tractable for agents to work in.
 - Defines and prioritizes work, verifies against deployed previews on behalf of a non-technical user base. A prototype is far faster driving an agent directly; the factory earns its keep on production systems, which is where the industry is converging.
 
 ### Co-founder & Fractional CTO

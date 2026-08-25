@@ -43,9 +43,8 @@ Client engagements | May 2026 - Present | Remote
 -   Self-improving harness: orchestration agents run, observe, and
     refine the process, converging on and shipping their own
     refinements.
--   Chose React, TypeScript, and Next.js over Ruby on Rails for this
-    client’s stack: their tooling and feedback loops are markedly more
-    tractable for agents to work in.
+-   Chose React, TypeScript, and Next.js stack: their tooling and
+    feedback loops are very tractable for agents to work in.
 -   Defines and prioritizes work, verifies against deployed previews on
     behalf of a non-technical user base. A prototype is far faster
     driving an agent directly; the factory earns its keep on production
