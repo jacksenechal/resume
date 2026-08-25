@@ -7,18 +7,25 @@ GitHub: github.com/jacksenechal LinkedIn: linkedin.com/in/jacksenechal
 
 Summary
 
--   Principal-level engineer specializing in AI-powered developer
-    tooling, platform modernization, and large-scale engineering
-    productivity
--   Strong record building and shipping software, with 6+ years leading
-    teams across multiple product domains
--   Full-stack generalist with deep experience applying AI/LLMs, DevOps,
-    and cloud-native systems to accelerate software delivery
--   Committed mentor and coach who elevated junior engineers to senior
-    technical and engineering management positions
--   Strong customer focus, advocating for impactful changes and ensuring
-    product value
--   Entrepreneurial spirit with multiple co-founding experiences
+AI tooling and platform engineer building the infrastructure that lets
+engineering teams, human and agentic, ship faster without breaking
+things.
+
+-   Software factory architect: designs and operates agent-driven
+    delivery pipelines that carry work from spec to shipped, encoding
+    the same DevOps and project-management discipline that makes any
+    team actually work.
+-   Harness-enforced SDLC: independent fresh-context review, green CI,
+    supply-chain scanning, and deployment smoke checks, so speed does
+    not trade off against fragility.
+-   AI/LLM hands-on: originated an open-source LLM evaluation framework
+    built on AISI Inspect, ships MCP servers, and built a sub-100ms
+    real-time evaluation classifier.
+-   Platform builder: turns recurring one-off requests into shared
+    primitives and self-serve tooling other engineers build on.
+-   Full-stack foundation: Python, TypeScript, Node.js, and cloud-native
+    infrastructure, applied to developer productivity rather than
+    product features alone.
 
 Industry Experience
 
