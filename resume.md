@@ -10,12 +10,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Engineering manager** with a strong record in software development and **6+ years building and leading teams** across multiple product domains
-- Recruited, coached, and grew high-performing teams from scratch, elevating junior engineers to senior technical and engineering management positions
-- Drove organization-wide DevOps culture transformation, influencing decisions at all levels and promoting best practices across engineering
-- Strong cross-functional collaborator, partnering with product, design, and stakeholders to align roadmaps and deliver business impact
-- Hands-on technical leader who stays deep in architecture, code review, and implementation alongside management responsibilities
-- Entrepreneurial mindset with multiple co-founding experiences and a focus on shipping high-quality software
+Engineering manager with **6+ years building and leading teams**, and hands-on with the technology those teams ship.
+
+- **Team building**: recruited, coached, and grew teams from scratch, including **growing multiple junior engineers into senior SWE and Engineering Manager roles**.
+- **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work.
+- **Drove org-wide DevOps culture change**: rebuilt a team from two engineers after mass departures and influenced practice across engineering.
+- **Cross-functional partner**: aligned roadmaps with product, design, and stakeholders to deliver measurable business impact.
+- **Founder background**: multiple co-founding ventures, and a bias toward ownership and shipping over process for its own sake.
 
 ## Industry Experience
 
