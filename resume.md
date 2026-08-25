@@ -32,9 +32,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
-- Built AI chatbot integrating multiple LLMs with complex prompting and context augmentation.
-- Front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
-- Back-end development: Stripe integration, SSO authentication, Rails MVC.
+- Owned front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
+- Led design and UX delivery, working with freelance designers and translating their designs into the Rails framework.
+- Collaborated on back-end development: Stripe integration, SSO authentication, Rails MVC.
 - Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
 
 ### Infrastructure Engineer
