@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Hands-on engineering leader** with **15+ years** building and shipping software, and **6+ years leading teams** across multiple product domains
+- **Hands-on engineering leader** with a strong record building and shipping software, and **6+ years leading teams** across multiple product domains
 - Built teams from scratch, owned technical roadmaps, and stayed deep in the code: architecture, implementation, and code review
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions, and drove organization-wide DevOps culture transformation
 - **Full-stack generalist** across modern web, cloud-native infrastructure, and AI/LLM integration
