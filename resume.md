@@ -11,7 +11,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ## Summary
 
 - **Principal-level engineer** specializing in AI-powered developer tooling, platform modernization, and large-scale engineering productivity
-- **15+ years** building and shipping software, with **6+ years leading teams** across multiple product domains
+- **Strong record building and shipping software**, with **6+ years leading teams** across multiple product domains
 - Full-stack generalist with deep experience applying AI/LLMs, DevOps, and cloud-native systems to accelerate software delivery
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
 - Strong customer focus, **advocating for impactful changes** and ensuring product value
