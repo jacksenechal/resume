@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Engineering manager** with **15+ years** in software development and **6+ years building and leading teams** across multiple product domains
+- **Engineering manager** with a strong record in software development and **6+ years building and leading teams** across multiple product domains
 - Recruited, coached, and grew high-performing teams from scratch, elevating junior engineers to senior technical and engineering management positions
 - Drove organization-wide DevOps culture transformation, influencing decisions at all levels and promoting best practices across engineering
 - Strong cross-functional collaborator, partnering with product, design, and stakeholders to align roadmaps and deliver business impact
