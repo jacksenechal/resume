@@ -109,12 +109,13 @@ rather than trusting agents to remember to update it.</li>
 <li><strong>Enforce the SDLC in the harness rather than by
 instruction</strong>: every PR gated by an independent fresh-context
 reviewer agent and by branch protection (green CI, supply-chain
-scanning, deployment smoke check). <strong>The harness has begun
-improving itself</strong>, with the Architect and Team Lead agents
-(running on different frontier models) converging independently on
-process refinements and shipping them. The session lifecycle hook that
-blocks an agent from ending with dispatched work uncommitted was theirs,
-built after they observed the failure.</li>
+scanning, deployment smoke check). <strong>The harness improves itself
+by design</strong>: the Architect and Team Lead agents (running on
+different frontier models) are tasked with refining the process, and
+converge independently on refinements that they ship and then evaluate.
+The session lifecycle hook that blocks an agent from ending with
+dispatched work uncommitted was theirs, built after they observed the
+failure.</li>
 <li><strong>Own the product role by design</strong>: define and
 prioritize the work, verify against deployed previews before anything
 ships, and steer how tight the human-in-the-loop gates run.</li>
