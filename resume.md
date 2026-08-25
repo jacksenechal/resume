@@ -10,12 +10,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Hands-on engineering leader** with a strong record building and shipping software, and **6+ years leading teams** across multiple product domains
-- Built teams from scratch, owned technical roadmaps, and stayed deep in the code: architecture, implementation, and code review
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions, and drove organization-wide DevOps culture transformation
-- **Full-stack generalist** across modern web, cloud-native infrastructure, and AI/LLM integration
-- Strong product instinct honed through multiple co-founding experiences and cross-functional collaboration with product, design, and stakeholders
-- Pragmatic problem solver focused on **shipping high-quality software** and **measurable impact**
+Hands-on engineering lead with **6+ years leading teams** while staying deep in code, architecture, and review.
+
+- **Builds the delivery machinery, not just the roadmap**: agent-driven "software factories" with harness-enforced SDLC, carrying work from spec to shipped without trading away production quality.
+- **Turnaround track record**: rearchitected an unreliable integrations platform for **~100x error reduction** and led a **zero-downtime** Heroku to Kubernetes/RDS migration.
+- **Rebuilt a DevOps team** from two engineers after mass departures, then owned its roadmap.
+- **Full-stack generalist**: modern web, cloud-native infrastructure, and applied AI/LLM integration across every role.
+- **Grew multiple junior engineers into senior SWE and Engineering Manager roles**, while staying accountable for architecture and code quality.
 
 ## Industry Experience
 
