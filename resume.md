@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Full-stack product engineer, 20+ years shipping production software**, most of it at startups and as a founder. No big-company detour.
+- **Full-stack product engineer with a strong record of shipping production software and infrastructure**, most of it at startups and as a founder. No big-company detour.
 - **Platform architect** specializing in internal tools and platforms that other people build on: shared infrastructure, integration middleware, and developer-facing primitives with real internal customers.
 - **Team of one, with leadership chops.** Hands-on engineering and leadership across founding roles and mid-to-late-stage startups. Comfortable taking products from idea to shipped and running across backend, frontend, and infrastructure, with the product and business judgment to know what is worth building.
 - **Working directly with users.** Ran internal platform teams as a service organization, consulting with engineers and stakeholders, triaging requests, and turning recurring one-offs into general capabilities.
