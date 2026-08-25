@@ -107,10 +107,10 @@ Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 -   BI Data Pipeline (3 months): Led a transition team to take ownership
     of and improve the analytics data pipeline. Migrated the pipeline to
     Kubernetes.
--   Cross-Functional Impact: Mentored engineers across teams — notably
-    coached a junior engineer who grew to Engineering Manager. Led
-    interviewing and hiring. Drove organizational change management and
-    process optimization. Top Performer Award, 2021.
+-   Cross-Functional Impact: Grew multiple junior engineers into senior
+    SWE and Engineering Manager roles, and mentored engineers across
+    teams. Led interviewing and hiring. Drove organizational change
+    management and process optimization. Top Performer Award, 2021.
 
 Lead Developer, Co-founder
 
