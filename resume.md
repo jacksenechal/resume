@@ -11,14 +11,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- Proven leader in software development, infrastructure, and **team management**, with a strong record of hands-on delivery
-- Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
-- Strategic thinker, mercurial innovator, and expert problem solver
-- Resilient and dedicated, ready to embrace challenges and opportunities
-- Strong customer focus, **advocating for impactful changes** and ensuring product value
-- Entrepreneurial spirit with multiple co-founding experiences
-- **Full-stack generalist** specializing in DevOps, AI/LLM integration, and modern web
-- Seeking a hands-on engineering leadership role at a high-growth company
+Full-stack engineering leader and founder with a strong record shipping production software and infrastructure, mostly at startups. No big-company detour.
+
+- **AI-native delivery**: runs agent-driven "software factories" that carry engineering work from spec to shipped, with harness-enforced SDLC discipline so agents move fast without breaking things.
+- **Platform builder**: designs internal tools and shared primitives other teams build on, from integration middleware to self-serve tooling.
+- **Turnaround leader**: rearchitected an unreliable integrations platform for **~100x error reduction** and led a **zero-downtime** Heroku to Kubernetes/RDS migration.
+- **Founder, repeatedly**: multiple co-founding ventures spanning product, infrastructure, and launch.
+- **Owns outcomes**: a rescuer of burning platforms, at home with incomplete information, able to bring stakeholders and engineers to clarity.
 
 ## Industry Experience
 
