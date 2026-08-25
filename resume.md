@@ -11,7 +11,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ## Summary
 
 - **Hands-on engineering leader** with **15+ years** building and shipping software, and **6+ years leading teams** across multiple product domains
-- Built teams from scratch, owned technical roadmaps, and stayed deep in the code — architecture, implementation, and code review
+- Built teams from scratch, owned technical roadmaps, and stayed deep in the code: architecture, implementation, and code review
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions, and drove organization-wide DevOps culture transformation
 - **Full-stack generalist** across modern web, cloud-native infrastructure, and AI/LLM integration
 - Strong product instinct honed through multiple co-founding experiences and cross-functional collaboration with product, design, and stakeholders
@@ -70,7 +70,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 - **Consultant & Entrepreneur** (2008 - 2014): Founded OpenTest Pro (automated testing education). Built e-commerce ordering system for Turnbull & Asser shirtmakers. Full-stack consulting in Ruby on Rails, Node.js, D3 data visualization. Rapid prototyping and client delivery.
 - **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and CI. Built comprehensive API test suite. Integrated platform with Salesforce APIs.
-- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com — architected initial release, then built and scaled the development team.
+- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com. Architected the initial release, then built and scaled the development team.
 
 ## Open Source Projects
 
