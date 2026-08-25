@@ -10,12 +10,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Senior infrastructure and reliability engineer** with a strong record building software and **6+ years leading teams** across multiple platform domains
-- Specializing in DevOps, cloud-native platforms, Kubernetes, and large-scale distributed systems
-- Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
-- Led organizational DevOps culture transformations, driving adoption of modern SRE and cloud-native practices
-- Full-stack generalist with deep experience in AI/LLM integration, modern web, and Infrastructure as Code
-- Pragmatic problem solver focused on **reliability, scalability**, and **measurable operational improvement**
+Infrastructure and platform engineer specializing in cloud-native systems, Kubernetes, and reliability at scale.
+
+- **Migration and turnaround record**: led a **zero-downtime** Heroku to Kubernetes/RDS migration, and rearchitected an unreliable integrations platform for **~100x error reduction**.
+- **Rebuilt a DevOps team** from two engineers after mass departures and drove org-wide adoption of modern SRE practice.
+- **Platform builder**: Terraform, Kubernetes, and cloud-native infrastructure delivered as shared primitives other teams build on.
+- **Agent-driven delivery, same discipline**: designs and operates "software factories," agent pipelines gated by CI, supply-chain scanning, and deployment smoke checks so changes ship safely at speed.
+- **Full-stack foundation**: Python, TypeScript, and modern web alongside the infrastructure work.
 
 ## Industry Experience
 
