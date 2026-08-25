@@ -11,7 +11,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- Proven leader in software development, infrastructure, and **team management** with **15+ years** of hands-on experience
+- Proven leader in software development, infrastructure, and **team management**, with a strong record of hands-on delivery
 - Committed **mentor and coach**, elevating team members' skill sets and fostering professional growth
 - Strategic thinker, mercurial innovator, and expert problem solver
 - Resilient and dedicated, ready to embrace challenges and opportunities
