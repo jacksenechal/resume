@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Senior infrastructure and reliability engineer** with **15+ years** building software and **6+ years leading teams** across multiple platform domains
+- **Senior infrastructure and reliability engineer** with a strong record building software and **6+ years leading teams** across multiple platform domains
 - Specializing in DevOps, cloud-native platforms, Kubernetes, and large-scale distributed systems
 - Committed **mentor and coach** who elevated junior engineers to senior technical and engineering management positions
 - Led organizational DevOps culture transformations, driving adoption of modern SRE and cloud-native practices
