@@ -22,11 +22,45 @@ Summary
 -   Owns outcomes, not tickets. Roadmap ownership, product and
     prioritization calls, and accountability for whether the thing
     actually solved the problem.
--   Fluent in AI-assisted development: builds with LLMs (evaluation
-    frameworks, MCP servers, chat products) and works daily inside
-    agentic coding systems.
+-   Builds the machine that builds the software. Designs and operates
+    agent-driven delivery pipelines that ship production code end to
+    end, and builds with LLMs directly (evaluation frameworks, MCP
+    servers, chat products).
 
 Industry Experience
+
+Independent Consultant — AI-Native Software Delivery
+
+Client engagements | May 2026 - Present | Remote
+
+-   Build and operate “software factories”: agent-driven delivery
+    pipelines that take engineering work from spec to shipped, with the
+    human in the product seat. Two persistent orchestrating agent
+    sessions delegate implementation to cheaper-model subagents, each
+    isolated in its own git worktree and database.
+-   Delivered a production web app this way (Next.js, Payload CMS,
+    Postgres, Vercel): ~261 merged PRs across 190 issues in 13 weeks,
+    with roughly three-quarters of commits agent-produced behind
+    automated and human review gates.
+-   Built the coordination substrate on GitHub itself (issues, PRs, and
+    Projects as the single ledger), including scheduled automation that
+    derives board state from PR, CI, and label reality instead of
+    relying on agents to remember to update it, after observing that
+    instruction-based state tracking reliably drifts.
+-   Engineered a lifecycle hook that structurally prevents lost work,
+    refusing to let an agent session end while any dispatched worktree
+    holds uncommitted or unpushed changes. Diagnosed why the first
+    version missed the real failure population and rebuilt it with a
+    staleness heuristic separating abandoned lanes from in-flight ones.
+-   Designed the concurrency model: one worktree per task, stacked PR
+    trains for multi-PR features, a correct procedure for GitHub’s
+    squash-merge diff-base staleness, and database migration governance
+    (mandatory committed migrations, a CI gate catching silent no-op
+    migrations, and a recovery procedure for concurrent-migration
+    snapshot drift) built in response to real incidents.
+-   Hold the product role by design: define and prioritize the work, QA
+    against deployed previews, and own the one human sign-off gate
+    before anything ships to users.
 
 Co-founder & Fractional CTO
 
@@ -37,11 +71,11 @@ Building Humane Technology | June 2025 - Present | Remote (part-time)
 -   Act as fractional CTO to the team that built it out to a published,
     externally usable product, shaping architecture, scoring design, and
     multi-provider support, and guiding documentation and positioning.
--   Extending the framework toward real-time evaluation: engineered a
-    low-latency proof-of-concept classifier model that scores model
-    behavior against HumaneBench rubrics inline at sub-100ms, fast
-    enough to sit in a production request path rather than run only in
-    batch.
+-   Extending the framework toward real-time evaluation: specified and
+    designed a low-latency proof-of-concept classifier, built in
+    collaboration with coding agents, that scores model behavior against
+    HumaneBench rubrics inline at sub-100ms and can sit in a production
+    request path rather than run only in batch.
 -   Translated qualitative behavioral rubrics into structured, trainable
     signal definitions, and designed the operational visibility metrics
     and automated feedback path carrying evaluation output back into

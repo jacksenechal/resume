@@ -81,11 +81,49 @@ general capabilities.</li>
 <li><strong>Owns outcomes, not tickets.</strong> Roadmap ownership,
 product and prioritization calls, and accountability for whether the
 thing actually solved the problem.</li>
-<li><strong>Fluent in AI-assisted development</strong>: builds with LLMs
-(evaluation frameworks, MCP servers, chat products) and works daily
-inside agentic coding systems.</li>
+<li><strong>Builds the machine that builds the software.</strong>
+Designs and operates agent-driven delivery pipelines that ship
+production code end to end, and builds with LLMs directly (evaluation
+frameworks, MCP servers, chat products).</li>
 </ul>
 <h2 id="industry-experience">Industry Experience</h2>
+<h3 id="independent-consultant-ai-native-software-delivery">Independent
+Consultant — AI-Native Software Delivery</h3>
+<h4 id="client-engagements-may-2026---present-remote">Client engagements
+| May 2026 - Present | Remote</h4>
+<ul>
+<li><strong>Build and operate “software factories”</strong>:
+agent-driven delivery pipelines that take engineering work from spec to
+shipped, with the human in the product seat. Two persistent
+orchestrating agent sessions delegate implementation to cheaper-model
+subagents, each isolated in its own <strong>git worktree and
+database</strong>.</li>
+<li><strong>Delivered a production web app this way</strong> (Next.js,
+Payload CMS, Postgres, Vercel): <strong>~261 merged PRs across 190
+issues in 13 weeks</strong>, with roughly three-quarters of commits
+agent-produced behind automated and human review gates.</li>
+<li><strong>Built the coordination substrate on GitHub itself</strong>
+(issues, PRs, and Projects as the single ledger), including scheduled
+automation that <strong>derives board state from PR, CI, and label
+reality</strong> instead of relying on agents to remember to update it,
+after observing that instruction-based state tracking reliably
+drifts.</li>
+<li><strong>Engineered a lifecycle hook that structurally prevents lost
+work</strong>, refusing to let an agent session end while any dispatched
+worktree holds uncommitted or unpushed changes. Diagnosed why the first
+version missed the real failure population and rebuilt it with a
+staleness heuristic separating abandoned lanes from in-flight ones.</li>
+<li><strong>Designed the concurrency model</strong>: one worktree per
+task, stacked PR trains for multi-PR features, a correct procedure for
+GitHub’s squash-merge diff-base staleness, and <strong>database
+migration governance</strong> (mandatory committed migrations, a CI gate
+catching silent no-op migrations, and a recovery procedure for
+concurrent-migration snapshot drift) built in response to real
+incidents.</li>
+<li>Hold the <strong>product role by design</strong>: define and
+prioritize the work, QA against deployed previews, and own the one human
+sign-off gate before anything ships to users.</li>
+</ul>
 <h3 id="co-founder-fractional-cto">Co-founder &amp; Fractional CTO</h3>
 <h4
 id="building-humane-technology-june-2025---present-remote-part-time">Building
@@ -100,10 +138,11 @@ to a published, externally usable product, shaping architecture, scoring
 design, and multi-provider support, and guiding documentation and
 positioning.</li>
 <li>Extending the framework toward <strong>real-time
-evaluation</strong>: engineered a <strong>low-latency proof-of-concept
-classifier model</strong> that scores model behavior against HumaneBench
-rubrics inline at <strong>sub-100ms</strong>, fast enough to sit in a
-production request path rather than run only in batch.</li>
+evaluation</strong>: specified and designed a <strong>low-latency
+proof-of-concept classifier</strong>, built in collaboration with coding
+agents, that scores model behavior against HumaneBench rubrics inline at
+<strong>sub-100ms</strong> and can sit in a production request path
+rather than run only in batch.</li>
 <li>Translated qualitative behavioral rubrics into <strong>structured,
 trainable signal definitions</strong>, and designed the
 <strong>operational visibility metrics</strong> and automated feedback
