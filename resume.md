@@ -12,8 +12,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 - **Full-stack product engineer, 20+ years shipping production software**, most of it at startups and as a founder. No big-company detour.
 - **Builds the platform behind the feature request.** Specializes in internal tools and platforms that other people build on: shared infrastructure, integration middleware, and developer-facing primitives with real internal customers.
-- **Operates as a team of one when the job calls for it.** Four founding ventures, each taken from idea to a shipped, running product across backend, frontend, and infrastructure.
-- **Works directly with users.** Ran internal platform teams as a service organization: consulting with engineers and stakeholders, triaging requests, and turning recurring one-offs into general capabilities.
+- **Operates as a team of one when the job calls for it.** Four founding ventures, taking products from idea to shipped and running across backend, frontend, and infrastructure.
+- **Works directly with users.** Ran internal platform teams as a service organization, consulting with engineers and stakeholders, triaging requests, and turning recurring one-offs into general capabilities.
 - **Owns outcomes, not tickets.** Roadmap ownership, product and prioritization calls, and accountability for whether the thing actually solved the problem.
 - **Fluent in AI-assisted development**: builds with LLMs (evaluation frameworks, MCP servers, chat products) and works daily inside agentic coding systems.
 
@@ -24,23 +24,24 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 - Co-architected and lead development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
 - Took the benchmark from concept to a published, externally usable product: scenario datasets, multi-provider LLM support, extensible scoring, and the documentation and positioning around it.
-- Own product direction as well as code, including a client contract implementation sprint currently in flight, plus roadmap work on production monitoring, multi-turn evaluation, and adoption maturity models.
+- Extending the framework toward **real-time evaluation**: built a **proof-of-concept classifier model** that scores model behavior against HumaneBench rubrics inline, rather than only in batch.
+- Defined **operational visibility metrics** and the feedback path from evaluation results back into **system-prompt iteration and fine-tuning**.
+- Own product direction as well as code, including roadmap work on production monitoring, multi-turn evaluation, and adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
-- Built and shipped a **production consumer app end to end**, solo on the engineering side for much of its life: backend, frontend, payments, auth, and deployment.
-- Built the LLM chat experience: multi-provider integration, prompt design, and context augmentation for long-running conversations.
-- **Front-end**: Rails views, JavaScript, HTML/CSS, Tailwind, responsive UI/UX built against Figma designs.
-- **Back-end**: Rails MVC, Stripe subscription billing, SSO authentication.
-- Made the product and prioritization calls with co-founders: roadmap, scope, what to cut, what to ship next.
+- **Owned the front end** of a production consumer subscription app: Rails views, JavaScript, HTML/CSS, Tailwind, and responsive UI/UX.
+- **Led design and UX delivery**: worked directly with freelance designers, then translated their Figma designs into the Rails framework.
+- Collaborated on the back end: Rails MVC, Stripe subscription billing, SSO authentication.
+- Made product and prioritization calls with co-founders: roadmap, scope, what to cut, what to ship next.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
 - Architected and implemented a cloud platform serving customer workloads at an early-stage startup. **Python**, Pulumi, GCP, GKE, Cloud Run, Helm.
 - Built CI/CD primitives the rest of engineering used: mono-repo conditional workflows, workload identity federation, continuous delivery.
-- Built an internal Slack-based support and incident-response tool, then onboarded teammates and customers onto it.
+- **Owned the build-vs-buy decision** for customer support and incident response. Selected incident.io for incident management; after a thorough review of support tooling turned up nothing that handled Slack-based support cleanly, **built the Slack support agent from the ground up in Python**, then onboarded teammates and customers onto it.
 
 ### Principal Software Engineer / Engineering Manager
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA

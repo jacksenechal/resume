@@ -72,10 +72,10 @@ Specializes in internal tools and platforms that other people build on:
 shared infrastructure, integration middleware, and developer-facing
 primitives with real internal customers.</li>
 <li><strong>Operates as a team of one when the job calls for
-it.</strong> Four founding ventures, each taken from idea to a shipped,
-running product across backend, frontend, and infrastructure.</li>
+it.</strong> Four founding ventures, taking products from idea to
+shipped and running across backend, frontend, and infrastructure.</li>
 <li><strong>Works directly with users.</strong> Ran internal platform
-teams as a service organization: consulting with engineers and
+teams as a service organization, consulting with engineers and
 stakeholders, triaging requests, and turning recurring one-offs into
 general capabilities.</li>
 <li><strong>Owns outcomes, not tickets.</strong> Roadmap ownership,
@@ -98,8 +98,14 @@ open-source AI evaluation framework built on AISI Inspect.
 <li>Took the benchmark from concept to a published, externally usable
 product: scenario datasets, multi-provider LLM support, extensible
 scoring, and the documentation and positioning around it.</li>
-<li>Own product direction as well as code, including a client contract
-implementation sprint currently in flight, plus roadmap work on
+<li>Extending the framework toward <strong>real-time
+evaluation</strong>: built a <strong>proof-of-concept classifier
+model</strong> that scores model behavior against HumaneBench rubrics
+inline, rather than only in batch.</li>
+<li>Defined <strong>operational visibility metrics</strong> and the
+feedback path from evaluation results back into <strong>system-prompt
+iteration and fine-tuning</strong>.</li>
+<li>Own product direction as well as code, including roadmap work on
 production monitoring, multi-turn evaluation, and adoption maturity
 models.</li>
 </ul>
@@ -110,16 +116,15 @@ id="alchemy-astrology-formerly-mirror-astrology-nov-2024---jul-2026-remote">Alch
 Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 |
 Remote</h4>
 <ul>
-<li>Built and shipped a <strong>production consumer app end to
-end</strong>, solo on the engineering side for much of its life:
-backend, frontend, payments, auth, and deployment.</li>
-<li>Built the LLM chat experience: multi-provider integration, prompt
-design, and context augmentation for long-running conversations.</li>
-<li><strong>Front-end</strong>: Rails views, JavaScript, HTML/CSS,
-Tailwind, responsive UI/UX built against Figma designs.</li>
-<li><strong>Back-end</strong>: Rails MVC, Stripe subscription billing,
-SSO authentication.</li>
-<li>Made the product and prioritization calls with co-founders: roadmap,
+<li><strong>Owned the front end</strong> of a production consumer
+subscription app: Rails views, JavaScript, HTML/CSS, Tailwind, and
+responsive UI/UX.</li>
+<li><strong>Led design and UX delivery</strong>: worked directly with
+freelance designers, then translated their Figma designs into the Rails
+framework.</li>
+<li>Collaborated on the back end: Rails MVC, Stripe subscription
+billing, SSO authentication.</li>
+<li>Made product and prioritization calls with co-founders: roadmap,
 scope, what to cut, what to ship next.</li>
 </ul>
 <h3 id="infrastructure-engineer">Infrastructure Engineer</h3>
@@ -132,8 +137,12 @@ GCP, GKE, Cloud Run, Helm.</li>
 <li>Built CI/CD primitives the rest of engineering used: mono-repo
 conditional workflows, workload identity federation, continuous
 delivery.</li>
-<li>Built an internal Slack-based support and incident-response tool,
-then onboarded teammates and customers onto it.</li>
+<li><strong>Owned the build-vs-buy decision</strong> for customer
+support and incident response. Selected incident.io for incident
+management; after a thorough review of support tooling turned up nothing
+that handled Slack-based support cleanly, <strong>built the Slack
+support agent from the ground up in Python</strong>, then onboarded
+teammates and customers onto it.</li>
 </ul>
 <h3 id="principal-software-engineer-engineering-manager">Principal
 Software Engineer / Engineering Manager</h3>
