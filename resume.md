@@ -13,8 +13,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - **Full-stack product engineer with a strong record of shipping production software and infrastructure**, most of it at startups and as a founder. No big-company detour.
 - **Platform architect** specializing in internal tools and platforms that other people build on: shared infrastructure, integration middleware, and developer-facing primitives with real internal customers.
 - **Team of one, with leadership chops.** Hands-on engineering and leadership across founding roles and mid-to-late-stage startups. Comfortable taking products from idea to shipped and running across backend, frontend, and infrastructure, with the product and business judgment to know what is worth building.
-- **Working directly with users.** Ran internal platform teams as a service organization, consulting with engineers and stakeholders, triaging requests, and turning recurring one-offs into general capabilities.
-- **Owning outcomes, not tickets.** Roadmap ownership, product and prioritization calls, and accountability for whether the thing actually solved the problem.
+- **Working directly with users.** Ran internal platform teams as a service organization, consulting with engineers and stakeholders, triaging requests, and turning recurring one-offs into self-serve capabilities. Every role here has shipped user-facing experience, for technical and non-technical audiences alike.
+- **Owning outcomes, not tickets.** Roadmap ownership, product and prioritization calls, and accountability for whether the thing actually solved the problem. A rescuer of burning platforms: at home with incomplete information, and able to take a room of stakeholders and engineers to clarity.
 - **Building the machine that builds the software.** Designing and operating agent-driven delivery pipelines that ship production code end to end, and building with LLMs directly (evaluation frameworks, MCP servers, chat products).
 
 ## Industry Experience
@@ -22,12 +22,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat.
+- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat. The point is **speed without fragility**: production-quality output over long-horizon iteration, which is where agentic development still routinely falls down.
 - **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **GitHub as the coordination substrate**: issues, PRs, and Projects are the single ledger.
-- **Harness-enforced SDLC**: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
+- **Harness-enforced SDLC** so agents can move fast without breaking things: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
 - **Self-improving harness**: Orchestration agents tasked with running, observing, and refining the process. Agents collaboratively converge on refinements, ship and evaluate.
-- **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
+- **Stack chosen for agent legibility**: React, TypeScript, and Next.js, whose rich tooling and precise feedback loops make them markedly more tractable for agents than a Ruby on Rails stack.
+- **Human in the product role**: defining and prioritizing work, verifying against deployed previews on behalf of a non-technical user base, steering product and process. Matching approach to the work: a prototype collapses to a fraction of the time driving an agent directly, while the factory earns its keep on production systems.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
@@ -60,12 +61,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - **Internal Infrastructure Platform** (4 years): Built a new team from scratch whose product was the platform the entire engineering organization built on. Ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and **reduced recurring one-off asks into shared primitives and self-serve tooling** so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review. Migrated a large legacy Rails monolith and its service ecosystem to cloud-native infrastructure (Terraform, Ansible, Kubernetes).
 - **Rebuilt the team after mass departures**: inherited a two-person DevOps team with one member two weeks from leaving, and rebuilt hiring, onboarding, documentation, and on-call practice from near zero into a stable team with strong developer relations.
 - **BI Data Pipeline** (3 months): Led a transition team that took ownership of the analytics pipeline and migrated it to Kubernetes.
+- Shipped **React** features in the customer-facing product and worked in its **Redux** state management, alongside the platform and infrastructure work.
 - **Grew multiple junior engineers into senior SWE and Engineering Manager roles**; led interviewing and hiring. **Top Performer Award, 2021.**
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
 
-- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android. Node.js backend, JavaScript frontend, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
+- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android. Node.js backend, JavaScript frontend with **Redux** state management, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
 - Established the engineering workflow from nothing: pair programming, automated testing, continuous integration, rapid deployment.
 - Co-led product strategy, monetization, and launch planning.
 
@@ -85,7 +87,7 @@ MCP (Model Context Protocol) server that gives AI agents control of document sca
 
 ### HumaneBench (2024 - Present)
 
-Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Multi-provider LLM support with extensible scenario datasets. **Python.**
+Open-source LLM evaluation framework built on AISI Inspect. See Building Humane Technology above. **Python.**
 
 [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
@@ -108,12 +110,12 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 
 ## Recommendations
 
-"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means **the solutions he architects, builds, and collaborates on come out better**. Jack also strives to be at the forefront of new technology and assess how he can leverage it. He does all this with a **strong team mentality**, is a phenomenal team player, and can **effectively delegate to help lift others' skill sets**."
+"With Jack, **the more complex the problem, the more simple his solutions**. From eradicating dynamic php bugs to providing innovative javascript capabilities, Master Senechal is more than a mind to be reckoned with, he's an **integrative capacity builder** with a wide range of technological expertise. **If there is anything that can be done through web development, Jack can figure out how to do it, and make it happen.**"
 
-*— Brandon Clifford, Director of DevOps, Kantata*
+*— Adam Apollo, Cofounder & CEO, Superluminal Systems*
 
-"Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**. Everyone would be lucky to have someone like him in their teams!"
+"Jack has a flair for **finding better, faster, and more reliable ways to get things done**. He advocates best practices, like unit testing, and has a deep knowledge of OO architecture. **Jack thinks on his toes**, and will always be there with the team at 4 a.m. if circumstance requires it."
 
-*— Cesar Palafox Garza, Principal Software Engineer, Kantata*
+*— Greg Whitescarver, Founder, Mojave*
 
 [See additional recommendations on LinkedIn](https://linkedin.com/in/jacksenechal)
