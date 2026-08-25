@@ -88,41 +88,34 @@ frameworks, MCP servers, chat products).</li>
 </ul>
 <h2 id="industry-experience">Industry Experience</h2>
 <h3 id="independent-consultant-ai-native-software-delivery">Independent
-Consultant — AI-Native Software Delivery</h3>
+Consultant · AI-Native Software Delivery</h3>
 <h4 id="client-engagements-may-2026---present-remote">Client engagements
 | May 2026 - Present | Remote</h4>
 <ul>
-<li><strong>Build and operate “software factories”</strong>:
-agent-driven delivery pipelines that take engineering work from spec to
-shipped, with the human in the product seat. Two persistent
-orchestrating agent sessions delegate implementation to cheaper-model
-subagents, each isolated in its own <strong>git worktree and
-database</strong>.</li>
-<li><strong>Delivered a production web app this way</strong> (Next.js,
-Payload CMS, Postgres, Vercel): <strong>~261 merged PRs across 190
-issues in 13 weeks</strong>, with roughly three-quarters of commits
-agent-produced behind automated and human review gates.</li>
-<li><strong>Built the coordination substrate on GitHub itself</strong>
-(issues, PRs, and Projects as the single ledger), including scheduled
-automation that <strong>derives board state from PR, CI, and label
-reality</strong> instead of relying on agents to remember to update it,
-after observing that instruction-based state tracking reliably
-drifts.</li>
-<li><strong>Engineered a lifecycle hook that structurally prevents lost
-work</strong>, refusing to let an agent session end while any dispatched
-worktree holds uncommitted or unpushed changes. Diagnosed why the first
-version missed the real failure population and rebuilt it with a
-staleness heuristic separating abandoned lanes from in-flight ones.</li>
-<li><strong>Designed the concurrency model</strong>: one worktree per
-task, stacked PR trains for multi-PR features, a correct procedure for
-GitHub’s squash-merge diff-base staleness, and <strong>database
-migration governance</strong> (mandatory committed migrations, a CI gate
-catching silent no-op migrations, and a recovery procedure for
-concurrent-migration snapshot drift) built in response to real
-incidents.</li>
-<li>Hold the <strong>product role by design</strong>: define and
-prioritize the work, QA against deployed previews, and own the one human
-sign-off gate before anything ships to users.</li>
+<li><strong>Run “software factories”: agent-driven delivery pipelines
+that carry engineering work from spec to shipped</strong>, with the
+human in the product seat. Persistent orchestrating agent sessions
+delegate implementation to cheaper-model subagents, each isolated in its
+own git worktree with its own database, so parallel work cannot
+collide.</li>
+<li><strong>Core thesis, proven in production</strong>: the same DevOps
+and project-management discipline that makes human teams work is also
+the necessary and sufficient foundation for agent teams, encoded into
+the harness and context instead of taught to people.</li>
+<li><strong>Built the coordination substrate on GitHub itself</strong>:
+issues, PRs, and Projects as the single ledger, kept honest by scheduled
+automation that derives board state from PR, CI, and label reality
+rather than trusting agents to remember to update it.</li>
+<li><strong>Enforce the SDLC in the harness rather than by
+instruction</strong>: every PR gated by an independent fresh-context
+reviewer agent and by branch protection (green CI, supply-chain
+scanning, deployment smoke check), plus a session lifecycle hook that
+refuses to let an agent session end while dispatched work sits
+uncommitted. Each of these was built in response to an observed
+production failure.</li>
+<li><strong>Own the product role by design</strong>: define and
+prioritize the work, then verify against deployed previews before
+anything ships to users.</li>
 </ul>
 <h3 id="co-founder-fractional-cto">Co-founder &amp; Fractional CTO</h3>
 <h4
