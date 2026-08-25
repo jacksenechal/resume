@@ -22,11 +22,11 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-- Co-architected and lead development of **[HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
-- Took the benchmark from concept to a published, externally usable product: scenario datasets, multi-provider LLM support, extensible scoring, and the documentation and positioning around it.
+- **Originated the concept for [HumaneBench.ai](https://humanebench.ai)** and co-architected it: an open-source AI evaluation framework built on AISI Inspect. **Python.**
+- Act as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
 - Extending the framework toward **real-time evaluation**: engineered a **low-latency proof-of-concept classifier model** that scores model behavior against HumaneBench rubrics inline at **sub-100ms**, fast enough to sit in a production request path rather than run only in batch.
 - Translated qualitative behavioral rubrics into **structured, trainable signal definitions**, and designed the **operational visibility metrics** and automated feedback path carrying evaluation output back into **system-prompt iteration and model fine-tuning**.
-- Own product direction as well as code, including roadmap work on production monitoring, multi-turn evaluation, and adoption maturity models.
+- Own **product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
