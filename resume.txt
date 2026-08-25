@@ -135,7 +135,7 @@ Earlier Career (2001 - 2014)
     testing and CI. Built comprehensive API test suite. Integrated
     platform with Salesforce APIs.
 -   Development Lead, JBA Network (2003 - 2006): Lead programmer and
-    project manager for mynewsletterbuilder.com — architected initial
+    project manager for mynewsletterbuilder.com. Architected the initial
     release, then built and scaled the development team.
 
 Open Source Projects
