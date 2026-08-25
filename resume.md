@@ -24,8 +24,7 @@ Full-stack product engineer with a strong record of shipping production software
 - **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
 - **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
 - Chose **React, TypeScript, and Next.js** stack: their tooling and feedback loops are very tractable for agents to work in.
-- **Product ownership**: defining and prioritizing the work, and verifying against deployed previews on behalf of a non-technical user base.
-- **Matching approach to the work**: a prototype is far faster driving an agent directly; the factory earns its keep on production systems, where the industry is converging.
+- **Product ownership**: rapid prototyping, requirements gathering, defining and prioritizing the work, and verifying output against deployed previews on behalf of a non-technical user base.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
