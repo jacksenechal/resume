@@ -19,14 +19,14 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Industry Experience
 
-### Independent Consultant — AI-Native Software Delivery
+### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- **Build and operate "software factories"**: agent-driven delivery pipelines that take engineering work from spec to shipped, with the human in the product seat. Persistent orchestrating agent sessions delegate implementation to cheaper-model subagents, each isolated in its own git worktree and database.
-- **Delivered a production web app this way** (Next.js, Payload CMS, Postgres, Vercel): ~261 merged PRs across 190 issues in 13 weeks, with roughly three-quarters of commits agent-produced behind automated and human review gates.
-- **Built the coordination substrate on GitHub itself** (issues, PRs, Projects as the single ledger), with scheduled automation deriving board state from PR, CI, and label reality rather than relying on agents to update it.
-- **Engineered the reliability layer**: a lifecycle hook that refuses to end an agent session while any dispatched worktree holds uncommitted work, a worktree-per-task concurrency model with stacked PR trains, and database migration governance with CI gates, all built in response to real incidents.
-- Hold the **product role by design**: define and prioritize the work, QA against deployed previews, own the human sign-off gate.
+- **Run "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat. Persistent orchestrating agent sessions delegate implementation to cheaper-model subagents, each isolated in its own git worktree with its own database, so parallel work cannot collide.
+- **Core thesis, proven in production**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context instead of taught to people.
+- **Built the coordination substrate on GitHub itself**: issues, PRs, and Projects as the single ledger, kept honest by scheduled automation that derives board state from PR, CI, and label reality rather than trusting agents to remember to update it.
+- **Enforce the SDLC in the harness rather than by instruction**: every PR gated by an independent fresh-context reviewer agent and by branch protection (green CI, supply-chain scanning, deployment smoke check), plus a session lifecycle hook that refuses to let an agent session end while dispatched work sits uncommitted. Each of these was built in response to an observed production failure.
+- **Own the product role by design**: define and prioritize the work, then verify against deployed previews before anything ships to users.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote
