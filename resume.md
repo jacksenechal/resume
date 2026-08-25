@@ -38,7 +38,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 - **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
 - Acting as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
 - Extending the framework toward **real-time evaluation**: built a **low-latency proof-of-concept classifier** that scores model behavior against HumaneBench rubrics inline at **sub-100ms** and can sit in a production request path rather than run only in batch.
-- Designing telemetry for operational visibility, and evaluation feedback loops to inform **system-prompt iteration** and model fine-tuning.
+- Designing **telemetry for operational visibility**, and evaluation feedback loops to inform system-prompt iteration and model fine-tuning.
 - Owning **technical product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
 
 ### Co-founder & Software Engineer
