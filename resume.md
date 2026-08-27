@@ -10,13 +10,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Engineering manager with **6+ years building and leading teams**, and hands-on with the technology those teams ship.
+Engineering manager with **6+ years leading teams that own production services**, and hands-on with the systems those teams run.
 
-- **Team building**: recruited, coached, and grew teams from scratch, including **growing multiple junior engineers into senior SWE and Engineering Manager roles**.
-- **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work.
-- **Drove org-wide DevOps culture change**: rebuilt a team from two engineers after mass departures and influenced practice across engineering.
-- **Cross-functional partner**: aligned roadmaps with product, design, and stakeholders to deliver measurable business impact.
-- **Founder background**: multiple co-founding ventures, and a bias toward ownership and shipping over process for its own sake.
+- **Production ownership**: led the teams responsible for a SaaS platform's infrastructure and its integration platform; **~100x reduction in error rates**, zero-downtime migrations of stateful services to Kubernetes, and an on-call culture that cut incidents while retaining the people on the rotation.
+- **Team building**: rebuilt a DevOps team from two engineers after mass departures, recruited and grew multiple pods, and **grew multiple junior engineers into senior SWE and Engineering Manager roles**. The on-call rotation, runbooks, and hiring loop outlived my tenure.
+- **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work. Daily power user of coding agents.
+- **Planning across horizons**: owned roadmap stewardship and requirements triage for a platform team while staying close enough to the code to evaluate design tradeoffs myself.
+- **Remote and async by habit**: writing-first, durable records over verbal handoff, distributed teams since 2014.
 
 ## Industry Experience
 
@@ -59,9 +59,10 @@ Engineering manager with **6+ years building and leading teams**, and hands-on w
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Created a clear, calm, and constructive environment that allowed the team to thrive. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Infrastructure Platform** (4 years): Took over a DevOps team reduced to two engineers by departures and rebuilt it from near-zero: hiring, onboarding, documentation, and on-call practice. Led the organization's DevOps culture transformation as change agent and technical authority across engineering. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with architecture and code review. Migrated the Rails monolith and its surrounding services to Kubernetes, and moved a segfaulting MySQL tier to RDS, eliminating that class of incident. Transitioned the platform to Infrastructure-as-Code (Terraform, Ansible, Kubernetes).
+- **On-call and reliability**: Ran a sustained reliability push across the DevOps org that dramatically reduced on-call incidents and error rates, with strong retention on the rotation and good developer relations across engineering. Top Performer Award, 2021.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **People**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -96,7 +97,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture, On-call Design, Incident Response, Observability.
 - **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
