@@ -12,11 +12,11 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 Engineering manager with **6+ years building and leading teams**, and hands-on with the technology those teams ship.
 
+- **Internal platforms for operational users**: led the teams behind an integrations platform, an infrastructure platform, and a BI pipeline that other teams depended on daily; ~100x error reduction on the integrations platform.
+- **Human-in-the-loop AI systems**: operates agent-driven "software factories" where every change passes independent review, CI gates, and a human verification pass; designed a sub-100ms classifier that scores LLM behavior inline in a request path.
 - **Team building**: recruited, coached, and grew teams from scratch, including **growing multiple junior engineers into senior SWE and Engineering Manager roles**.
-- **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work.
-- **Drove org-wide DevOps culture change**: rebuilt a team from two engineers after mass departures and influenced practice across engineering.
-- **Cross-functional partner**: aligned roadmaps with product, design, and stakeholders to deliver measurable business impact.
-- **Founder background**: multiple co-founding ventures, and a bias toward ownership and shipping over process for its own sake.
+- **Cross-functional partner**: aligned roadmaps with product, design, and non-technical stakeholders to deliver measurable business impact.
+- **AI safety commitment in practice**: co-founded Building Humane Technology and originated HumaneBench, an open-source benchmark for humane AI behavior.
 
 ## Industry Experience
 
@@ -97,7 +97,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
+- **AI/LLM**: LLM Evaluation, Human-in-the-Loop Automation, Agent Orchestration, MCP (Model Context Protocol), prompt engineering, tool use, context augmentation.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
