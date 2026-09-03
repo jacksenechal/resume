@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Manager
+## Engineering Leader · Platform, Quality & Delivery
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,13 +10,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Engineering manager with **6+ years building and leading teams**, and hands-on with the technology those teams ship.
+Engineering leader with **6+ years building and leading teams**, hands-on with the platforms those teams ship, and a record of turning fragile systems and depleted teams into reliable ones.
 
-- **Team building**: recruited, coached, and grew teams from scratch, including **growing multiple junior engineers into senior SWE and Engineering Manager roles**.
-- **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work.
-- **Drove org-wide DevOps culture change**: rebuilt a team from two engineers after mass departures and influenced practice across engineering.
-- **Cross-functional partner**: aligned roadmaps with product, design, and stakeholders to deliver measurable business impact.
-- **Founder background**: multiple co-founding ventures, and a bias toward ownership and shipping over process for its own sake.
+- **Team and org building**: recruited and rebuilt teams from scratch, led engineers and managers across the SDLC, and **grew multiple junior engineers into senior SWE and Engineering Manager roles**.
+- **Quality and reliability at scale**: established the metrics, monitoring, and testing discipline that **reduced platform errors and incidents ~100x**, and executed a **zero-downtime migration to Kubernetes** with its databases.
+- **Cloud, containerization, CI/CD**: transitioned a large legacy codebase to cloud-native Infrastructure-as-Code and **led an org-wide DevOps culture transformation** whose standards were adopted across product teams.
+- **SDLC maturation as machinery, not memos**: CI gates, independent review, and process metrics that hold up under load, most recently applied to agent-driven "software factories."
+- **Executive and cross-functional partner**: aligns engineering roadmaps with business strategy, keeps leadership informed, and consults across departments on technical solutions and ROI.
 
 ## Industry Experience
 
@@ -26,8 +26,8 @@ Engineering manager with **6+ years building and leading teams**, and hands-on w
 - **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat.
 - **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **GitHub as the coordination substrate**: issues, PRs, and Projects are the single ledger.
-- **Harness-enforced SDLC**: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
-- **Self-improving harness**: Orchestration agents tasked with running, observing, and refining the process. Agents collaboratively converge on refinements, ship and evaluate.
+- **Harness-enforced SDLC**: PRs gated by an independent fresh-context reviewer, green CI, supply-chain scanning, migration governance, and a deployment smoke check, with regular review of which process steps and artifacts still earn their place.
+- **Self-improving harness**: orchestration agents tasked with running, observing, and refining the process, converging on refinements and shipping them under human-in-the-loop gates.
 - **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
 
 ### Co-founder & Fractional CTO
@@ -58,10 +58,10 @@ Engineering manager with **6+ years building and leading teams**, and hands-on w
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Created a clear, calm, and constructive environment that allowed the team to thrive. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Infrastructure & Reliability Platform** (4 years): Recruited and built a new platform team from scratch after mass departures left two engineers, then **led the organization's DevOps culture transformation**, defining the reliability, on-call, CI/CD, and testing standards adopted across product teams. Owned the platform roadmap, requirements triage, and priority management while staying hands-on with architecture and code review. Transitioned a large legacy codebase to cloud-native Infrastructure-as-Code (Terraform, Ansible, Kubernetes).
+- **M-Bridge Integration Platform** (2 years): Led the team that stabilized and scaled Kantata's own integrations platform, connecting the SaaS to customer systems with multi-system data orchestration. **Established the operational metrics and monitoring that reduced errors and incidents by ~100x** and turned a chronic source of escalations into a dependable foundation. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+- **Organization-wide leadership**: Set engineering standards and drove change management across the eng org, partnering with leadership on hiring, performance reviews, and process. **Grew multiple junior engineers into senior SWE and Engineering Manager roles** and mentored engineers across teams. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
@@ -96,9 +96,10 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
+- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, Regression Suites, TDD, Infrastructure as Code, Cloud-Native Architecture, Cloud Migration.
+- **Platform & Reliability**: Platform Engineering, SRE, SLOs & Error Budgets, Incident Response, On-Call Practices, Observability & Monitoring, Quality Metrics.
 - **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
-- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
+- **Leadership**: Team Building, Developing Managers & Engineers, Performance Management, Hiring, Roadmap Ownership, Executive Communication, Cross-Functional Collaboration, SDLC Process Improvement, Agile/Scrum/Kanban, Change Management.
 
 ## Education
 
