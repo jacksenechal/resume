@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Manager
+## Technology Executive · Engineering & Platform Leadership
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,119 +10,111 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Engineering manager with **6+ years building and leading teams**, and hands-on with the technology those teams ship.
+Technology leader with **6+ years leading engineering and platform organizations** whose services every other department depended on. Sets standards and governance, rebuilds teams that are struggling, modernizes legacy systems without disrupting the people who rely on them, and develops the next layer of leaders.
 
-- **Team building**: recruited, coached, and grew teams from scratch, including **growing multiple junior engineers into senior SWE and Engineering Manager roles**.
-- **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work.
-- **Drove org-wide DevOps culture change**: rebuilt a team from two engineers after mass departures and influenced practice across engineering.
-- **Cross-functional partner**: aligned roadmaps with product, design, and stakeholders to deliver measurable business impact.
-- **Founder background**: multiple co-founding ventures, and a bias toward ownership and shipping over process for its own sake.
+- **Enterprise platform leadership**: owned the shared infrastructure platform for an entire engineering organization, balancing central standards against the autonomy individual teams needed to keep moving.
+- **Governance and standards**: established the policies, review gates, and operating practices that changed how an organization built and shipped, then carried them across teams as a change agent rather than by mandate.
+- **Turnarounds**: rebuilt a critical operations team from two engineers after mass departures, and took an unreliable production platform to **~100x fewer errors and incidents**.
+- **Legacy modernization**: led migrations of long-lived systems onto modern cloud platforms, including a **zero-downtime** cutover with no customer-visible impact.
+- **Developing leaders**: **grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. **Top Performer Award, 2021**.
+- **Responsible AI adoption**: builds and operates AI-assisted delivery systems with the governance attached, review, testing, and supply-chain controls enforced by the system rather than left to good intentions. Co-founded a nonprofit that publishes an open-source benchmark for humane AI behavior.
+- **Translating technology for decision-makers**: the working habit of most of this career has been explaining technical tradeoffs, risk, and cost to people who do not want a technical answer, they want a decision.
 
-## Industry Experience
+## Professional Experience
 
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat.
-- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
-- **GitHub as the coordination substrate**: issues, PRs, and Projects are the single ledger.
-- **Harness-enforced SDLC**: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
-- **Self-improving harness**: Orchestration agents tasked with running, observing, and refining the process. Agents collaboratively converge on refinements, ship and evaluate.
-- **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
+*Scope: designs the delivery process and governance model; holds the product and prioritization seat.*
+
+- Designs and runs **AI-assisted delivery pipelines** that carry engineering work from requirement to production, with a human accountable for scope, priority, and acceptance.
+- **Governance built into the system**: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step. The operating thesis, proven in practice, is that anything merely instructed rather than enforced will drift.
+- Uses a single durable system of record for work intake, review, and status, with status **derived from verifiable reality** rather than maintained by hand in a tracker nobody trusts.
+- Practical view of where AI adoption pays off and where it does not, grounded in running it daily rather than in vendor claims.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-- **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
-- Acting as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
-- Extending the framework toward **real-time evaluation**: built a **low-latency proof-of-concept classifier** that scores model behavior against HumaneBench rubrics inline at **sub-100ms** and can sit in a production request path rather than run only in batch.
-- Designing **telemetry for operational visibility**, and evaluation feedback loops to inform system-prompt iteration and model fine-tuning.
-- Owning **technical product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
+*Scope: technical direction and roadmap for a nonprofit engineering team; advises rather than implements.*
+
+- **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source framework for evaluating whether AI systems behave in the public interest, covering transparency, privacy, and user wellbeing.
+- Serves as **fractional CTO** to the team that built it into a published, externally used product, shaping architecture, evaluation design, and technical direction.
+- Designed and specified a **real-time evaluation classifier** that scores AI behavior against those standards inline at **sub-100ms**, fast enough to sit in a live request path rather than run only after the fact.
+- Owns technical product direction: operational visibility, evaluation feedback loops, and adoption maturity models organizations can actually follow.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
-- Owned front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
-- Led design and UX delivery, working with freelance designers and translating their designs into the Rails framework.
-- Collaborated on back-end development: Stripe integration, SSO authentication, Rails MVC.
-- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+*Scope: co-founder; owned front-end and design delivery, including outside design contractors.*
+
+- Owned front-end and design delivery for a production consumer subscription service, and managed freelance designers through to shipped work.
+- Collaborated on back-end delivery: payment processing, single sign-on authentication, and application architecture.
+- Partnered with co-founders on product direction, roadmap, and prioritization.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Architected and implemented a scalable cloud platform serving customer workloads at a fast-paced startup.
-- Built CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
-- Implemented a Slack-based customer support and incident response platform; onboarded teammates and customers.
-- Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
+*Scope: cloud platform serving production customer workloads.*
+
+- Architected and operated a cloud platform running production customer workloads, with reliability, security, and repeatability as the standard.
+- Implemented infrastructure as code so environments were provisioned from reviewed, version-controlled definitions instead of by hand.
+- Stood up a customer support and incident response workflow, and onboarded staff and customers onto it.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that reduced errors and incidents by ~100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Created a clear, calm, and constructive environment that allowed the team to thrive. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
-- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+*Scope: led two engineering teams over seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+
+- **Infrastructure Platform and DevOps** (4 years): Took over a team reduced to two engineers by mass departures and rebuilt it: recruiting, onboarding, documented practice, and an on-call rotation the team could sustain. Led the organization's engineering-practice transformation as a change agent and technical authority across the company, setting standards other teams adopted because they worked, not because they were mandated. Owned roadmap, intake and triage of requests from every engineering team, and priority tradeoffs among them.
+- **Legacy modernization**: Moved a long-lived codebase and its server estate onto modern cloud-native, infrastructure-as-code tooling, replacing hand-built systems with reproducible, auditable configuration. Led the migration of the core application and its surrounding services onto a modern container platform, and moved an unstable production database onto a managed service, eliminating an entire class of outages. Migration decisions were made on scale, cost, and consistency grounds.
+- **Integrations platform turnaround** (2 years): Led the team that stabilized and scaled the platform connecting the company's product to customers' external systems. Established the operational metrics, monitoring, and alerting that took it from frequent customer-visible failures to **~100x fewer errors and incidents**, then executed a **zero-downtime migration** onto the modern platform with no customer impact.
+- **Reliability and sustainable operations**: Drove a sustained push that dramatically reduced after-hours incident volume, which in turn produced strong retention and good working relationships across the engineering organization.
+- **Analytics data pipeline** (3 months): Led a transition team that took ownership of a neglected analytics pipeline and modernized it.
+- **Developing people**: **Grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. Led interviewing and hiring. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
 
-- Designed, architected, and built a cross-platform mobile app from scratch (iOS/Android). Node.js backend, JS/Phonegap frontend, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
-- Established engineering workflow: pair programming, automated testing (Karma/Chai), continuous integration, and rapid deployment processes.
+- Co-founded and led development of a cross-platform mobile product from scratch.
+- Established the engineering workflow the team ran on: peer review, automated testing, and continuous delivery.
 - Co-led product strategy, monetization, and launch planning.
 
 ### Earlier Career (2001 - 2014)
 
-- **Consultant & Entrepreneur** (2008 - 2014): Founded OpenTest Pro (automated testing education). Built e-commerce ordering system for Turnbull & Asser shirtmakers. Full-stack consulting in Ruby on Rails, Node.js, D3 data visualization. Rapid prototyping and client delivery.
-- **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and CI. Built comprehensive API test suite. Integrated platform with Salesforce APIs.
-- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com. Architected the initial release, then built and scaled the development team.
+- **Consultant & Entrepreneur** (2008 - 2014): Founded an automated-testing education venture. Delivered custom systems for commercial clients, including an e-commerce ordering platform for an established retailer. Full-stack consulting and rapid delivery.
+- **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and continuous integration. Integrated the platform with third-party enterprise systems.
+- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for a commercial software product. Architected the initial release, then built and scaled the development team.
 
-## Open Source Projects
+## Leadership Practice
 
-### Scan MCP (2024 - Present)
-
-MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
-
-[github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
-
-### HumaneBench (2024 - Present)
-
-Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Supports multiple LLM providers with extensible scenario datasets. Python.
-
-[github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
-
-## Skills
-
-- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
-- **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
-- **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
-- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
-- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
+- **Governance and standards**: policy, review gates, change control, and documented practice, set centrally and adopted willingly because they reduce work rather than add it.
+- **Modernization**: legacy system replacement, cloud migration, data platform migration, phased cutover planning, zero-downtime delivery.
+- **Operations**: monitoring and alerting, incident response and postmortems, on-call design, disaster recovery, security posture and access management.
+- **Vendor and cost discipline**: platform and vendor selection on cost, risk, and long-term maintainability; consolidation onto managed services where it lowers total cost of ownership.
+- **People**: hiring and team building, coaching, succession through growing individual contributors into senior and management roles, cross-functional partnership, change management.
+- **Communication**: translating technical risk and tradeoffs into terms non-technical stakeholders can decide on.
+- **Technical depth**: cloud platforms (AWS, Google Cloud), Kubernetes and containers, infrastructure as code (Terraform, Ansible), CI/CD, relational and document databases, API and systems architecture, AI and LLM systems.
 
 ## Education
 
 ### BA in Mathematics, minor in Computer Science
 #### University of North Carolina at Asheville | May 2003
 
-- Graduated with distinction in Mathematics. Undergraduate research in 4D fractals.
+- Graduated with distinction in Mathematics.
+
+## Selected Open Source
+
+- **[HumaneBench](https://github.com/buildinghumanetech/humanebench)**: open-source framework for evaluating human-friendly behavior in AI assistants, covering transparency, privacy, and wellbeing.
+- **[Scan MCP](https://github.com/jacksenechal/scan-mcp)**: privacy-first document digitization tooling.
 
 ## Recommendations
 
-"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means **the solutions he architects, builds, and collaborates on come out better**. Jack also strives to be at the forefront of new technology and assess how he can leverage it. He does all this with a **strong team mentality**, is a phenomenal team player, and can **effectively delegate to help lift others' skill sets**."
-
-*— Brandon Clifford, Director of DevOps, Kantata*
-
-"Jack has **had quite a profound impact on my career**. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and **forming me into the engineer that I am today**. **His mentorship was a key factor in elevating me from an incoming Junior Engineer to an Engineering Manager**. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
+"Jack has **had quite a profound impact on my career**. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills. **His mentorship was a key factor in elevating me from an incoming Junior Engineer to an Engineering Manager**."
 
 *— Wesley Morlock, Engineering Manager, Kantata*
 
-"Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**. Everyone would be lucky to have someone like him in their teams!"
+"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He does all this with a **strong team mentality**, and can **effectively delegate to help lift others' skill sets**."
 
-*— Cesar Palafox Garza, Principal Software Engineer, Kantata*
-
-"Jack is **awesome at understanding the direction teams need to go to make important improvements in Kantata's Engineering organization as a whole**. He has been instrumental in building and implementing strategies to upgrade Ruby, Rails, and React. If I had any questions about infrastructure and Kubernetes he would be able to answer and **provide solid explanations to the entire team**."
-
-*— Justin Hurstwright, Principal Software Engineer, Kantata*
+*— Brandon Clifford, Director of DevOps, Kantata*
 
 [See additional recommendations on LinkedIn](https://linkedin.com/in/jacksenechal)
