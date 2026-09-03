@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Technology Executive · Engineering & Platform Leadership
+## IT Director · Reliability, Security & Governance
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,15 +10,15 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations** whose services every other department depended on. Sets standards and governance, rebuilds teams that are struggling, modernizes legacy systems without disrupting the people who rely on them, and develops the next layer of leaders.
+Technology leader with **6+ years leading engineering and platform organizations** whose systems every other department depended on. Runs secure, resilient operations, builds the governance and operating models that make technology a dependable partner to the rest of the organization, leads a small team through its own leads, and explains risk and cost to executives who want a decision rather than a technical answer.
 
-- **Enterprise platform leadership**: owned the shared infrastructure platform for an entire engineering organization, balancing central standards against the autonomy individual teams needed to keep moving.
-- **Governance and standards**: established the policies, review gates, and operating practices that changed how an organization built and shipped, then carried them across teams as a change agent rather than by mandate.
-- **Turnarounds**: rebuilt a critical operations team from two engineers after mass departures, and took an unreliable production platform to **~100x fewer errors and incidents**.
-- **Legacy modernization**: led migrations of long-lived systems onto modern cloud platforms, including a **zero-downtime** cutover with no customer-visible impact.
-- **Developing leaders**: **grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. **Top Performer Award, 2021**.
-- **Responsible AI adoption**: builds and operates AI-assisted delivery systems with the governance attached, review, testing, and supply-chain controls enforced by the system rather than left to good intentions. Co-founded a nonprofit that publishes an open-source benchmark for humane AI behavior.
-- **Translating technology for decision-makers**: the working habit of most of this career has been explaining technical tradeoffs, risk, and cost to people who do not want a technical answer, they want a decision.
+- **Secure and resilient operations**: owned the shared infrastructure platform an entire engineering organization ran on, including security posture, access management, monitoring and alerting, on-call design, and disaster recovery, treated as standing practice rather than an annual project.
+- **Governance and operating models**: established the policies, review gates, change control, and service practices that changed how an organization delivered, then carried them across teams as a change agent rather than by mandate.
+- **Incident response and business continuity**: took an unreliable production platform to **~100x fewer errors and incidents**, ran incident response and postmortems, and moved an unstable production database onto a managed service, eliminating an entire class of outages.
+- **Leading a team through its leads**: rebuilt a critical operations team from two engineers after mass departures with hiring, onboarding, documented practice, and a sustainable on-call rotation, and **grew multiple junior engineers into senior software engineer and engineering manager roles**. **Top Performer Award, 2021**.
+- **Vendor management and cost discipline**: selects and consolidates platforms and vendors on cost, risk, and long-term maintainability, and retires hand-built systems that carry hidden operating cost.
+- **Modernization without disruption**: led migrations of long-lived systems onto modern cloud platforms, including a **zero-downtime** cutover with no user-visible impact.
+- **Responsible AI with governance**: co-founded a nonprofit publishing an open-source benchmark for responsible AI behavior, and builds AI-assisted systems where review, testing, and supply-chain controls are enforced by the system rather than left to good intentions.
 
 ## Professional Experience
 
@@ -58,7 +58,7 @@ Technology leader with **6+ years leading engineering and platform organizations
 
 - Architected and operated a cloud platform running production customer workloads, with reliability, security, and repeatability as the standard.
 - Implemented infrastructure as code so environments were provisioned from reviewed, version-controlled definitions instead of by hand.
-- Stood up a customer support and incident response workflow, and onboarded staff and customers onto it.
+- Stood up a customer support and incident response workflow with defined response expectations, and onboarded staff and customers onto it.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
@@ -67,9 +67,8 @@ Technology leader with **6+ years leading engineering and platform organizations
 
 - **Infrastructure Platform and DevOps** (4 years): Took over a team reduced to two engineers by mass departures and rebuilt it: recruiting, onboarding, documented practice, and an on-call rotation the team could sustain. Led the organization's engineering-practice transformation as a change agent and technical authority across the company, setting standards other teams adopted because they worked, not because they were mandated. Owned roadmap, intake and triage of requests from every engineering team, and priority tradeoffs among them.
 - **Legacy modernization**: Moved a long-lived codebase and its server estate onto modern cloud-native, infrastructure-as-code tooling, replacing hand-built systems with reproducible, auditable configuration. Led the migration of the core application and its surrounding services onto a modern container platform, and moved an unstable production database onto a managed service, eliminating an entire class of outages. Migration decisions were made on scale, cost, and consistency grounds.
-- **Integrations platform turnaround** (2 years): Led the team that stabilized and scaled the platform connecting the company's product to customers' external systems. Established the operational metrics, monitoring, and alerting that took it from frequent customer-visible failures to **~100x fewer errors and incidents**, then executed a **zero-downtime migration** onto the modern platform with no customer impact.
+- **Enterprise integrations turnaround** (2 years): Led the team that stabilized and scaled the platform connecting the company's product to customers' CRM, HR, and accounting systems. Established the operational metrics, monitoring, and alerting that took it from frequent business-visible failures to **~100x fewer errors and incidents**, then executed a **zero-downtime migration** onto the modern platform with no customer impact.
 - **Reliability and sustainable operations**: Drove a sustained push that dramatically reduced after-hours incident volume, which in turn produced strong retention and good working relationships across the engineering organization.
-- **Analytics data pipeline** (3 months): Led a transition team that took ownership of a neglected analytics pipeline and modernized it.
 - **Developing people**: **Grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. Led interviewing and hiring. **Top Performer Award, 2021**.
 
 ### Lead Developer, Co-founder
@@ -87,13 +86,15 @@ Technology leader with **6+ years leading engineering and platform organizations
 
 ## Leadership Practice
 
-- **Governance and standards**: policy, review gates, change control, and documented practice, set centrally and adopted willingly because they reduce work rather than add it.
-- **Modernization**: legacy system replacement, cloud migration, data platform migration, phased cutover planning, zero-downtime delivery.
-- **Operations**: monitoring and alerting, incident response and postmortems, on-call design, disaster recovery, security posture and access management.
-- **Vendor and cost discipline**: platform and vendor selection on cost, risk, and long-term maintainability; consolidation onto managed services where it lowers total cost of ownership.
-- **People**: hiring and team building, coaching, succession through growing individual contributors into senior and management roles, cross-functional partnership, change management.
+- **Security and risk**: access management, change control, dependency and supply-chain scanning, security review built into the delivery path, vulnerability identification and remediation.
+- **Operations and service delivery**: monitoring and alerting, incident response and postmortems, on-call design, support and escalation workflows with response commitments, business continuity and disaster recovery.
+- **Governance and standards**: policy, review gates, change control, and documented practice, set centrally and adopted willingly because they reduce work rather than add it. Preparing materials and running the decision forums where technology priorities get set.
+- **Vendor and cost discipline**: platform and vendor selection and contracting on cost, risk, and long-term maintainability; consolidation onto shared and managed services where it lowers total cost of ownership; operating and capital budget planning with executive partners.
+- **Strategy and roadmap**: multi-year technology planning, investment sequencing, business-case framing, portfolio and prioritization tradeoffs across competing departments.
+- **Modernization and integration**: legacy system replacement, cloud migration, system-to-system integration and data flow between business systems, phased cutover planning, zero-downtime delivery.
+- **People**: hiring and team building, coaching, delegation through team leads, succession through growing individual contributors into senior and management roles, cross-functional partnership, change management.
 - **Communication**: translating technical risk and tradeoffs into terms non-technical stakeholders can decide on.
-- **Technical depth**: cloud platforms (AWS, Google Cloud), Kubernetes and containers, infrastructure as code (Terraform, Ansible), CI/CD, relational and document databases, API and systems architecture, AI and LLM systems.
+- **Technical depth**: cloud platforms (AWS, Google Cloud), Kubernetes and containers, infrastructure as code (Terraform, Ansible), CI/CD, relational and document databases, API and systems integration architecture, AI and LLM systems, collaboration platforms (Google Workspace, Slack).
 
 ## Education
 
