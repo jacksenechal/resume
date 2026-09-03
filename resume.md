@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Technology Executive · Engineering & Platform Leadership
+## Technology Executive · IT Strategy, Platforms & AI Governance
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -10,15 +10,16 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations** whose services every other department depended on. Sets standards and governance, rebuilds teams that are struggling, modernizes legacy systems without disrupting the people who rely on them, and develops the next layer of leaders.
+Technology leader with **6+ years leading engineering and platform organizations** whose systems every other department depended on. Builds the multi-year roadmap, modernizes the systems of record without disrupting the people who run on them, holds vendors and costs to account, and develops the team that has to keep it all running afterward.
 
-- **Enterprise platform leadership**: owned the shared infrastructure platform for an entire engineering organization, balancing central standards against the autonomy individual teams needed to keep moving.
-- **Governance and standards**: established the policies, review gates, and operating practices that changed how an organization built and shipped, then carried them across teams as a change agent rather than by mandate.
-- **Turnarounds**: rebuilt a critical operations team from two engineers after mass departures, and took an unreliable production platform to **~100x fewer errors and incidents**.
-- **Legacy modernization**: led migrations of long-lived systems onto modern cloud platforms, including a **zero-downtime** cutover with no customer-visible impact.
-- **Developing leaders**: **grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. **Top Performer Award, 2021**.
-- **Responsible AI adoption**: builds and operates AI-assisted delivery systems with the governance attached, review, testing, and supply-chain controls enforced by the system rather than left to good intentions. Co-founded a nonprofit that publishes an open-source benchmark for humane AI behavior.
-- **Translating technology for decision-makers**: the working habit of most of this career has been explaining technical tradeoffs, risk, and cost to people who do not want a technical answer, they want a decision.
+- **Technology strategy and roadmap**: owns the multi-year plan and the sequencing behind it, and defends each investment on business value, risk, and total cost rather than on technology fashion.
+- **Enterprise systems modernization and integration**: led the turnaround of the platform connecting a SaaS product to customers' CRM, HR, and accounting systems, taking it from frequent business-visible failures to **~100x fewer errors and incidents**, then executed a **zero-downtime migration** onto a modern cloud platform with no customer impact.
+- **Cloud and hybrid infrastructure**: migrated a long-lived core application and its server estate onto AWS and Kubernetes, and moved an unstable production database onto a managed service, eliminating an entire class of outages.
+- **AI and data governance**: co-founded a nonprofit that publishes an open-source benchmark for responsible AI behavior, and builds AI-assisted delivery systems where review, testing, and supply-chain controls are enforced by the system rather than left to good intentions.
+- **Security posture**: access management, change control, monitoring and incident response, and dependency and supply-chain scanning, treated as standing operating practice rather than an annual project.
+- **Vendor and cost discipline**: selects and consolidates platforms and vendors on cost, risk, and long-term maintainability, and retires hand-built systems that carry hidden operating cost.
+- **Building the team**: rebuilt a critical operations team from two engineers after mass departures, and **grew multiple junior engineers into senior software engineer and engineering manager roles**. **Top Performer Award, 2021**.
+- **Plain-spoken partner to the business**: most of this career has been spent explaining technical tradeoffs, risk, and cost to people who do not want a technical answer, they want a decision.
 
 ## Professional Experience
 
