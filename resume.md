@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations** whose systems every other department depended on. Builds the multi-year roadmap, modernizes the systems of record without disrupting the people who run on them, holds vendors and costs to account, and develops the team that has to keep it all running afterward.
+Technology leader with **6+ years leading engineering and platform organizations** whose platform every engineering team and the entire customer-facing product depended on. Builds the multi-year roadmap, modernizes the systems of record without disrupting the people who run on them, holds vendors and costs to account, and develops the team that has to keep it all running afterward.
 
 - **Technology strategy and roadmap**: owns the multi-year plan and the sequencing behind it, and defends each investment on business value, risk, and total cost rather than on technology fashion.
 - **Enterprise systems modernization and integration**: led the turnaround of the platform connecting a SaaS product to customers' CRM, HR, and accounting systems, taking it from frequent business-visible failures to **~100x fewer errors and incidents**, then executed a **zero-downtime migration** onto a modern cloud platform with no customer impact.
