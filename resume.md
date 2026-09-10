@@ -10,9 +10,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-- **Senior software engineer** with **15+ years** building and operating production systems, including **6+ years leading teams**
+- **Senior software engineer** who has spent his career building and operating production systems, including **6+ years leading teams**
 - Deep specialization in **Kubernetes, containerized microservices, and cloud-native pipeline architecture**
-- Track record turning unreliable, high-incident platforms into dependable ones — **~100x reduction in errors** on a multi-system data orchestration platform
+- Track record turning unreliable, high-incident platforms into dependable ones: **~100x reduction in errors** on a multi-system data orchestration platform
 - Led **zero-downtime migrations** of production workloads onto Kubernetes, including relational, document, and cache data tiers
 - Designed and operated **CI/CD and secure software delivery** pipelines across multiple environments
 - Committed **mentor and coach** who grew multiple junior engineers into senior SWE and engineering management roles
@@ -59,13 +59,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 - **Consultant & Entrepreneur** (2008 - 2014): Founded OpenTest Pro (automated testing education). Built an e-commerce ordering system for Turnbull & Asser shirtmakers. Full-stack consulting in Ruby on Rails, Node.js, and D3 data visualization.
 - **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and CI. Built a comprehensive API test suite. Integrated the platform with Salesforce APIs.
-- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com — architected the initial release, then built and scaled the development team.
+- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com: architected the initial release, then built and scaled the development team.
 
 ## Open Source Projects
 
 ### Scan MCP (2024 - Present)
 
-MCP server for scanner automation and document digitization — a media capture and processing pipeline with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. Privacy-first architecture. TypeScript/Node.js.
+MCP server for scanner automation and document digitization, a media capture and processing pipeline with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. Privacy-first architecture. TypeScript/Node.js.
 
 [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
