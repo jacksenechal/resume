@@ -98,7 +98,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, Regression Suites, TDD, Infrastructure as Code, Cloud-Native Architecture, Cloud Migration.
 - **Platform & Reliability**: Platform Engineering, SRE, SLOs & Error Budgets, Incident Response, On-Call Practices, Observability & Monitoring, Quality Metrics.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
+- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, context augmentation.
 - **Leadership**: Team Building, Developing Managers & Engineers, Performance Management, Hiring, Roadmap Ownership, Executive Communication, Cross-Functional Collaboration, SDLC Process Improvement, Agile/Scrum/Kanban, Change Management.
 
 ## Education
