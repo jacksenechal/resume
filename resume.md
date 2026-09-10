@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations** whose systems every other department depended on. Runs secure, resilient operations, builds the governance and operating models that make technology a dependable partner to the rest of the organization, leads a small team through its own leads, and explains risk and cost to executives who want a decision rather than a technical answer.
+Technology leader with **6+ years leading engineering and platform organizations** whose platform every engineering team and the entire customer-facing product depended on. Runs secure, resilient operations, builds the governance and operating models that make technology a dependable partner to the rest of the organization, leads a small team through its own leads, and explains risk and cost to executives who want a decision rather than a technical answer.
 
 - **Secure and resilient operations**: owned the shared infrastructure platform an entire engineering organization ran on, including security posture, access management, monitoring and alerting, on-call design, and disaster recovery, treated as standing practice rather than an annual project.
 - **Governance and operating models**: established the policies, review gates, change control, and service practices that changed how an organization delivered, then carried them across teams as a change agent rather than by mandate.
