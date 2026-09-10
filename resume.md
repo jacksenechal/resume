@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations** whose services every other department depended on. Sets standards and governance, rebuilds teams that are struggling, modernizes legacy systems without disrupting the people who rely on them, and develops the next layer of leaders.
+Technology leader with **6+ years leading engineering and platform organizations** whose platform every engineering team and the entire customer-facing product depended on. Sets standards and governance, rebuilds teams that are struggling, modernizes legacy systems without disrupting the people who rely on them, and develops the next layer of leaders.
 
 - **Enterprise platform leadership**: owned the shared infrastructure platform for an entire engineering organization, balancing central standards against the autonomy individual teams needed to keep moving.
 - **Governance and standards**: established the policies, review gates, and operating practices that changed how an organization built and shipped, then carried them across teams as a change agent rather than by mandate.
