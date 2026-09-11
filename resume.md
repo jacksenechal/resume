@@ -36,7 +36,7 @@ Full-stack engineering leader and founder with a strong record shipping producti
 
 - Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect. **Python.**
 - Fractional CTO to the team that built it into a published, externally usable product, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
-- Built a low-latency proof-of-concept classifier scoring model behavior against HumaneBench rubrics inline at **sub-100ms**, suitable for a production request path rather than batch only.
+- Designed a low-latency proof-of-concept classifier, built in collaboration with coding agents, scoring model behavior against HumaneBench rubrics inline at **sub-100ms**, suitable for a production request path rather than batch only.
 - Designs telemetry for operational visibility and evaluation feedback loops informing system-prompt iteration and fine-tuning. Owns the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
 
 ### Co-founder & Software Engineer
