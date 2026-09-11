@@ -10,9 +10,9 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations**, now designing and operating AI-assisted delivery systems with the governance built in. Sets the operating model and standards an organization adopts, measures whether AI actually helps, translates risk and tradeoffs for executives, and develops the next layer of leaders.
+Technology leader with **6+ years leading engineering and platform organizations**, now designing and operating AI-assisted delivery systems with the governance built in. Sets the operating model and standards an organization adopts, knows from daily practice where AI adoption pays off and where it does not, translates risk and tradeoffs for executives, and develops the next layer of leaders.
 
-- **AI strategy, governance, and adoption**: designs and runs AI-assisted delivery systems where review, testing, supply-chain scanning, and deployment verification are enforced by the system rather than left to good intentions. Co-founded a nonprofit that publishes an open-source benchmark for humane AI behavior, and built a real-time classifier that scores AI behavior inline.
+- **AI strategy, governance, and adoption**: designs and runs AI-assisted delivery systems where review, testing, supply-chain scanning, and deployment verification are enforced by the system rather than left to good intentions. Co-founded a nonprofit that publishes an open-source benchmark for humane AI behavior, and designed a proof-of-concept classifier, built in collaboration with coding agents, that scores AI behavior inline at sub-100ms.
 - **Translating technology for decision-makers**: the working habit of most of this career has been explaining technical tradeoffs, risk, and cost to people who do not want a technical answer, they want a decision, including which initiatives to pursue, delay, or decline.
 - **Governance and standards**: established the policies, review gates, and operating practices that changed how an organization built and shipped, then carried them across teams as a change agent rather than by mandate.
 - **Enterprise platform leadership**: owned the shared infrastructure platform for an entire engineering organization, balancing central standards against the autonomy individual teams needed to keep moving.
@@ -87,7 +87,7 @@ Technology leader with **6+ years leading engineering and platform organizations
 
 ## Leadership Practice
 
-- **AI strategy and governance**: AI use-case selection on value, feasibility, and risk; evaluation and measurement of AI system behavior; responsible-AI controls enforced in the delivery system; practical judgment about where AI adoption pays off, grounded in operating it daily.
+- **AI strategy and governance**: evaluation and measurement of AI system behavior; responsible-AI controls enforced in the delivery system; practical judgment about where AI adoption pays off, grounded in operating it daily.
 - **Governance and standards**: policy, review gates, change control, and documented practice, set centrally and adopted willingly because they reduce work rather than add it.
 - **Modernization**: legacy system replacement, cloud migration, data platform migration, phased cutover planning, zero-downtime delivery.
 - **Operations**: monitoring and alerting, incident response and postmortems, on-call design, disaster recovery, security posture and access management.
