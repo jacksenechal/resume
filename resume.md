@@ -98,7 +98,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, context augmentation.
+- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
