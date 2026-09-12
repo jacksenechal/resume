@@ -10,4 +10,12 @@ pandoc resume.md -o index.html -t html5 \
   --include-after-body=_pandoc/footer.html \
   --variable="pagetitle:Resume :: Jack Senechal"
 
-google-chrome-stable --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume.pdf index.html
+# PDF: use whichever Chrome-family browser is installed. Fail loudly rather than leave a stale resume.pdf.
+for browser in google-chrome-stable google-chrome chromium chromium-browser; do
+  if command -v "$browser" >/dev/null 2>&1; then
+    "$browser" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf=resume.pdf index.html
+    exit $?
+  fi
+done
+echo "_publish: no Chrome/Chromium found; resume.pdf NOT regenerated" >&2
+exit 1
