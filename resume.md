@@ -28,7 +28,6 @@ Hands-on engineering lead with **6+ years leading teams** while staying deep in 
 - **Harness-enforced SDLC**: PRs gated by an independent fresh-context reviewer agent, green CI, supply-chain scanning, and a deployment verification step. GitHub issues, PRs, and Projects are the single durable ledger.
 - **Self-improving by design**: orchestration agents are explicitly tasked with running, observing, and refining the process; they converge on refinements, ship them, and evaluate the result.
 - **Chose React, TypeScript, and Next.js** for the engagement because their tooling and fast feedback loops are tractable for agents to work in.
-- **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
