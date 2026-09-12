@@ -12,8 +12,8 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 Hands-on engineering lead with **6+ years leading teams** while staying deep in code, architecture, and review. Current work is the machinery that makes AI systems improve with use: evaluation, feedback loops, and the context and harness that agents operate inside.
 
-- **Measures agent behavior instead of guessing at it**: co-architected **HumaneBench**, an open-source AI evaluation framework, and built a **sub-100ms** inline classifier that scores model behavior in the request path.
-- **Builds the delivery machinery, not just the roadmap**: agent-driven "software factories" where the SDLC is encoded into the harness and context, carrying work from spec to shipped without trading away production quality.
+- **Measures agent behavior directly**: co-architected **HumaneBench**, an open-source AI evaluation framework, and built a **sub-100ms** proof-of-concept classifier that scores model behavior inline, so it can sit in a production request path rather than run only in batch.
+- **Builds the delivery machinery**: agent-driven "software factories" where the SDLC is encoded into the harness and context, carrying work from spec to shipped without trading away production quality.
 - **Builds and rebuilds teams**: recruited an internal platform team from scratch and ran it as a service org for the whole engineering org; rebuilt a DevOps team from two engineers after mass departures.
 - **Turnaround track record**: rearchitected an unreliable integrations platform for **~100x error reduction** and led a **zero-downtime** Heroku to Kubernetes/RDS migration.
 - **Grew multiple junior engineers into senior SWE and Engineering Manager roles**, while staying accountable for architecture and code quality.

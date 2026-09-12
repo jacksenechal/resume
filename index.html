@@ -68,14 +68,15 @@ Current work is the machinery that makes AI systems improve with use:
 evaluation, feedback loops, and the context and harness that agents
 operate inside.</p>
 <ul>
-<li><strong>Measures agent behavior instead of guessing at it</strong>:
-co-architected <strong>HumaneBench</strong>, an open-source AI
-evaluation framework, and built a <strong>sub-100ms</strong> inline
-classifier that scores model behavior in the request path.</li>
-<li><strong>Builds the delivery machinery, not just the
-roadmap</strong>: agent-driven “software factories” where the SDLC is
-encoded into the harness and context, carrying work from spec to shipped
-without trading away production quality.</li>
+<li><strong>Measures agent behavior directly</strong>: co-architected
+<strong>HumaneBench</strong>, an open-source AI evaluation framework,
+and built a <strong>sub-100ms</strong> proof-of-concept classifier that
+scores model behavior inline, so it can sit in a production request path
+rather than run only in batch.</li>
+<li><strong>Builds the delivery machinery</strong>: agent-driven
+“software factories” where the SDLC is encoded into the harness and
+context, carrying work from spec to shipped without trading away
+production quality.</li>
 <li><strong>Builds and rebuilds teams</strong>: recruited an internal
 platform team from scratch and ran it as a service org for the whole
 engineering org; rebuilt a DevOps team from two engineers after mass
