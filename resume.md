@@ -24,7 +24,7 @@ Hands-on engineering lead with **6+ years leading teams** while staying deep in 
 #### Client engagements | May 2026 - Present | Remote
 
 - **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat. About 260 merged PRs in the first 13 weeks, roughly three quarters of commits co-authored with agents, every one through the same gate.
-- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context. Anything merely instructed rather than enforced drifts, so build machinery instead of prompting harder.
+- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **Harness-enforced SDLC**: PRs gated by an independent fresh-context reviewer agent, green CI, supply-chain scanning, and a deployment verification step. GitHub issues, PRs, and Projects are the single durable ledger.
 - **Self-improving by design**: orchestration agents are explicitly tasked with running, observing, and refining the process; they converge on refinements, ship them, and evaluate the result.
 - **Chose React, TypeScript, and Next.js** for the engagement because their tooling and fast feedback loops are tractable for agents to work in.
@@ -58,7 +58,7 @@ Hands-on engineering lead with **6+ years leading teams** while staying deep in 
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that cut error rates roughly 100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch whose product was the platform the entire engineering org built on. Ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring asks into shared primitives and self-serve tooling. Owned the roadmap while staying hands-on with coding, architecture, and code review. Transitioned a large legacy Rails monolith and its services to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch whose product was the platform the entire engineering org built on. Ran it as a service org with internal customers, turning recurring asks into shared primitives and self-serve tooling. Owned the roadmap while staying hands-on with coding, architecture, and code review. Transitioned a large legacy Rails monolith and its services to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
 - **Cross-Functional Impact**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
 
