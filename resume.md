@@ -10,12 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Hands-on engineering lead with **6+ years leading teams** while staying deep in code, architecture, and review.
+Hands-on engineering lead with **6+ years leading teams** while staying deep in code, architecture, and review. Current work is the machinery that makes AI systems improve with use: evaluation, feedback loops, and the context and harness that agents operate inside.
 
-- **Builds the delivery machinery, not just the roadmap**: agent-driven "software factories" with harness-enforced SDLC, carrying work from spec to shipped without trading away production quality.
+- **Measures agent behavior instead of guessing at it**: co-architected **HumaneBench**, an open-source AI evaluation framework, and built a **sub-100ms** inline classifier that scores model behavior in the request path.
+- **Builds the delivery machinery, not just the roadmap**: agent-driven "software factories" where the SDLC is encoded into the harness and context, carrying work from spec to shipped without trading away production quality.
+- **Builds and rebuilds teams**: recruited an internal platform team from scratch and ran it as a service org for the whole engineering org; rebuilt a DevOps team from two engineers after mass departures.
 - **Turnaround track record**: rearchitected an unreliable integrations platform for **~100x error reduction** and led a **zero-downtime** Heroku to Kubernetes/RDS migration.
-- **Rebuilt a DevOps team** from two engineers after mass departures, then owned its roadmap.
-- **Full-stack generalist**: modern web, cloud-native infrastructure, and applied AI/LLM integration across every role.
 - **Grew multiple junior engineers into senior SWE and Engineering Manager roles**, while staying accountable for architecture and code quality.
 
 ## Industry Experience
@@ -23,11 +23,11 @@ Hands-on engineering lead with **6+ years leading teams** while staying deep in 
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat.
-- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
-- **GitHub as the coordination substrate**: issues, PRs, and Projects are the single ledger.
-- **Harness-enforced SDLC**: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
-- **Self-improving harness**: Orchestration agents tasked with running, observing, and refining the process. Agents collaboratively converge on refinements, ship and evaluate.
+- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat. About 260 merged PRs in the first 13 weeks, roughly three quarters of commits co-authored with agents, every one through the same gate.
+- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context. Anything merely instructed rather than enforced drifts, so build machinery instead of prompting harder.
+- **Harness-enforced SDLC**: PRs gated by an independent fresh-context reviewer agent, green CI, supply-chain scanning, and a deployment verification step. GitHub issues, PRs, and Projects are the single durable ledger.
+- **Self-improving by design**: orchestration agents are explicitly tasked with running, observing, and refining the process; they converge on refinements, ship them, and evaluate the result.
+- **Chose React, TypeScript, and Next.js** for the engagement because their tooling and fast feedback loops are tractable for agents to work in.
 - **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
 
 ### Co-founder & Fractional CTO
@@ -36,7 +36,7 @@ Hands-on engineering lead with **6+ years leading teams** while staying deep in 
 - **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
 - Acting as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
 - Extending the framework toward **real-time evaluation**: built a **low-latency proof-of-concept classifier** that scores model behavior against HumaneBench rubrics inline at **sub-100ms** and can sit in a production request path rather than run only in batch.
-- Designing **telemetry for operational visibility**, and evaluation feedback loops to inform system-prompt iteration and model fine-tuning.
+- Designing **telemetry for operational visibility** and **evaluation feedback loops** that turn scored behavior into system-prompt iteration and model fine-tuning.
 - Owning **technical product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
 
 ### Co-founder & Software Engineer
@@ -59,7 +59,7 @@ Hands-on engineering lead with **6+ years leading teams** while staying deep in 
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
 - **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that cut error rates roughly 100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
+- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch whose product was the platform the entire engineering org built on. Ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring asks into shared primitives and self-serve tooling. Owned the roadmap while staying hands-on with coding, architecture, and code review. Transitioned a large legacy Rails monolith and its services to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
 - **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
 - **Cross-Functional Impact**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
 
@@ -97,7 +97,7 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 - **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
 - **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
 - **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
+- **AI/LLM**: agent orchestration and harness design, AI evaluation frameworks (AISI Inspect), MCP (Model Context Protocol), tool use, prompt and context engineering, chatbot development.
 - **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
 
 ## Education
