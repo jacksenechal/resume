@@ -10,15 +10,12 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Technology leader with **6+ years leading engineering and platform organizations** whose platform every engineering team and the entire customer-facing product depended on. Sets standards and governance, rebuilds teams that are struggling, modernizes legacy systems without disrupting the people who rely on them, and develops the next layer of leaders.
+Engineering and platform leader with 6+ years leading teams, and a repeat founder across product and infrastructure. Built the platforms and teams organizations run on, and rebuilt the ones in trouble. Now bringing that experience from private-sector software into public service.
 
-- **Enterprise platform leadership**: owned the shared infrastructure platform for an entire engineering organization, balancing central standards against the autonomy individual teams needed to keep moving.
-- **Governance and standards**: established the policies, review gates, and operating practices that changed how an organization built and shipped, then carried them across teams as a change agent rather than by mandate.
-- **Turnarounds**: rebuilt a critical operations team from two engineers after mass departures, and took an unreliable production platform to **~100x fewer errors and incidents**.
-- **Legacy modernization**: led migrations of long-lived systems onto modern cloud platforms, including a **zero-downtime** cutover with no customer-visible impact.
-- **Developing leaders**: **grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. **Top Performer Award, 2021**.
-- **Responsible AI adoption**: builds and operates AI-assisted delivery systems with the governance attached, review, testing, and supply-chain controls enforced by the system rather than left to good intentions. Co-founded a nonprofit that publishes an open-source benchmark for humane AI behavior.
-- **Translating technology for decision-makers**: the working habit of most of this career has been explaining technical tradeoffs, risk, and cost to people who do not want a technical answer, they want a decision.
+- **Governance in a federated organization**: set the standards and shared platform an entire engineering organization ran on, and made them stick by building them with the teams that used them, central where it counted and autonomous everywhere else.
+- **Modernization at scale**: led a multi-year transformation of a legacy monolith and its entire service and server estate onto cloud-native, infrastructure-as-code tooling (Kubernetes, Terraform, Ansible), and rebuilt the DevOps team that carried it, from a single remaining engineer into a group that could sustain it.
+- **Developing leaders**: **grew multiple junior engineers into senior software engineer and engineering manager roles**. **Top Performer Award, 2021**.
+- **AI with governance**: co-founder and fractional CTO of Building Humane Technology, a public benefit corporation behind the open-source HumaneBench; building with AI daily, with independent review, testing, and supply-chain scanning enforced by the system rather than left to good intentions.
 
 ## Professional Experience
 
@@ -27,20 +24,21 @@ Technology leader with **6+ years leading engineering and platform organizations
 
 *Scope: designs the delivery process and governance model; holds the product and prioritization seat.*
 
-- Designs and runs **AI-assisted delivery pipelines** that carry engineering work from requirement to production, with a human accountable for scope, priority, and acceptance.
+- Designing and running **AI-assisted delivery pipelines** that carry engineering work from requirement to production, with a human accountable for scope, priority, and acceptance.
 - **Governance built into the system**: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step. The operating thesis, proven in practice, is that anything merely instructed rather than enforced will drift.
-- Uses a single durable system of record for work intake, review, and status, with status **derived from verifiable reality** rather than maintained by hand in a tracker nobody trusts.
+- Using a single durable system of record for work intake, review, and status, with status **derived from verifiable reality** rather than maintained by hand in a tracker nobody trusts.
 - Practical view of where AI adoption pays off and where it does not, grounded in running it daily rather than in vendor claims.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-*Scope: technical direction and roadmap for a nonprofit engineering team; advises rather than implements.*
+*Scope: technical direction and roadmap for a public benefit corporation's engineering team; advises rather than implements.*
 
 - **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source framework for evaluating whether AI systems behave in the public interest, covering transparency, privacy, and user wellbeing.
-- Serves as **fractional CTO** to the team that built it into a published, externally used product, shaping architecture, evaluation design, and technical direction.
-- Designed and specified a **real-time evaluation classifier** that scores AI behavior against those standards inline at **sub-100ms**, fast enough to sit in a live request path rather than run only after the fact.
-- Owns technical product direction: operational visibility, evaluation feedback loops, and adoption maturity models organizations can actually follow.
+- Serving as **fractional CTO** to the team that built it into a published, externally used product, shaping architecture, evaluation design, and technical direction.
+- Designing and building a real-time evaluation classifier that scores AI behavior against those standards inline at sub-100ms.
+- Designing telemetry for operational visibility and evaluation feedback loops.
+- Curating the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
@@ -63,11 +61,11 @@ Technology leader with **6+ years leading engineering and platform organizations
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-*Scope: led two engineering teams over seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+*Scope: led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
 
-- **Infrastructure Platform and DevOps** (4 years): Took over a team reduced to two engineers by mass departures and rebuilt it: recruiting, onboarding, documented practice, and an on-call rotation the team could sustain. Led the organization's engineering-practice transformation as a change agent and technical authority across the company, setting standards other teams adopted because they worked, not because they were mandated. Owned roadmap, intake and triage of requests from every engineering team, and priority tradeoffs among them.
+- **Infrastructure Platform and DevOps** (4 years): Took over a team reduced to a single engineer by mass departures and rebuilt it: recruiting, onboarding, documented practice, and an on-call rotation the team could sustain. Led the organization's engineering-practice transformation as a change agent and technical authority across the company, setting standards other teams adopted because they worked, not because they were mandated. Owned roadmap, intake and triage of requests from every engineering team, and priority tradeoffs among them.
 - **Legacy modernization**: Moved a long-lived codebase and its server estate onto modern cloud-native, infrastructure-as-code tooling, replacing hand-built systems with reproducible, auditable configuration. Led the migration of the core application and its surrounding services onto a modern container platform, and moved an unstable production database onto a managed service, eliminating an entire class of outages. Migration decisions were made on scale, cost, and consistency grounds.
-- **Integrations platform turnaround** (2 years): Led the team that stabilized and scaled the platform connecting the company's product to customers' external systems. Established the operational metrics, monitoring, and alerting that took it from frequent customer-visible failures to **~100x fewer errors and incidents**, then executed a **zero-downtime migration** onto the modern platform with no customer impact.
+- **Integrations platform turnaround** (2 years): Led the team that stabilized and scaled the platform connecting the company's product to customers' external systems. Established the operational metrics, monitoring, and alerting that took it from frequent customer-visible failures to **~100x fewer errors**, then executed a **zero-downtime migration** onto the modern platform with no customer impact.
 - **Reliability and sustainable operations**: Drove a sustained push that dramatically reduced after-hours incident volume, which in turn produced strong retention and good working relationships across the engineering organization.
 - **Analytics data pipeline** (3 months): Led a transition team that took ownership of a neglected analytics pipeline and modernized it.
 - **Developing people**: **Grew multiple junior engineers into senior software engineer and engineering manager roles**, and mentored engineers across teams. Led interviewing and hiring. **Top Performer Award, 2021**.
@@ -84,6 +82,7 @@ Technology leader with **6+ years leading engineering and platform organizations
 - **Consultant & Entrepreneur** (2008 - 2014): Founded an automated-testing education venture. Delivered custom systems for commercial clients, including an e-commerce ordering platform for an established retailer. Full-stack consulting and rapid delivery.
 - **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and continuous integration. Integrated the platform with third-party enterprise systems.
 - **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for a commercial software product. Architected the initial release, then built and scaled the development team.
+- **Programmer, US Navy FNMOD** (2001): Migrated Navy weather data from flat files into a MySQL database and built a Java application to quality-check and convert it.
 
 ## Leadership Practice
 
