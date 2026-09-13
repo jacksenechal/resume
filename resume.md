@@ -22,17 +22,17 @@ Engineering and platform leader with 6+ years leading teams, and a repeat founde
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-*Scope: designs the delivery process and governance model; holds the product and prioritization seat.*
+*Scope: AI-native software delivery, with a human accountable for scope, priority, and acceptance.*
 
 - Designing and running **AI-assisted delivery pipelines** that carry engineering work from requirement to production, with a human accountable for scope, priority, and acceptance.
-- **Governance built into the system**: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step. The operating thesis, proven in practice, is that anything merely instructed rather than enforced will drift.
+- **Governance built into the system**: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step. The operating thesis, proven in practice, is that the same discipline that makes human teams work is the correct foundation for agent teams; it must be encoded into the harness and context rather than passed as tribal knowledge.
 - Using a single durable system of record for work intake, review, and status, with status **derived from verifiable reality** rather than maintained by hand in a tracker nobody trusts.
 - Practical view of where AI adoption pays off and where it does not, grounded in running it daily rather than in vendor claims.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-*Scope: technical direction and roadmap for a public benefit corporation's engineering team; advises rather than implements.*
+*Scope: technical direction and roadmap for a public benefit corporation's engineering team.*
 
 - **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source framework for evaluating whether AI systems behave in the public interest, covering transparency, privacy, and user wellbeing.
 - Serving as **fractional CTO** to the team that built it into a published, externally used product, shaping architecture, evaluation design, and technical direction.
