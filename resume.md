@@ -11,7 +11,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Full-stack engineering leader and founder with a strong record shipping production software and infrastructure, mostly at startups. No big-company detour.
+Full-stack engineering leader and founder with a strong record shipping production software and infrastructure, mostly at startups.
 
 - **AI-native delivery**: runs agent-driven "software factories" that carry engineering work from spec to shipped, with harness-enforced SDLC discipline so agents move fast without breaking things.
 - **Platform builder**: designs internal tools and shared primitives other teams build on, from integration middleware to self-serve tooling.
@@ -28,37 +28,42 @@ Full-stack engineering leader and founder with a strong record shipping producti
 - **Core thesis**: the same DevOps and project-management discipline that makes human teams work is the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
 - **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
-- Chose **React, TypeScript, and Next.js** stack: their tooling and feedback loops are very tractable for agents to work in.
+- Governance built into the system: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step.
+- **Next.js, Vercel, Cloudflare** stack: robust tooling and feedback loops for strong agentic traction.
 - **Product ownership**: rapid prototyping, requirements gathering, defining and prioritizing the work, and verifying output against deployed previews on behalf of a non-technical user base.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-- Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect. **Python.**
-- Fractional CTO to the team that built it into a published, externally usable product, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
-- Designed a low-latency proof-of-concept classifier, built in collaboration with coding agents, scoring model behavior against HumaneBench rubrics inline at **sub-100ms**, suitable for a production request path rather than batch only.
-- Designs telemetry for operational visibility and evaluation feedback loops informing system-prompt iteration and fine-tuning. Owns the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
+- Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect.
+- Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
+- Designing and building a real-time evaluation classifier that scores AI behavior against those standards inline at sub-100ms.
+- Designing telemetry for operational visibility and evaluation feedback loops.
+- Curating the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
 - Owned the front end of a production consumer subscription app: Rails views, JavaScript, HTML/CSS, Tailwind, responsive UI/UX.
-- Led design and UX delivery: worked directly with freelance designers, translated Figma into the Rails framework. Collaborated on the back end: Rails MVC, Stripe subscription billing, SSO authentication.
-- Made product and prioritization calls with co-founders: roadmap, scope, what to ship next.
+- Led design and UX delivery: worked directly with freelance designers, translated Figma into the Rails framework.
+- Collaborated on the back end: Rails MVC, Stripe subscription billing, SSO authentication.
+- Partnered with co-founders on product direction, roadmap, and prioritization.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
 - Architected and implemented a cloud platform serving customer workloads at an early-stage startup. **Python**, Pulumi, GCP, GKE, Cloud Run, Helm.
 - Built CI/CD primitives the rest of engineering used: mono-repo conditional workflows, workload identity federation, continuous delivery.
-- Owned build-vs-buy for support and incident response: selected incident.io for incident management; after support tooling review found nothing that handled Slack-based support cleanly, built the Slack support agent from the ground up in Python and onboarded teammates and customers onto it.
+- Stood up a customer support and incident response workflow, and onboarded staff and customers onto it.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
+*Scope: led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+
 - **M-Bridge Integration Platform** (2 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. **Cut error rates roughly 100x** by instrumenting the system and fixing what the data pointed at. Executed a **zero-downtime migration** from Heroku to Kubernetes and RDS, including relational, document, and cache stores.
 - **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on. Ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review. Migrated a large legacy Rails monolith and its service ecosystem to cloud-native infrastructure (Terraform, Ansible, Kubernetes).
-- Rebuilt the team after mass departures: inherited a two-person DevOps team with one member two weeks from leaving, rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
+- Rebuilt the team after mass departures: inherited a one-person DevOps team, rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
 - Led a transition team that took ownership of the BI/analytics pipeline and migrated it to Kubernetes.
 - Shipped **React** features in the customer-facing product and worked in its **Redux** state management, alongside the platform and infrastructure work.
 - Grew multiple junior engineers into senior SWE and Engineering Manager roles; led interviewing and hiring. **Top Performer Award, 2021.**
