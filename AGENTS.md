@@ -27,7 +27,8 @@ Per-job résumé tailoring lives in the **private jobs repo**:
 - Copy the closest archetype into the application folder:
   `git -C ~/workspace/resume show role/<name>:resume.md > ~/workspace/jobs/applications/<id>/resume.md`
 - Tailor it there, then render with `~/workspace/agent-tools/skills/job-search/scripts/make_resume_pdf.sh`
-  (self-contained; does not need this repo at runtime), which writes `applications/<id>/resume.pdf`.
+  (self-contained; does not need this repo at runtime), to `applications/<id>/Resume - <Name> - <Role>.pdf`
+  (always the named file, never a bare `resume.pdf`).
 - Full workflow: the `job-search` skill's `SKILL.md` (Stage 2) and `~/workspace/jobs/CLAUDE.md`
   ("Resume Workflow").
 
