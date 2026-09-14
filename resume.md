@@ -38,7 +38,7 @@ Full-stack engineering leader and founder with a strong record shipping producti
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-*Scope: technical direction and roadmap for a public benefit corporation's engineering team; advises rather than implements.*
+*Scope: technical direction and roadmap for a public benefit corporation's engineering team.*
 
 - Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect.
 - Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
