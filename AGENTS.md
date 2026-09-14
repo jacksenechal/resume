@@ -42,6 +42,24 @@ Only to change the canonical résumé or an archetype itself:
 - **`role/*`**: refine a generic archetype so future applications branch from a stronger base.
   Keep archetypes generic — never add a company name or posting-specific content.
 
+### Keeping archetypes current with main
+
+Archetypes drift behind `main` as the canonical résumé gains fixed facts and convention
+changes; a stale archetype tailors from wrong facts. They are kept current **lazily** — each is
+refreshed the next time its role is tailored (job-search skill, Stage 2 step 1b) — plus an
+on-demand pass:
+
+- `~/workspace/agent-tools/skills/job-search/scripts/sync_archetypes.sh` (`/job-search
+  sync-archetypes`) merges `main` into each `role/*`, regenerates artifacts, and pushes the ones
+  that merge cleanly. Generated-file conflicts (`index.html`, `resume.pdf`) are noise and get
+  regenerated; a `resume.md` conflict means the archetype has diverged too far for a merge.
+- A conflicted archetype needs a **content refresh**, not a forced merge: re-derive its
+  `resume.md` from current `main` plus the role's positioning (strip company/sector specifics,
+  apply the conventions below and current `facts.md`), `./_publish`, commit, push. This resets a
+  clean, recent merge-base so future syncs stay thin.
+
+Never `rebase` a public `role/*` branch (it force-pushes shared history); always merge or refresh.
+
 ### Workflow for a main/archetype edit
 
 1. Check out `main` or the `role/*` archetype.
