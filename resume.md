@@ -13,18 +13,21 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 Full-stack engineering leader and founder with a strong record shipping production software and infrastructure, mostly at startups.
 
-- **AI-native delivery**: runs agent-driven "software factories" that carry engineering work from spec to shipped, with harness-enforced SDLC discipline so agents move fast without breaking things.
-- **Platform builder**: designs internal tools and shared primitives other teams build on, from integration middleware to self-serve tooling.
-- **Turnaround leader**: rearchitected an unreliable integrations platform for **~100x error reduction** and led a **zero-downtime** Heroku to Kubernetes/RDS migration.
-- **Founder, repeatedly**: multiple co-founding ventures spanning product, infrastructure, and launch.
-- **Owns outcomes**: a rescuer of burning platforms, at home with incomplete information, able to bring stakeholders and engineers to clarity.
+- **AI-native delivery**: agent-driven "software factories," from spec to production.
+- **Platform leadership**: built the platform an entire engineering org ran on.
+- **Modernization at scale**: multi-year legacy monolith to cloud-native.
+- **Reliability**: cut platform error rates roughly 100x, on-call incidents from weekly to quarterly.
+- **Developing people**: grew multiple engineers into senior and management roles.
+- **Founder, repeatedly**: product, infrastructure, and launch.
 
 ## Industry Experience
 
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped, human in the product seat. **Speed without fragility**: production-quality output over long-horizon iteration, where agentic development typically falls down.
+*Scope: designs the delivery process and governance model; holds the product and prioritization seat.*
+
+- Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped, human in the product seat. Speed without fragility: production-quality output over long-horizon iteration, where agentic development typically falls down.
 - **Core thesis**: the same DevOps and project-management discipline that makes human teams work is the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
 - **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
@@ -35,6 +38,8 @@ Full-stack engineering leader and founder with a strong record shipping producti
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
+*Scope: technical direction and roadmap for a public benefit corporation's engineering team; advises rather than implements.*
+
 - Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect.
 - Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
 - Designing and building a real-time evaluation classifier that scores AI behavior against those standards inline at sub-100ms.
@@ -44,6 +49,8 @@ Full-stack engineering leader and founder with a strong record shipping producti
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
+*Scope: co-founder; owned front-end and design delivery, including outside design contractors.*
+
 - Owned the front end of a production consumer subscription app: Rails views, JavaScript, HTML/CSS, Tailwind, responsive UI/UX.
 - Led design and UX delivery: worked directly with freelance designers, translated Figma into the Rails framework.
 - Collaborated on the back end: Rails MVC, Stripe subscription billing, SSO authentication.
@@ -52,7 +59,9 @@ Full-stack engineering leader and founder with a strong record shipping producti
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Architected and implemented a cloud platform serving customer workloads at an early-stage startup. **Python**, Pulumi, GCP, GKE, Cloud Run, Helm.
+*Scope: cloud platform serving production customer workloads.*
+
+- Architected and implemented a cloud platform serving customer workloads at an early-stage startup. Python, Pulumi, GCP, GKE, Cloud Run, Helm.
 - Built CI/CD primitives the rest of engineering used: mono-repo conditional workflows, workload identity federation, continuous delivery.
 - Stood up a customer support and incident response workflow, and onboarded staff and customers onto it.
 
@@ -61,17 +70,18 @@ Full-stack engineering leader and founder with a strong record shipping producti
 
 *Scope: led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
 
-- **M-Bridge Integration Platform** (2 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. **Cut error rates roughly 100x** by instrumenting the system and fixing what the data pointed at. Executed a **zero-downtime migration** from Heroku to Kubernetes and RDS, including relational, document, and cache stores.
-- **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on. Ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review. Migrated a large legacy Rails monolith and its service ecosystem to cloud-native infrastructure (Terraform, Ansible, Kubernetes).
-- Rebuilt the team after mass departures: inherited a one-person DevOps team, rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
+- **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on, and ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review.
+- Led the multi-year modernization of that platform from legacy infrastructure to cloud-native: the whole Rails monolith and its service ecosystem onto Kubernetes with Terraform and Ansible, the primary MySQL database onto RDS, and HashiCorp Vault stood up as an internal secrets service.
+- Rebuilt the team after mass departures: inherited a one-person DevOps team and rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
 - Led a transition team that took ownership of the BI/analytics pipeline and migrated it to Kubernetes.
-- Shipped **React** features in the customer-facing product and worked in its **Redux** state management, alongside the platform and infrastructure work.
-- Grew multiple junior engineers into senior SWE and Engineering Manager roles; led interviewing and hiring. **Top Performer Award, 2021.**
+- **M-Bridge Integration Platform** (2 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Kubernetes and RDS, including relational, document, and cache stores.
+- Shipped React features in the customer-facing product and worked in its Redux state management, alongside the platform and infrastructure work.
+- Grew multiple junior engineers into senior SWE and Engineering Manager roles; led interviewing and hiring. Top Performer Award, 2021.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
 
-- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android. Node.js backend, JavaScript frontend with **Redux** state management, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
+- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android. Node.js backend, JavaScript frontend with Redux state management, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
 - Established the engineering workflow from nothing (pair programming, automated testing, CI, rapid deployment) and co-led product strategy, monetization, and launch planning.
 
 ### Earlier Career (2001 - 2014)
@@ -80,9 +90,9 @@ Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3 (OpenTest
 
 ## Open Source Projects
 
-**Scan MCP** (2024 - Present): MCP server giving AI agents control of document scanners. Privacy-first architecture, device discovery, JSON Schema validation, stdio and HTTP transports. **TypeScript/Node.js.** [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
+**Scan MCP** (2024 - Present): MCP server giving AI agents control of document scanners. Privacy-first architecture, device discovery, JSON Schema validation, stdio and HTTP transports. TypeScript/Node.js. [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
-**HumaneBench** (2024 - Present): Open-source LLM evaluation framework built on AISI Inspect. See Building Humane Technology above. **Python.** [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
+**HumaneBench** (2024 - Present): Open-source LLM evaluation framework built on AISI Inspect. See Building Humane Technology above. Python. [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
 ## Skills
 
@@ -103,23 +113,23 @@ Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3 (OpenTest
 
 ## Recommendations
 
-"Jack is **an exceptional engineer and leader**. He strives to **deeply understand the technology** he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means **the solutions he architects, builds, and collaborates on come out better**. Jack also strives to be **at the forefront of new technology** and assess how he can leverage it. Newer tech like GenAI can be complex and ever-evolving, and **Jack is not one to back down but step up and embrace**. He does all this with a **strong team mentality**, is a phenomenal team player, and can **effectively delegate to help lift others' skill sets**."
+"Jack is an exceptional engineer and leader. He strives to deeply understand the technology he's working on while remaining cognizant of the socio-technical components that may be a factor in any project. He's thorough, detail-oriented, and outcome-oriented, which means the solutions he architects, builds, and collaborates on come out better. Jack also strives to be at the forefront of new technology and assess how he can leverage it. Newer tech like GenAI can be complex and ever-evolving, and Jack is not one to back down but step up and embrace. He does all this with a strong team mentality, is a phenomenal team player, and can effectively delegate to help lift others' skill sets."
 
 *— Brandon Clifford, Director of DevOps, Kantata*
 
-"Jack has **had quite a profound impact on my career**. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and **forming me into the engineer that I am today**. Throughout our time together, Jack was caring and invested in helping me set goals and develop my career. **His mentorship was a key factor in elevating myself from an incoming Junior Engineer to an Engineering Manager**. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
+"Jack has had quite a profound impact on my career. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and forming me into the engineer that I am today. Throughout our time together, Jack was caring and invested in helping me set goals and develop my career. His mentorship was a key factor in elevating myself from an incoming Junior Engineer to an Engineering Manager. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
 
 *— Wesley Morlock, Engineering Director, Kantata*
 
-"With Jack, **the more complex the problem, the more simple his solutions**. Master Senechal is more than a mind to be reckoned with, he's an **integrative capacity builder** with a wide range of technological expertise. **If there is anything that can be done through web development, Jack can figure out how to do it, and make it happen.**"
+"With Jack, the more complex the problem, the more simple his solutions. Master Senechal is more than a mind to be reckoned with, he's an integrative capacity builder with a wide range of technological expertise. If there is anything that can be done through web development, Jack can figure out how to do it, and make it happen."
 
 *— Adam Apollo, Cofounder & CEO, Superluminal Systems*
 
-"Jack has a flair for **finding better, faster, and more reliable ways to get things done**. He advocates best practices, like unit testing, and has a deep knowledge of OO architecture. **Jack thinks on his toes**, and will always be there with the team at 4 a.m. if circumstance requires it."
+"Jack has a flair for finding better, faster, and more reliable ways to get things done. He advocates best practices, like unit testing, and has a deep knowledge of OO architecture. Jack thinks on his toes, and will always be there with the team at 4 a.m. if circumstance requires it."
 
 *— Greg Whitescarver, Founder, Mojave*
 
-"Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**."
+"Jack is a fantastic engineer always ready to help solve problems and more importantly, teach you how to solve them. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and find creative solutions."
 
 *— Cesar Palafox Garza, Principal Software Engineer, Kantata*
 
