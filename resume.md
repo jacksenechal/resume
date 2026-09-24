@@ -25,9 +25,9 @@ Full-stack engineering leader and founder with a strong record shipping producti
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-*Scope: designs the delivery process and governance model; holds the product and prioritization seat.*
+*Scope: designs the delivery process and governance model; owns product and prioritization.*
 
-- Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped, human in the product seat. Speed without fragility: production-quality output over long-horizon iteration, where agentic development typically falls down.
+- Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped, with a human owning the product. Speed without fragility: production-quality output over long-horizon iteration, where agentic development typically falls down.
 - **Core thesis**: the same DevOps and project-management discipline that makes human teams work is the necessary and sufficient foundation for agent teams, encoded into the harness and context.
 - **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
 - **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
