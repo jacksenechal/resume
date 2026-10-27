@@ -16,7 +16,20 @@
   a { text-decoration: none; border-bottom: 1px dashed #bbb; color: #000; }
   a:hover, #foot a:hover { color: #444;  border-bottom: 1px dashed #444; }
   code { font-size: 10pt; background-color: #f4f4f4; padding: 2px; box-shadow: 1px 1px 2px #ddd; }
-  #downloads { position: absolute; top: 1em; right: 1em; color: #777; font-style: italic; font-size: 10pt; }
+  #downloads { position: absolute; top: 1.2em; right: 1.2em; display: flex; align-items: center; gap: .5em;
+    font-family: inherit; font-size: 10.5pt; }
+  #downloads .label { color: #777; font-style: italic; margin-right: .2em; }
+  #downloads .btn { border: 1px solid #999; border-radius: 2px; padding: .3em .9em; color: #222;
+    font-variant: small-caps; letter-spacing: .06em; background: #fdfcf8;
+    box-shadow: 1px 1px 0 #e4e1d8; transition: background .15s, border-color .15s, color .15s; }
+  #downloads .btn:hover { background: #f1eee5; border-color: #444; color: #000; }
+  #downloads .btn.primary { background: #222; border-color: #222; color: #fdfcf8; }
+  #downloads .btn.primary:hover { background: #000; border-color: #000; color: #fff; }
+  #downloads .btn:focus-visible { outline: 1px dashed #444; outline-offset: 2px; }
+  @media (max-width: 900px) {
+    #downloads { position: static; justify-content: flex-end; margin: 1em 0 -.5em; flex-wrap: wrap; }
+  }
+  @media (max-width: 500px) { #downloads .label { display: none; } }
   #online_resume { display: none; }
   #clear_foot { height: 3em; }
   hr { display: none; }
