@@ -22,7 +22,7 @@ Engineering and platform leader with 6+ years leading teams, and a repeat founde
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-*Scope: designs the delivery process and governance model; holds the product and prioritization seat.*
+*Scope: designs the delivery process and governance model; owns product and prioritization.*
 
 - Designing and running AI-assisted delivery pipelines that carry engineering work from requirement to production, with a human accountable for scope, priority, and acceptance.
 - **Governance built into the system**: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step.
@@ -35,7 +35,7 @@ Engineering and platform leader with 6+ years leading teams, and a repeat founde
 *Scope: technical direction and roadmap for a public benefit corporation's engineering team.*
 
 - Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source framework for evaluating whether AI systems behave in the public interest, covering transparency, privacy, and user wellbeing.
-- Serving as fractional CTO to the team that built it into a published, externally used product, shaping architecture, evaluation design, and technical direction.
+- Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
 - Designing and building a real-time evaluation classifier that scores AI behavior against those standards inline at sub-100ms.
 - Designing telemetry for operational visibility and evaluation feedback loops.
 - Curating the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
@@ -61,11 +61,11 @@ Engineering and platform leader with 6+ years leading teams, and a repeat founde
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-*Scope: led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+*Scope: hired as a Senior Software Engineer, leading teams within a few months, and promoted to Principal for the infrastructure turnaround. Led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
 
-- **Infrastructure platform modernization** (4 years): Led a multi-year transformation of a long-lived codebase and its server estate onto cloud-native, infrastructure-as-code tooling, replacing hand-built systems with reproducible, auditable configuration. Migrated the core application and its surrounding services onto a modern container platform, and moved an unstable production database onto a managed service, eliminating an entire class of outages. Made migration decisions on scale, cost, and consistency grounds.
+- **Internal Infrastructure Platform modernization** (4 yrs): Led a multi-year transformation of a long-lived codebase and its server estate onto cloud-native, infrastructure-as-code tooling, replacing hand-built systems with reproducible, auditable configuration. Migrated the core application and its surrounding services onto a modern container platform, and moved an unstable production database onto a managed service, eliminating an entire class of outages. Made migration decisions on scale, cost, and consistency grounds.
 - **Team rebuild and engineering governance**: Took over a team reduced to a single engineer by mass departures and rebuilt it: recruiting, onboarding, documented practice, and an on-call rotation the team could sustain. Led the organization's engineering-practice transformation as change agent and technical authority across the company, setting standards other teams adopted because they worked, not because they were mandated. Owned roadmap, intake and triage of requests from every engineering team, and priority tradeoffs among them.
-- **Integrations platform turnaround** (2 years): Led the team that stabilized and scaled the platform connecting the company's product to customers' external systems. Established the operational metrics, monitoring, and alerting that took it from frequent customer-visible failures to ~100x fewer errors, then executed a zero-downtime migration onto the modern platform with no customer impact.
+- **M-Bridge Integration Platform** (2.5 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Google Cloud (GKE and Cloud SQL), including relational, document, and cache stores.
 - **Reliability and sustainable operations**: Drove a sustained push that dramatically reduced after-hours incident volume; strong retention and good working relationships across the engineering organization followed.
 - **Analytics data pipeline**: Led a transition team that took ownership of a neglected analytics pipeline and modernized it.
 - **Developing people**: Grew multiple junior engineers into senior software engineer and engineering manager roles, and mentored engineers across teams. Led interviewing and hiring. Top Performer Award, 2021.
@@ -79,10 +79,7 @@ Engineering and platform leader with 6+ years leading teams, and a repeat founde
 
 ### Earlier Career (2001 - 2014)
 
-- **Consultant & Entrepreneur** (2008 - 2014): Founded an automated-testing education venture. Delivered custom systems for commercial clients, including an e-commerce ordering platform for an established retailer. Full-stack consulting and rapid delivery.
-- **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and continuous integration. Integrated the platform with third-party enterprise systems.
-- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for a commercial software product. Architected the initial release, then built and scaled the development team.
-- **Programmer, US Navy FNMOD** (2001): Migrated weather data from flat files into a MySQL database and built a Java application to quality-check and convert it.
+Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3 (OpenTest Pro, Turnbull & Asser e-commerce). Introduced automated testing and CI at OnForce. Architected the initial release of mynewsletterbuilder.com and built its dev team at JBA Network.
 
 ## Leadership Practice
 
@@ -99,7 +96,7 @@ Engineering and platform leader with 6+ years leading teams, and a repeat founde
 ### BA in Mathematics, minor in Computer Science
 #### University of North Carolina at Asheville | May 2003
 
-- Graduated with distinction in Mathematics.
+- Graduated with distinction in Mathematics. Undergraduate research in 4D fractals.
 
 ## Selected Open Source
 
