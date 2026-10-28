@@ -8,14 +8,16 @@ Email: <jacksenechal@gmail.com><br>
 GitHub: [github.com/jacksenechal](https://github.com/jacksenechal)<br>
 LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
+
 ## Summary
 
 Engineering manager with **6+ years building and leading teams**, and hands-on with the technology those teams ship.
 
 - **Team building**: recruited, coached, and grew teams from scratch, including **growing multiple junior engineers into senior SWE and Engineering Manager roles**.
 - **AI-native delivery**: operates agent-driven "software factories," applying the same planning, review, and CI-gate discipline to agent teams that makes human teams work.
-- **Drove org-wide DevOps culture change**: rebuilt a team from two engineers after mass departures and influenced practice across engineering.
-- **Cross-functional partner**: aligned roadmaps with product, design, and stakeholders to deliver measurable business impact.
+- **Platform leadership**: built the platform an entire engineering org ran on, and rebuilt the team after mass departures.
+- **Reliability**: cut platform error rates roughly 100x, on-call incidents from weekly to quarterly.
+- **Cross-functional partner**: partnered with product, security, and application groups on standards adopted organization-wide.
 - **Founder background**: multiple co-founding ventures, and a bias toward ownership and shipping over process for its own sake.
 
 ## Industry Experience
@@ -23,82 +25,84 @@ Engineering manager with **6+ years building and leading teams**, and hands-on w
 ### Independent Consultant · AI-Native Software Delivery
 #### Client engagements | May 2026 - Present | Remote
 
-- **Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped**, with the human in the product seat.
-- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is also the necessary and sufficient foundation for agent teams, encoded into the harness and context.
-- **GitHub as the coordination substrate**: issues, PRs, and Projects are the single ledger.
-- **Harness-enforced SDLC**: PRs gated by independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check.
-- **Self-improving harness**: Orchestration agents tasked with running, observing, and refining the process. Agents collaboratively converge on refinements, ship and evaluate.
-- **Human in the product role**: defining and prioritizing work, verifying against deployed previews, steering product and process.
+*Scope: designs the delivery process and governance model; owns product and prioritization.*
+
+- Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped, with a human owning the product. Speed without fragility: production-quality output over long-horizon iteration, where agentic development typically falls down.
+- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is the necessary and sufficient foundation for agent teams, encoded into the harness and context.
+- **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
+- **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
+- Governance built into the system: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step.
+- **Next.js, Vercel, Cloudflare** stack: robust tooling and feedback loops for strong agentic traction.
+- **Product ownership**: rapid prototyping, requirements gathering, defining and prioritizing the work, and verifying output against deployed previews on behalf of a non-technical user base.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
-- **Originated and co-architected [HumaneBench.ai](https://humanebench.ai)**, an open-source AI evaluation framework built on AISI Inspect. **Python.**
-- Acting as **fractional CTO to the team** that built it out to a published, externally usable product, shaping architecture, scoring design, and multi-provider support, and guiding documentation and positioning.
-- Extending the framework toward **real-time evaluation**: built a **low-latency proof-of-concept classifier** that scores model behavior against HumaneBench rubrics inline at **sub-100ms** and can sit in a production request path rather than run only in batch.
-- Designing **telemetry for operational visibility**, and evaluation feedback loops to inform system-prompt iteration and model fine-tuning.
-- Owning **technical product direction and roadmap**: production monitoring, multi-turn evaluation, and adoption maturity models.
+*Scope: technical direction and roadmap for a public benefit corporation's engineering team.*
+
+- Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect.
+- Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
+- Designing and building a real-time evaluation classifier that scores AI behavior against those standards inline at sub-100ms.
+- Designing telemetry for operational visibility and evaluation feedback loops.
+- Curating the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
-- Owned front-end development: Ruby on Rails views, JavaScript, HTML+CSS, Tailwind, responsive UI/UX.
-- Led design and UX delivery, working with freelance designers and translating their designs into the Rails framework.
-- Collaborated on back-end development: Stripe integration, SSO authentication, Rails MVC.
-- Collaborated closely with co-founders on product direction, Figma design, UX, roadmap planning, and prioritization.
+*Scope: co-founder; owned front-end and design delivery, including outside design contractors.*
+
+- Owned the front end of a production consumer subscription app: Rails views, JavaScript, HTML/CSS, Tailwind, responsive UI/UX.
+- Led design and UX delivery: worked directly with freelance designers, translated Figma into the Rails framework.
+- Collaborated on the back end: Rails MVC, Stripe subscription billing, SSO authentication.
+- Partnered with co-founders on product direction, roadmap, and prioritization.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
 
-- Architected and implemented a scalable cloud platform serving customer workloads at a fast-paced startup.
-- Built CI/CD patterns including mono-repo conditional workflows, workload identity federation, and continuous delivery.
-- Implemented a Slack-based customer support and incident response platform; onboarded teammates and customers.
-- Python, Pulumi, GCP, GKE, Cloud Run, CircleCI, Helm, SQLMesh.
+*Scope: cloud platform serving production customer workloads.*
+
+- Architected and implemented a cloud platform serving customer workloads at an early-stage startup. Python, Pulumi, GCP, GKE, Cloud Run, Helm.
+- Built CI/CD primitives the rest of engineering used: mono-repo conditional workflows, workload identity federation, continuous delivery.
+- Stood up a customer support and incident response workflow, and onboarded staff and customers onto it.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-- **M-Bridge Integration Platform** (2 years): Led a team to stabilize and scale an agent-based integration platform handling multi-system data orchestration. Established operational metrics and monitoring that cut error rates roughly 100x. Executed a zero-downtime migration to Kubernetes including relational, document, and cache databases.
-- **Infrastructure Platform** (4 years): Recruited and built a new team from scratch dedicated to the infrastructure platform. Led the organization's DevOps culture transformation, serving as a change agent and technical authority across engineering. Created a clear, calm, and constructive environment that allowed the team to thrive. Owned roadmap stewardship, requirements triage, and priority management while staying hands-on with coding, architecture, and code review. Transitioned a large legacy codebase to cloud-native, Infrastructure-as-Code tooling (Terraform, Ansible, Kubernetes).
-- **BI Data Pipeline** (3 months): Led a transition team to take ownership of and improve the analytics data pipeline. Migrated the pipeline to Kubernetes.
-- **Cross-Functional Impact**: Grew multiple junior engineers into senior SWE and Engineering Manager roles, and mentored engineers across teams. Led interviewing and hiring. Drove organizational change management and process optimization. **Top Performer Award, 2021**.
+*Scope: hired as a Senior Software Engineer, leading teams within a few months, and promoted to Principal for the infrastructure turnaround. Led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+
+- **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on, and ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review.
+- Led the multi-year modernization of that platform from legacy infrastructure to cloud-native: the whole Rails monolith and its service ecosystem onto Kubernetes with Terraform and Ansible, the primary MySQL database onto RDS, and HashiCorp Vault stood up as an internal secrets service.
+- Rebuilt the team after mass departures: inherited a one-person DevOps team and rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
+- Led a transition team that took ownership of the BI/analytics pipeline and migrated it to Kubernetes.
+- **M-Bridge Integration Platform** (2.5 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Google Cloud (GKE and Cloud SQL), including relational, document, and cache stores.
+- Shipped React features in the customer-facing product and worked in its Redux state management, alongside the platform and infrastructure work.
+- Grew multiple junior engineers into senior SWE and Engineering Manager roles; led interviewing and hiring. Top Performer Award, 2021.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
 
-- Designed, architected, and built a cross-platform mobile app from scratch (iOS/Android). Node.js backend, JS/Phonegap frontend, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
-- Established engineering workflow: pair programming, automated testing (Karma/Chai), continuous integration, and rapid deployment processes.
-- Co-led product strategy, monetization, and launch planning.
+- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android. Node.js backend, JavaScript frontend with Redux state management, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
+- Established the engineering workflow from nothing (pair programming, automated testing, CI, rapid deployment) and co-led product strategy, monetization, and launch planning.
 
 ### Earlier Career (2001 - 2014)
 
-- **Consultant & Entrepreneur** (2008 - 2014): Founded OpenTest Pro (automated testing education). Built e-commerce ordering system for Turnbull & Asser shirtmakers. Full-stack consulting in Ruby on Rails, Node.js, D3 data visualization. Rapid prototyping and client delivery.
-- **Web Developer, OnForce, Inc** (2006 - 2007): Introduced automated testing and CI. Built comprehensive API test suite. Integrated platform with Salesforce APIs.
-- **Development Lead, JBA Network** (2003 - 2006): Lead programmer and project manager for mynewsletterbuilder.com. Architected the initial release, then built and scaled the development team.
+Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3 (OpenTest Pro, Turnbull & Asser e-commerce). Introduced automated testing and CI at OnForce. Architected the initial release of mynewsletterbuilder.com and built its dev team at JBA Network.
 
 ## Open Source Projects
 
-### Scan MCP (2024 - Present)
+**Scan MCP** (2024 - Present): MCP server giving AI agents control of document scanners. Privacy-first architecture, device discovery, JSON Schema validation, stdio and HTTP transports. TypeScript/Node.js. [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
-MCP (Model Context Protocol) server for scanner automation and document digitization. Privacy-first architecture with smart device discovery, JSON Schema validation, and support for both local stdio and network HTTP transports. TypeScript/Node.js.
-
-[github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
-
-### HumaneBench (2024 - Present)
-
-Evaluation framework for measuring human-friendly behavior in AI assistants, built on AISI Inspect. Tests AI responses across humane technology principles including loneliness, mental health, transparency, and privacy. Supports multiple LLM providers with extensible scenario datasets. Python.
-
-[github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
+**HumaneBench** (2024 - Present): Open-source LLM evaluation framework built on AISI Inspect. See Building Humane Technology above. Python. [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
 ## Skills
 
-- **Languages & Frameworks**: JavaScript, TypeScript, Python, Ruby on Rails, Node.js, Bash.
-- **Front-end**: React, Vue, HTML, CSS, Tailwind, Responsive Design, UI/UX.
-- **Back-end & Data**: API Design, Microservices, Distributed Systems, PostgreSQL, MySQL, MongoDB, Redis.
-- **Cloud & Infrastructure**: AWS, Google Cloud Platform, Kubernetes, Docker, Terraform, Ansible, Pulumi, Helm.
-- **CI/CD & DevOps**: CircleCI, GitHub Actions, Automated Testing, TDD, Infrastructure as Code, Cloud-Native Architecture.
-- **AI/LLM**: MCP (Model Context Protocol), chatbot development, prompt engineering, tool use, context augmentation.
-- **Leadership**: Team Building, Coaching & Mentoring, Cross-Functional Collaboration, Roadmap Ownership, Hiring, Agile/Scrum/Kanban, Change Management.
+- **Languages & Frameworks**: Python, TypeScript, JavaScript, React, Vue, Node.js, Ruby on Rails, Bash, HTML, CSS, Tailwind.
+- **Front-end**: responsive design, UI/UX collaboration with designers, Figma handoff.
+- **Back-end & Data**: API design, microservices, distributed systems, PostgreSQL, MySQL, MongoDB, Redis, Stripe, SSO/auth.
+- **AI/LLM**: LLM evaluation frameworks (AISI Inspect), MCP servers, chatbot development, prompt engineering, context augmentation, agentic coding workflows.
+- **Infrastructure & CI/CD**: AWS, GCP, Kubernetes, Docker, Terraform, Pulumi, Ansible, Helm, GitHub Actions, CircleCI, infrastructure as code, automated testing, TDD.
+- **Product**: Roadmap ownership, product discovery with users, prioritization, scope negotiation, cross-functional collaboration.
+- **Leadership**: Team building, hiring, coaching and mentoring, roadmap ownership, org change management, stakeholder engagement.
 
 ## Education
 
@@ -120,9 +124,5 @@ Evaluation framework for measuring human-friendly behavior in AI assistants, bui
 "Jack is a fantastic engineer always ready to **help solve problems and more importantly, teach you how to solve them**. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and **find creative solutions**. Everyone would be lucky to have someone like him in their teams!"
 
 *— Cesar Palafox Garza, Principal Software Engineer, Kantata*
-
-"Jack is **awesome at understanding the direction teams need to go to make important improvements in Kantata's Engineering organization as a whole**. He has been instrumental in building and implementing strategies to upgrade Ruby, Rails, and React. If I had any questions about infrastructure and Kubernetes he would be able to answer and **provide solid explanations to the entire team**."
-
-*— Justin Hurstwright, Principal Software Engineer, Kantata*
 
 [See additional recommendations on LinkedIn](https://linkedin.com/in/jacksenechal)
