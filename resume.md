@@ -68,13 +68,13 @@ Full-stack engineering leader and founder with a strong record shipping producti
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-*Scope: led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+*Scope: hired as a Senior Software Engineer, leading teams within a few months, and promoted to Principal for the infrastructure turnaround. Led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
 
 - **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on, and ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review.
 - Led the multi-year modernization of that platform from legacy infrastructure to cloud-native: the whole Rails monolith and its service ecosystem onto Kubernetes with Terraform and Ansible, the primary MySQL database onto RDS, and HashiCorp Vault stood up as an internal secrets service.
 - Rebuilt the team after mass departures: inherited a one-person DevOps team and rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
 - Led a transition team that took ownership of the BI/analytics pipeline and migrated it to Kubernetes.
-- **M-Bridge Integration Platform** (2 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Google Cloud (GKE and Cloud SQL), including relational, document, and cache stores.
+- **M-Bridge Integration Platform** (2.5 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Google Cloud (GKE and Cloud SQL), including relational, document, and cache stores.
 - Shipped React features in the customer-facing product and worked in its Redux state management, alongside the platform and infrastructure work.
 - Grew multiple junior engineers into senior SWE and Engineering Manager roles; led interviewing and hiring. Top Performer Award, 2021.
 
