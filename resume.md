@@ -1,6 +1,6 @@
 # Jack Senechal
 
-## Engineering Leader / Entrepreneur
+## AI Engineer · Agentic Systems & Evaluation
 
 **Located in Novato, CA**<br>
 Phone: 415-779-2701<br>
@@ -11,14 +11,13 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 ## Summary
 
-Full-stack engineering leader and founder with a strong record shipping production software and infrastructure, mostly at startups.
+AI engineer building production LLM systems: agentic delivery pipelines, evaluation frameworks, and the tools agents call. Backed by a long record running the platforms and teams that production software depends on.
 
-- **AI-native delivery**: agent-driven "software factories," from spec to production.
-- **Platform leadership**: built the platform an entire engineering org ran on.
-- **Modernization at scale**: multi-year legacy monolith to cloud-native.
-- **Reliability**: cut platform error rates roughly 100x, on-call incidents from weekly to quarterly.
-- **Developing people**: grew multiple engineers into senior and management roles.
-- **Founder, repeatedly**: product, infrastructure, and launch.
+- **Agentic systems in production**: designs and operates agent-driven delivery pipelines that take engineering work from spec to shipped, with the SDLC enforced in the harness rather than in a prompt.
+- **LLM evaluation**: originated and co-architected an open-source evaluation framework on AISI Inspect, and built a real-time classifier that scores model behavior inline at sub-100ms.
+- **Tool use for agents**: ships an MCP server, and works daily on both sides of the tool-use boundary.
+- **Platform and reliability depth**: built the infrastructure platform an engineering org ran on, cut a production system's error rates roughly 100x, and led a multi-year migration to cloud-native.
+- **Leads and grows engineers**: close to seven years leading teams, with multiple juniors grown into senior and management roles.
 
 ## Industry Experience
 
@@ -27,34 +26,33 @@ Full-stack engineering leader and founder with a strong record shipping producti
 
 *Scope: designs the delivery process and governance model; owns product and prioritization.*
 
-- Running "software factories": agent-driven delivery pipelines that carry engineering work from spec to shipped, with a human owning the product. Speed without fragility: production-quality output over long-horizon iteration, where agentic development typically falls down.
-- **Core thesis**: the same DevOps and project-management discipline that makes human teams work is the necessary and sufficient foundation for agent teams, encoded into the harness and context.
-- **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger. Harness-enforced SDLC (independent fresh-context reviewer, green CI, supply-chain scanning, deployment smoke check) so agents move fast without breaking things.
-- **Self-improving harness**: orchestration agents run, observe, and refine the process, converging on and shipping their own refinements.
-- Governance built into the system: every change passes an independent reviewer, automated testing, supply-chain security scanning, and a deployment verification step.
-- **Next.js, Vercel, Cloudflare** stack: robust tooling and feedback loops for strong agentic traction.
-- **Product ownership**: rapid prototyping, requirements gathering, defining and prioritizing the work, and verifying output against deployed previews on behalf of a non-technical user base.
+- Running a "software factory": an agent-driven delivery pipeline where coding agents implement and a human owns the product. Production-quality output sustained over long-horizon iteration, which is where agentic development typically falls down.
+- **Harness design**: the same DevOps and project-management discipline that makes human teams work, encoded into agent context and enforced by the harness. Every change passes an independent fresh-context reviewer, green CI, supply-chain scanning, and a deployment smoke check before it ships.
+- **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger for agent work intake, review, and status.
+- **Self-improving harness**: orchestration agents tasked with running, observing, and refining the process, converging on and shipping their own refinements within set bounds.
+- **Measured agent quality**: found a quality drop-off at around 700 lines per PR (measured as agent rework before review), capped PRs at 500 and later 600 lines, and held quality while completing long-horizon tasks. Roughly 490 commits and 470+ merged PRs in about 16 weeks, with median PR open-to-merge under an hour.
+- **Stack chosen for agents**: React, TypeScript, Next.js, Vercel, and Cloudflare, selected because their tooling and feedback loops give agents strong traction.
+- **Product ownership**: requirements gathering, prioritization, and verifying output against deployed previews on behalf of a non-technical user base.
 
 ### Co-founder & Fractional CTO
 #### Building Humane Technology | June 2025 - Present | Remote (part-time)
 
 *Scope: technical direction and roadmap for a public benefit corporation's engineering team.*
 
-- Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source AI evaluation framework built on AISI Inspect.
+- Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source LLM evaluation framework built on AISI Inspect that measures how models treat users under pressure.
 - Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
-- Designing and building a real-time evaluation classifier that scores AI behavior against those standards inline at sub-100ms.
-- Designing telemetry for operational visibility and evaluation feedback loops.
+- Specified, designed, and built a proof-of-concept real-time classifier that scores AI behavior against HumaneBench rubrics inline at sub-100ms, suitable for a production request path rather than batch-only evaluation.
+- Designing telemetry for operational visibility and evaluation feedback loops that inform system-prompt iteration and fine-tuning.
+- Built the team's publishing system: a deliberately simple Vue.js site with an agent context file so non-technical teammates could edit it, with full continuous delivery on Cloudflare (preview per PR, required review, auto-deploy on merge).
 - Curating the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.
 
 ### Co-founder & Software Engineer
 #### Alchemy Astrology (formerly Mirror Astrology) | Nov 2024 - Jul 2026 | Remote
 
-*Scope: co-founder; owned front-end and design delivery, including outside design contractors.*
+*Scope: co-founder; owned front-end and design delivery for an LLM-powered consumer subscription app.*
 
 - Owned the front end of a production consumer subscription app: Rails views, JavaScript, HTML/CSS, Tailwind, responsive UI/UX.
-- Led design and UX delivery: worked directly with freelance designers, translated Figma into the Rails framework.
-- Collaborated on the back end: Rails MVC, Stripe subscription billing, SSO authentication.
-- Partnered with co-founders on product direction, roadmap, and prioritization.
+- Collaborated on the back end (Rails MVC, Stripe subscription billing, SSO authentication) and partnered with co-founders on product direction and prioritization.
 
 ### Infrastructure Engineer
 #### Tobiko | Mar 2024 - Oct 2024 | Remote
@@ -63,46 +61,41 @@ Full-stack engineering leader and founder with a strong record shipping producti
 
 - Architected and implemented a cloud platform serving customer workloads at an early-stage startup. Python, Pulumi, GCP, GKE, Cloud Run, Helm.
 - Built CI/CD primitives the rest of engineering used: mono-repo conditional workflows, workload identity federation, continuous delivery.
-- Stood up a customer support and incident response workflow, and onboarded staff and customers onto it.
+- Owned build-vs-buy for support and incident response: selected incident.io, built a Slack support tool from scratch in Python, and onboarded staff and customers onto it.
 
 ### Engineering Manager / Principal Software Engineer
 #### Mavenlink / Kantata | Apr 2017 - Dec 2023 | San Francisco, CA
 
-*Scope: hired as a Senior Software Engineer, leading teams within a few months, and promoted to Principal for the infrastructure turnaround. Led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company. Partnered with product, security, and application groups on standards adopted organization-wide.*
+*Scope: hired as a Senior Software Engineer, leading teams within a few months, and promoted to Principal for the infrastructure turnaround. Led two engineering teams for close to seven years, including the shared infrastructure platform relied on by every engineering team in the company.*
 
-- **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on, and ran it as a service org with internal customers: consulted with teams on their workflows, triaged requests, and turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review.
-- Led the multi-year modernization of that platform from legacy infrastructure to cloud-native: the whole Rails monolith and its service ecosystem onto Kubernetes with Terraform and Ansible, the primary MySQL database onto RDS, and HashiCorp Vault stood up as an internal secrets service.
+- **Internal Infrastructure Platform** (4 yrs): Built a new team from scratch whose product was the platform the entire engineering org built on, and ran it as a service org with internal customers: turned recurring one-off asks into shared primitives and self-serve tooling so teams could ship without waiting on us. Owned the roadmap while staying hands-on in code, architecture, and review.
+- Led the multi-year modernization of that platform from legacy infrastructure to cloud-native: the whole Rails monolith and its service ecosystem onto Kubernetes with Terraform and Ansible, the primary MySQL database onto RDS, and HashiCorp Vault stood up as an internal secrets service. Cut on-call incidents from roughly weekly to roughly quarterly.
 - Rebuilt the team after mass departures: inherited a one-person DevOps team and rebuilt hiring, onboarding, documentation, and on-call practice into a stable team with strong developer relations.
-- Led a transition team that took ownership of the BI/analytics pipeline and migrated it to Kubernetes.
-- **M-Bridge Integration Platform** (2.5 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Google Cloud (GKE and Cloud SQL), including relational, document, and cache stores.
-- Shipped React features in the customer-facing product and worked in its Redux state management, alongside the platform and infrastructure work.
+- **M-Bridge Integration Platform** (2.5 yrs): Took over an unreliable agent-based integration platform connecting the SaaS to customer systems (Salesforce, HRIS, accounting) and led its rearchitecture into a dependable one. Cut error rates roughly 100x by instrumenting the system and fixing what the data pointed at. Executed a zero-downtime migration from Heroku to Google Cloud (GKE and Cloud SQL).
 - Grew multiple junior engineers into senior SWE and Engineering Manager roles; led interviewing and hiring. Top Performer Award, 2021.
 
 ### Lead Developer, Co-founder
 #### Pegg | 2014 - 2017 | San Francisco, CA
 
-- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android. Node.js backend, JavaScript frontend with Redux state management, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI.
-- Established the engineering workflow from nothing (pair programming, automated testing, CI, rapid deployment) and co-led product strategy, monetization, and launch planning.
+- Designed, architected, and built a cross-platform mobile app from scratch for iOS and Android: Node.js backend, JavaScript frontend with Redux, Firebase real-time systems, CI/CD to AWS/CloudFront via CircleCI. Established the engineering workflow from nothing and co-led product strategy and launch.
 
 ### Earlier Career (2001 - 2014)
 
-Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3 (OpenTest Pro, Turnbull & Asser e-commerce). Introduced automated testing and CI at OnForce. Architected the initial release of mynewsletterbuilder.com and built its dev team at JBA Network.
+Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3. Introduced automated testing and CI at OnForce. Architected the initial release of mynewsletterbuilder.com and built its dev team at JBA Network.
 
 ## Open Source Projects
 
-**Scan MCP** (2024 - Present): MCP server giving AI agents control of document scanners. Privacy-first architecture, device discovery, JSON Schema validation, stdio and HTTP transports. TypeScript/Node.js. [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
+**Scan MCP** (2024 - Present): MCP server giving AI agents control of document scanners, exposing scanner discovery and capture as tools an agent calls. Privacy-first architecture, JSON Schema validation, stdio and HTTP transports so it runs locally or remotely. TypeScript/Node.js. [github.com/jacksenechal/scan-mcp](https://github.com/jacksenechal/scan-mcp)
 
 **HumaneBench** (2024 - Present): Open-source LLM evaluation framework built on AISI Inspect. See Building Humane Technology above. Python. [github.com/buildinghumanetech/humanebench](https://github.com/buildinghumanetech/humanebench)
 
 ## Skills
 
-- **Languages & Frameworks**: Python, TypeScript, JavaScript, React, Vue, Node.js, Ruby on Rails, Bash, HTML, CSS, Tailwind.
-- **Front-end**: responsive design, UI/UX collaboration with designers, Figma handoff.
-- **Back-end & Data**: API design, microservices, distributed systems, PostgreSQL, MySQL, MongoDB, Redis, Stripe, SSO/auth.
-- **AI/LLM**: LLM evaluation frameworks (AISI Inspect), MCP servers, chatbot development, prompt engineering, context augmentation, agentic coding workflows.
-- **Infrastructure & CI/CD**: AWS, GCP, Kubernetes, Docker, Terraform, Pulumi, Ansible, Helm, GitHub Actions, CircleCI, infrastructure as code, automated testing, TDD.
-- **Product**: Roadmap ownership, product discovery with users, prioritization, scope negotiation, cross-functional collaboration.
-- **Leadership**: Team building, hiring, coaching and mentoring, roadmap ownership, org change management, stakeholder engagement.
+- **AI/LLM**: agentic coding systems and harness design, LLM evaluation (AISI Inspect, rubric-based scoring, real-time classification), MCP servers and tool use, multi-provider LLM integration, prompt engineering, context augmentation, Claude Code and orchestrated subagents, evaluation telemetry.
+- **Languages & Frameworks**: Python, TypeScript, JavaScript, Node.js, React, Vue, Next.js, Ruby on Rails, Bash.
+- **Infrastructure & CI/CD**: AWS, GCP, Kubernetes, Docker, Terraform, Pulumi, Ansible, Helm, GitHub Actions, CircleCI, Vercel, Cloudflare, infrastructure as code, automated testing, TDD, supply-chain security scanning.
+- **Back-end & Data**: API design, microservices, distributed systems, PostgreSQL, MySQL, MongoDB, Redis, observability and instrumentation.
+- **Product & Leadership**: roadmap ownership, product discovery with users, prioritization, team building, hiring, coaching and mentoring, stakeholder engagement.
 
 ## Education
 
@@ -120,14 +113,6 @@ Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3 (OpenTest
 "Jack has had quite a profound impact on my career. As a young engineer, I was fortunate enough to work with Jack as my coach. He served as a great mentor, helping me build both technical and professional skills and forming me into the engineer that I am today. Throughout our time together, Jack was caring and invested in helping me set goals and develop my career. His mentorship was a key factor in elevating myself from an incoming Junior Engineer to an Engineering Manager. Jack has a great curiosity and a strong set of technical capabilities that allow him to serve as a great example for others and a key contributor to any team!"
 
 *— Wesley Morlock, Engineering Director, Kantata*
-
-"With Jack, the more complex the problem, the more simple his solutions. Master Senechal is more than a mind to be reckoned with, he's an integrative capacity builder with a wide range of technological expertise. If there is anything that can be done through web development, Jack can figure out how to do it, and make it happen."
-
-*— Adam Apollo, Cofounder & CEO, Superluminal Systems*
-
-"Jack has a flair for finding better, faster, and more reliable ways to get things done. He advocates best practices, like unit testing, and has a deep knowledge of OO architecture. Jack thinks on his toes, and will always be there with the team at 4 a.m. if circumstance requires it."
-
-*— Greg Whitescarver, Founder, Mojave*
 
 "Jack is a fantastic engineer always ready to help solve problems and more importantly, teach you how to solve them. He guided me and my team through a bunch of challenging GitOps situations with patience and kindness, leading by example. Always diligent with his work, willing to roll up his sleeves to get things done and find creative solutions."
 
