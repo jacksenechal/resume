@@ -10,7 +10,7 @@ This repo maintains **only two kinds of thing**:
   published to HTML and PDF.
 - `role/*` branches — reusable **role archetypes** (generic role positionings, e.g.
   `role/technology-executive`, `role/engineering-manager`, `role/infrastructure-engineer`,
-  `role/engineering-lead`, `role/ai-tooling-engineer`). Archetypes are **generic**: no company
+  `role/engineering-lead`, `role/ai-tooling-engineer`, `role/ai-engineer`). Archetypes are **generic**: no company
   names, no per-application tailoring.
 
 Generated artifacts (`index.html`, `resume.pdf`) are kept up to date in commits that change
