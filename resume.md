@@ -13,7 +13,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 
 AI engineer building production LLM systems: agentic delivery pipelines, evaluation frameworks, and the tools agents call. Backed by a long record running the platforms and teams that production software depends on.
 
-- **Agentic systems in production**: designs and operates agent-driven delivery pipelines that take engineering work from spec to shipped, with the SDLC enforced in the harness rather than in a prompt.
+- **Agentic systems in production**: designs and operates agent-driven delivery pipelines that take engineering work from spec to shipped and enforce the SDLC in the harness itself.
 - **LLM evaluation**: originated and co-architected an open-source evaluation framework on AISI Inspect, and built a proof-of-concept real-time classifier that scores model behavior inline at sub-100ms.
 - **Tool use for agents**: ships an MCP server, and works daily on both sides of the tool-use boundary.
 - **Platform and reliability depth**: built the infrastructure platform an engineering org ran on, cut a production system's error rates roughly 100x, and led a multi-year migration to cloud-native.
@@ -30,7 +30,7 @@ AI engineer building production LLM systems: agentic delivery pipelines, evaluat
 - **Harness design**: the same DevOps and project-management discipline that makes human teams work, encoded into agent context and enforced by the harness. Every change passes an independent fresh-context reviewer, green CI, supply-chain scanning, and a deployment smoke check before it ships.
 - **GitHub as coordination substrate**: issues, PRs, and Projects as the single ledger for agent work intake, review, and status.
 - **Self-improving harness**: orchestration agents tasked with running, observing, and refining the process, converging on and shipping their own refinements within set bounds.
-- **Measured agent quality**: found a quality drop-off at around 700 lines per PR (measured as agent rework before review), capped PRs at 500 and later 600 lines, and held quality while completing long-horizon tasks. Roughly 490 commits and 470+ merged PRs in about 16 weeks, with median PR open-to-merge under an hour.
+- **Measured agent quality**: found a quality drop-off at around 700 lines per PR (measured as agent rework before review), capped PRs at 500 and later 600 lines, and held quality while completing long-horizon tasks.
 - **Stack chosen for agents**: React, TypeScript, Next.js, Vercel, and Cloudflare, selected because their tooling and feedback loops give agents strong traction.
 - **Product ownership**: requirements gathering, prioritization, and verifying output against deployed previews on behalf of a non-technical user base.
 
@@ -41,7 +41,7 @@ AI engineer building production LLM systems: agentic delivery pipelines, evaluat
 
 - Originated and co-architected [HumaneBench.ai](https://humanebench.ai), an open-source LLM evaluation framework built on AISI Inspect that measures how models treat users under pressure.
 - Fractional CTO to the team that built and maintains it, shaping architecture, scoring design, multi-provider support, documentation, and positioning.
-- Specified, designed, and built a proof-of-concept real-time classifier that scores AI behavior against HumaneBench rubrics inline at sub-100ms, suitable for a production request path rather than batch-only evaluation.
+- Specified, designed, and built a proof-of-concept real-time classifier that scores AI behavior against HumaneBench rubrics inline at sub-100ms, fast enough to sit in a production request path.
 - Designing telemetry for operational visibility and evaluation feedback loops that inform system-prompt iteration and fine-tuning.
 - Built the team's publishing system: a deliberately simple Vue.js site with an agent context file so non-technical teammates could edit it, with full continuous delivery on Cloudflare (preview per PR, required review, auto-deploy on merge).
 - Curating the technical roadmap: production monitoring, multi-turn evaluation, adoption maturity models.

@@ -83,8 +83,7 @@ depends on.</p>
 <ul>
 <li><strong>Agentic systems in production</strong>: designs and operates
 agent-driven delivery pipelines that take engineering work from spec to
-shipped, with the SDLC enforced in the harness rather than in a
-prompt.</li>
+shipped and enforce the SDLC in the harness itself.</li>
 <li><strong>LLM evaluation</strong>: originated and co-architected an
 open-source evaluation framework on AISI Inspect, and built a
 proof-of-concept real-time classifier that scores model behavior inline
@@ -125,8 +124,7 @@ shipping their own refinements within set bounds.</li>
 <li><strong>Measured agent quality</strong>: found a quality drop-off at
 around 700 lines per PR (measured as agent rework before review), capped
 PRs at 500 and later 600 lines, and held quality while completing
-long-horizon tasks. Roughly 490 commits and 470+ merged PRs in about 16
-weeks, with median PR open-to-merge under an hour.</li>
+long-horizon tasks.</li>
 <li><strong>Stack chosen for agents</strong>: React, TypeScript,
 Next.js, Vercel, and Cloudflare, selected because their tooling and
 feedback loops give agents strong traction.</li>
@@ -150,8 +148,7 @@ architecture, scoring design, multi-provider support, documentation, and
 positioning.</li>
 <li>Specified, designed, and built a proof-of-concept real-time
 classifier that scores AI behavior against HumaneBench rubrics inline at
-sub-100ms, suitable for a production request path rather than batch-only
-evaluation.</li>
+sub-100ms, fast enough to sit in a production request path.</li>
 <li>Designing telemetry for operational visibility and evaluation
 feedback loops that inform system-prompt iteration and fine-tuning.</li>
 <li>Built the team’s publishing system: a deliberately simple Vue.js
