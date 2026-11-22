@@ -14,7 +14,7 @@ LinkedIn: [linkedin.com/in/jacksenechal](https://linkedin.com/in/jacksenechal)
 AI engineer building production LLM systems: agentic delivery pipelines, evaluation frameworks, and the tools agents call. Backed by a long record running the platforms and teams that production software depends on.
 
 - **Agentic systems in production**: designs and operates agent-driven delivery pipelines that take engineering work from spec to shipped, with the SDLC enforced in the harness rather than in a prompt.
-- **LLM evaluation**: originated and co-architected an open-source evaluation framework on AISI Inspect, and built a real-time classifier that scores model behavior inline at sub-100ms.
+- **LLM evaluation**: originated and co-architected an open-source evaluation framework on AISI Inspect, and built a proof-of-concept real-time classifier that scores model behavior inline at sub-100ms.
 - **Tool use for agents**: ships an MCP server, and works daily on both sides of the tool-use boundary.
 - **Platform and reliability depth**: built the infrastructure platform an engineering org ran on, cut a production system's error rates roughly 100x, and led a multi-year migration to cloud-native.
 - **Leads and grows engineers**: close to seven years leading teams, with multiple juniors grown into senior and management roles.
@@ -91,7 +91,7 @@ Full-stack consulting and lead roles in Ruby on Rails, Node.js, and D3. Introduc
 
 ## Skills
 
-- **AI/LLM**: agentic coding systems and harness design, LLM evaluation (AISI Inspect, rubric-based scoring, real-time classification), MCP servers and tool use, multi-provider LLM integration, prompt engineering, context augmentation, Claude Code and orchestrated subagents, evaluation telemetry.
+- **AI/LLM**: agentic coding systems and harness design, LLM evaluation (AISI Inspect, rubric-based scoring, real-time classification), MCP servers and tool use, multi-provider evaluation design, prompt engineering, context augmentation, Claude Code and orchestrated subagents, evaluation telemetry.
 - **Languages & Frameworks**: Python, TypeScript, JavaScript, Node.js, React, Vue, Next.js, Ruby on Rails, Bash.
 - **Infrastructure & CI/CD**: AWS, GCP, Kubernetes, Docker, Terraform, Pulumi, Ansible, Helm, GitHub Actions, CircleCI, Vercel, Cloudflare, infrastructure as code, automated testing, TDD, supply-chain security scanning.
 - **Back-end & Data**: API design, microservices, distributed systems, PostgreSQL, MySQL, MongoDB, Redis, observability and instrumentation.
